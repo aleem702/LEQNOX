@@ -47,7 +47,7 @@
         "buttons_k9izFg": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Now",
+            "button_label_1": "Shop Now - Feel the Uniqueness",
             "button_link_1": "shopify://products/ultimate-bouncing-joy-ball™",
             "button_label_1_size": 14,
             "button_label_1_size_mobile": 12,
@@ -217,8 +217,8 @@
         "comparison_table_content_HJKENH": {
           "type": "_comparison-table-content",
           "settings": {
-            "content_heading": "Unmatched Bounce Experience",
-            "body_content": "<p>Discover a playful companion that combines safety, fun, and fitness, encouraging active play while enhancing balance and creativity, setting the standard well above conventional toys.</p>",
+            "content_heading": "Unmatched Comfort. Engineered Quality",
+            "body_content": "<p>LEQNOX balaclavas are crafted from premium, skin-friendly materials designed for all-day comfort. Soft, breathable, and precision-engineered, each piece adapts to your body heat while maintaining a smooth, irritation-free fit. This is performance wear built for comfort — and elevated by innovation</p>",
             "content_alignment": "center",
             "heading_size": 40,
             "heading_mob_size": 25,
@@ -284,7 +284,7 @@
                 "comparison_table_row_RkKmf4": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Anti-Burst Safety",
+                    "benefit": "Premium heat-reactive fabric",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
@@ -298,7 +298,7 @@
                 "comparison_table_row_LP66XH": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Height-Adjustable",
+                    "benefit": "Ultra-soft, skin-safe materials",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
@@ -312,7 +312,7 @@
                 "comparison_table_row_UgaiJJ": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Highly Portable",
+                    "benefit": "Breathable, all-day comfort",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
@@ -326,7 +326,7 @@
                 "comparison_table_row_H4xrLR": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Engaging Colors",
+                    "benefit": "Precision tailoring for perfect fit",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
@@ -340,7 +340,7 @@
                 "comparison_table_row_q83zHz": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Boosts Confidence",
+                    "benefit": "Durable, high-quality construction",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
