@@ -15,7 +15,7 @@
         "heading_j6VgPc": {
           "type": "heading",
           "settings": {
-            "heading": "Ignite Active Play and Joyful Movement",
+            "heading": "Built for Cold. Styled for the Streets.",
             "size": 40,
             "mobile_font_size": 25,
             "color": "#ffffff",
@@ -31,7 +31,7 @@
         "text_BpPwbx": {
           "type": "text",
           "settings": {
-            "text": "Transforming energy into happiness",
+            "text": "Stay warm, stay sharp — wherever the weather takes you.",
             "size": 15,
             "size_mobile": 12,
             "color": "#ffffff",
@@ -73,7 +73,7 @@
         "image_height": "adapt",
         "image_or_content_first": "image",
         "enable_waves": true,
-        "shape_color": "#ffffff",
+        "shape_color": "#000000",
         "shape_height_desktop": 100,
         "shape_height_mobile": 47,
         "desktop_content_position": "middle-center",
@@ -85,10 +85,9 @@
     "image_with_text_NrYFbe": {
       "type": "image-with-text",
       "settings": {
-        "image": "shopify://shop_images/ChatGPT_Image_Dec_17_2025_02_12_52_PM.png",
         "image_radius": 9,
         "defer_loading_image": true,
-        "heading": "Transform Playtime Today",
+        "heading": "<strong>Style That Reacts to You</strong>",
         "text": "<p>Many children struggle to stay active and engaged in a fun way, leading to too much screen time. This innovative bouncing companion offers a lively solution that promotes physical fitness and imaginative play.</p>",
         "button_text": "",
         "button_link": "",
@@ -395,119 +394,6 @@
         "section_padding_bottom_desktop": 36
       }
     },
-    "borders_3nkwTk": {
-      "type": "borders",
-      "name": "t:sections.borders.name",
-      "settings": {
-        "shape": "waves",
-        "border_size": "60",
-        "flip_horizontal": false,
-        "flip_vertical": true,
-        "shape_color": "base-custom-color-2",
-        "enable_custom_shape_color": true,
-        "custom_shape_color": "#9b9a9c",
-        "background_color": "base-accent-1",
-        "padding_top": 10,
-        "padding_bottom": 10
-      }
-    },
-    "image_comparison_slider_y3wPPw": {
-      "type": "image-comparison-slider",
-      "blocks": {
-        "heading_xVYWke": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Exciting Results",
-            "size": 40,
-            "mobile_font_size": 28,
-            "color": "#000000",
-            "highlighted_color": "#000000",
-            "heading_use_gradient": true,
-            "heading_gradient_color": "",
-            "padding_top_desktop": 5,
-            "padding_bottom_desktop": 5,
-            "padding_top_mobile": 3,
-            "padding_bottom_mobile": 3
-          }
-        },
-        "text_NXFM34": {
-          "type": "text",
-          "settings": {
-            "text": "Discover the difference for yourself and see why our customers love the results.",
-            "size": 14,
-            "size_mobile": 14,
-            "color": "#666666",
-            "highlighted_color": "#000000",
-            "text_use_gradient": false,
-            "text_gradient_color": "",
-            "padding_top_desktop": 5,
-            "padding_bottom_desktop": 5,
-            "padding_top_mobile": 3,
-            "padding_bottom_mobile": 3
-          }
-        },
-        "buttons_rhA7qi": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify://products/ultimate-bouncing-joy-ball™",
-            "button_label_1_size": 14,
-            "button_label_1_size_mobile": 12,
-            "button_1_text_color": "#ffffff",
-            "button_1_background_color": "#000000",
-            "button_1_border_radius": 6,
-            "button_padding_vertical": 8,
-            "button_width_increase_desktop": 68,
-            "button_width_increase_mobile": 68,
-            "padding_top_desktop": 5,
-            "padding_bottom_desktop": 5,
-            "padding_top_mobile": 11,
-            "padding_bottom_mobile": 27
-          }
-        }
-      },
-      "block_order": [
-        "heading_xVYWke",
-        "text_NXFM34",
-        "buttons_rhA7qi"
-      ],
-      "name": "Before and after",
-      "settings": {
-        "before_image": "shopify://shop_images/ChatGPT_Image_Dec_18_2025_09_13_35_AM.png",
-        "after_image": "shopify://shop_images/chatgpt_after.png",
-        "image_height": 540,
-        "image_height_mobile": 300,
-        "enable_grayscale_before_image": true,
-        "before_label": "Before",
-        "after_label": "After",
-        "default_slider_position": 50,
-        "layout_desktop": "slider_second",
-        "layout_mobile": "slider_first_mobile",
-        "desktop_content_alignment": "center",
-        "mobile_content_alignment": "center",
-        "card_background_color": "#e9e8ea",
-        "card_border_radius": 6,
-        "labels_background_color": "#000000",
-        "labels_text_color": "#ffffff",
-        "labels_font_size": 14,
-        "labels_border_radius": 5,
-        "line_color": "#ffffff",
-        "line_width": 4,
-        "divider_icon_color": "#000000",
-        "divider_icon_size": 40,
-        "color_scheme": "accent-1",
-        "card_padding_top": 0,
-        "card_padding_right": 0,
-        "card_padding_bottom": 0,
-        "card_padding_left": 0,
-        "card_padding_top_mobile": 0,
-        "card_padding_right_mobile": 0,
-        "card_padding_bottom_mobile": 0,
-        "card_padding_left_mobile": 0,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
     "feature_icons_MMNaQM": {
       "type": "feature-icons",
       "blocks": {
@@ -518,10 +404,10 @@
             "title": "",
             "text": "<p>Worldwide Shipping</p>",
             "icon_heading_font_size": 24,
-            "icon_heading_color": "#000000",
-            "icon_bolded_heading_color": "#000000",
+            "icon_heading_color": "#ffffff",
+            "icon_bolded_heading_color": "#ffffff",
             "column_text_size": 15,
-            "column_text_color": "#000000",
+            "column_text_color": "#ffffff",
             "column_text_highlighted_color": "#000000",
             "custom_icon_color": "#000000"
           }
@@ -533,11 +419,11 @@
             "title": "",
             "text": "<p>24/7 Support</p>",
             "icon_heading_font_size": 24,
-            "icon_heading_color": "#000000",
-            "icon_bolded_heading_color": "#000000",
+            "icon_heading_color": "#ffffff",
+            "icon_bolded_heading_color": "#ffffff",
             "column_text_size": 15,
-            "column_text_color": "#000000",
-            "column_text_highlighted_color": "#000000",
+            "column_text_color": "#ffffff",
+            "column_text_highlighted_color": "#ffffff",
             "custom_icon_color": "#000000"
           }
         },
@@ -548,11 +434,11 @@
             "title": "",
             "text": "<p>Verified quality only</p>",
             "icon_heading_font_size": 24,
-            "icon_heading_color": "#000000",
-            "icon_bolded_heading_color": "#000000",
+            "icon_heading_color": "#ffffff",
+            "icon_bolded_heading_color": "#ffffff",
             "column_text_size": 15,
-            "column_text_color": "#000000",
-            "column_text_highlighted_color": "#000000",
+            "column_text_color": "#ffffff",
+            "column_text_highlighted_color": "#ffffff",
             "custom_icon_color": "#000000"
           }
         },
@@ -563,11 +449,11 @@
             "title": "",
             "text": "<p>Hassle-free returns</p>",
             "icon_heading_font_size": 24,
-            "icon_heading_color": "#000000",
-            "icon_bolded_heading_color": "#000000",
+            "icon_heading_color": "#ffffff",
+            "icon_bolded_heading_color": "#ffffff",
             "column_text_size": 15,
-            "column_text_color": "#000000",
-            "column_text_highlighted_color": "#000000",
+            "column_text_color": "#ffffff",
+            "column_text_highlighted_color": "#ffffff",
             "custom_icon_color": "#000000"
           }
         }
@@ -605,22 +491,6 @@
         "padding_top": 24,
         "padding_bottom": 24
       }
-    },
-    "borders_mEeNVn": {
-      "type": "borders",
-      "name": "t:sections.borders.name",
-      "settings": {
-        "shape": "waves",
-        "border_size": "60",
-        "flip_horizontal": true,
-        "flip_vertical": false,
-        "shape_color": "base-accent-2",
-        "enable_custom_shape_color": true,
-        "custom_shape_color": "#9b9a9c",
-        "background_color": "base-accent-1",
-        "padding_top": 10,
-        "padding_bottom": 10
-      }
     }
   },
   "order": [
@@ -629,9 +499,6 @@
     "benefits_cards_AHFLcL",
     "borders_TanT6h",
     "comparison_table_zM4Ngh",
-    "borders_3nkwTk",
-    "image_comparison_slider_y3wPPw",
-    "feature_icons_MMNaQM",
-    "borders_mEeNVn"
+    "feature_icons_MMNaQM"
   ]
 }
