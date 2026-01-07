@@ -1,0 +1,117 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_p7FBAa": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free shipping on orders over $50 | Fast worldwide delivery",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_p7FBAa"
+      ],
+      "disabled": true,
+      "settings": {
+        "background_color": "#1e1e1e",
+        "text_color": "#ffffff",
+        "autoplay_delay": 5,
+        "transition_speed": 1000,
+        "font_size": 16,
+        "mobile_font_size": 14,
+        "font_weight": "normal",
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
+    },
+    "countdown_time_URNgka": {
+      "type": "countdown-time",
+      "name": "Countdown Timer",
+      "settings": {
+        "title": "LIMITED TIME",
+        "start_time": "",
+        "end_time": "2025-11-15",
+        "end_action": "show_message",
+        "end_message": "This offer has ended.",
+        "show_days": true,
+        "show_hours": true,
+        "show_minutes": true,
+        "show_seconds": true,
+        "font_size_text": 12,
+        "font_size_text_mobile": 10,
+        "background_color": "#1d1a2d",
+        "background_color_use_gradient": false,
+        "background_color_gradient": "",
+        "text_color": "#ffffff",
+        "text_color_end_timer": "#ff6b6b",
+        "padding_top": 8,
+        "padding_bottom": 8,
+        "padding_left": 20,
+        "padding_right": 20
+      }
+    },
+    "countdown_time_PYWz64": {
+      "type": "countdown-time",
+      "name": "t:sections.countdown-time.presets.name",
+      "settings": {
+        "title": "GET A LIMITED SPECIAL OFF AT CHECKOUT",
+        "start_time": "2025-12-25",
+        "end_time": "2026-1-1",
+        "end_action": "show_message",
+        "end_message": "This offer has ended.",
+        "show_days": true,
+        "show_hours": true,
+        "show_minutes": true,
+        "show_seconds": false,
+        "font_size_text": 14,
+        "font_size_text_mobile": 13,
+        "background_color": "#1d1a2d",
+        "background_color_use_gradient": false,
+        "background_color_gradient": "linear-gradient(180deg, rgba(251, 51, 166, 1), rgba(127, 72, 176, 1) 50%, rgba(48, 145, 211, 1) 100%)",
+        "text_color": "#ffffff",
+        "text_color_end_timer": "#ff6b6b",
+        "padding_top": 8,
+        "padding_bottom": 8,
+        "padding_left": 20,
+        "padding_right": 20
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "sticky_header_type": "reduce-logo-size",
+        "show_line_separator": true,
+        "remove_search": true,
+        "logo_position": "middle-center",
+        "menu": "main-menu",
+        "secondary_menu": "",
+        "mobile_logo_position": "center",
+        "menu_item_color": "#ffffff",
+        "menu_item_font_size_desktop": 14,
+        "color_scheme": "accent-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "countdown_time_URNgka",
+    "countdown_time_PYWz64",
+    "header"
+  ]
+}
