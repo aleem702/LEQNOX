@@ -48,7 +48,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now - Feel the Uniqueness",
-            "button_link_1": "shopify://products/ultimate-bouncing-joy-ball™",
+            "button_link_1": "shopify://collections/all",
             "button_label_1_size": 14,
             "button_label_1_size_mobile": 12,
             "button_1_text_color": "#ffffff",
@@ -373,7 +373,7 @@
       ],
       "name": "Comparison table",
       "settings": {
-        "button_label": "Shop Now",
+        "button_label": "Shop Now - Experience Yourself",
         "link": "shopify://products/ultimate-bouncing-joy-ball™",
         "button_text_size": 12,
         "button_text_color": "#ffffff",
