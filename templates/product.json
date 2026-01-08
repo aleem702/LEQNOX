@@ -620,25 +620,25 @@
         "text_bhKVK4": {
           "type": "text",
           "settings": {
-            "title": "Safe Indoor Fun"
+            "title": "Breathable Comfort"
           }
         },
         "text_WjTjtc": {
           "type": "text",
           "settings": {
-            "title": "Durable & Long-Lasting"
+            "title": "Lightweight Performance"
           }
         },
         "text_hfPTxT": {
           "type": "text",
           "settings": {
-            "title": "Encourages Active Play"
+            "title": "All-Weather Protection"
           }
         },
         "text_PnmK77": {
           "type": "text",
           "settings": {
-            "title": "Engaging Colorful Design"
+            "title": "Heat-Reactive Technology"
           }
         }
       },
@@ -657,133 +657,6 @@
         "color_scheme": "accent-3",
         "padding_top": 8,
         "padding_bottom": 8
-      }
-    },
-    "image_with_text_jxiKk3": {
-      "type": "image-with-text",
-      "settings": {
-        "image_radius": 6,
-        "defer_loading_image": true,
-        "heading": "Ignite Your Child's Active Adventure",
-        "text": "<p>Discover the perfect solution for keeping your child active and engaged while having fun. This bouncing companion ensures laughter, fitness, and endless imaginative play.</p>",
-        "button_text": "",
-        "button_link": "",
-        "layout": "text_first",
-        "height": "medium",
-        "desktop_content_alignment": "left",
-        "grid_border_radius": 6,
-        "section_padding_left_padding": 24,
-        "section_padding_right_padding": 12,
-        "section_padding_bottom": 12,
-        "section_padding_top": 12,
-        "desktop_font_size": 35,
-        "mobile_font_size": 18,
-        "heading_font_weight": "700",
-        "heading_color": "#000000",
-        "heading_use_gradient": false,
-        "heading_gradient_color": "",
-        "heading_highlighted_color": "#000000",
-        "font_size": 14,
-        "body_color": "#000000",
-        "body_highlighted_color": "#000000",
-        "section_color_scheme": "accent-1",
-        "grid_background_color": "#e9e8ea",
-        "card_use_gradient": false,
-        "card_gradient": "",
-        "benefit_1_text": "Boosts confidence and resilience",
-        "benefit_1_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 24 24\" height=\"24px\" viewbox=\"0 0 24 24\" width=\"24px\" fill=\"#e3e3e3\"><g><rect fill=\"none\" height=\"24\" width=\"24\"></rect></g><g><path d=\"M23,12l-2.44-2.79l0.34-3.69l-3.61-0.82L15.4,1.5L12,2.96L8.6,1.5L6.71,4.69L3.1,5.5L3.44,9.2L1,12l2.44,2.79l-0.34,3.7 l3.61,0.82L8.6,22.5l3.4-1.47l3.4,1.46l1.89-3.19l3.61-0.82l-0.34-3.69L23,12z M10.09,16.72l-3.8-3.81l1.48-1.48l2.32,2.33 l5.85-5.87l1.48,1.48L10.09,16.72z\"></path></g></svg>",
-        "benefit_2_text": "Enhances coordination and balance",
-        "benefit_2_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 24 24\" height=\"24px\" viewbox=\"0 0 24 24\" width=\"24px\" fill=\"#e3e3e3\"><g><rect fill=\"none\" height=\"24\" width=\"24\"></rect></g><g><path d=\"M23,12l-2.44-2.79l0.34-3.69l-3.61-0.82L15.4,1.5L12,2.96L8.6,1.5L6.71,4.69L3.1,5.5L3.44,9.2L1,12l2.44,2.79l-0.34,3.7 l3.61,0.82L8.6,22.5l3.4-1.47l3.4,1.46l1.89-3.19l3.61-0.82l-0.34-3.69L23,12z M10.09,16.72l-3.8-3.81l1.48-1.48l2.32,2.33 l5.85-5.87l1.48,1.48L10.09,16.72z\"></path></g></svg>",
-        "benefit_3_text": "Fosters social skills through play",
-        "benefit_3_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 24 24\" height=\"24px\" viewbox=\"0 0 24 24\" width=\"24px\" fill=\"#e3e3e3\"><g><rect fill=\"none\" height=\"24\" width=\"24\"></rect></g><g><path d=\"M23,12l-2.44-2.79l0.34-3.69l-3.61-0.82L15.4,1.5L12,2.96L8.6,1.5L6.71,4.69L3.1,5.5L3.44,9.2L1,12l2.44,2.79l-0.34,3.7 l3.61,0.82L8.6,22.5l3.4-1.47l3.4,1.46l1.89-3.19l3.61-0.82l-0.34-3.69L23,12z M10.09,16.72l-3.8-3.81l1.48-1.48l2.32,2.33 l5.85-5.87l1.48,1.48L10.09,16.72z\"></path></g></svg>",
-        "benefits_icon_size": 20,
-        "benefits_text_size": 14,
-        "benefits_gap": 12,
-        "benefits_icon_color": "#000000",
-        "benefits_text_color": "#000000",
-        "benefits_text_highlighted_color": "#000000",
-        "card_max_width": 1600,
-        "button_label_1_size": 14,
-        "button_label_1_size_mobile": 12,
-        "button_1_text_color": "#ffffff",
-        "button_1_background_color": "#000000",
-        "button_1_border_radius": 6,
-        "button_padding_vertical": 8,
-        "button_width_increase_desktop": 0,
-        "button_width_increase_mobile": 0,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "scrolling_images_UgXcTG": {
-      "type": "scrolling-images",
-      "blocks": {
-        "slide_HnEeeE": {
-          "type": "slide",
-          "settings": {
-            "link": ""
-          }
-        },
-        "slide_AdAJPm": {
-          "type": "slide",
-          "settings": {
-            "link": ""
-          }
-        },
-        "slide_Tkcitt": {
-          "type": "slide",
-          "settings": {
-            "link": ""
-          }
-        },
-        "slide_wFQKM9": {
-          "type": "slide",
-          "settings": {
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide_HnEeeE",
-        "slide_AdAJPm",
-        "slide_Tkcitt",
-        "slide_wFQKM9"
-      ],
-      "settings": {
-        "section_heading": "As seen on",
-        "heading_alignment": "center",
-        "font_size": 20,
-        "mobile_font_size": 16,
-        "header_color": "#000000",
-        "header_highlighted_color": "#000000",
-        "heading_use_gradient": false,
-        "heading_gradient_color": "",
-        "pause_hover": true,
-        "slider_direction": "right",
-        "scrolling_velocity": 2,
-        "slider_gap": 52,
-        "slider_gap_mobile": 15,
-        "icon_width": 120,
-        "icon_width_mobile": 250,
-        "image_border_radius": 8,
-        "color_scheme": "accent-1",
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "borders_3WVyHf": {
-      "type": "borders",
-      "settings": {
-        "shape": "waves",
-        "border_size": "60",
-        "flip_horizontal": true,
-        "flip_vertical": false,
-        "shape_color": "base-custom-color-2",
-        "enable_custom_shape_color": false,
-        "custom_shape_color": "#9b9a9c",
-        "background_color": "base-accent-1",
-        "padding_top": 10,
-        "padding_bottom": 10
       }
     },
     "rich_text_rPfaL7": {
@@ -1694,9 +1567,6 @@
   "order": [
     "main",
     "horizontal_scrolling_text_mgft6H",
-    "image_with_text_jxiKk3",
-    "scrolling_images_UgXcTG",
-    "borders_3WVyHf",
     "rich_text_rPfaL7",
     "reasons_GqYHik",
     "feature_icons_bDyMKj",
