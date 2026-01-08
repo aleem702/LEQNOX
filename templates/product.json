@@ -488,7 +488,7 @@
                   "name": "Collapsible Tab",
                   "settings": {
                     "heading": "Description",
-                    "content": "<p>Transform your child's playtime with the Ultimate Bouncing Joy Ball™, a safe and engaging way to enhance balance, coordination, and fitness while having endless fun! Perfect for ages 3 to 12, this bouncing delight turns energy into joyful movement.</p><ul><li>Anti-burst for maximum safety</li><li>Height-adjustable for lasting use</li><li>Portable design for on-the-go fun</li><li>Vibrant colors to spark imagination</li></ul><p></p>",
+                    "content": "<p>Upgrade your everyday protection with the <strong>LEQNOX Heat-Reactive Balaclava</strong> — engineered for comfort, performance, and modern style. Designed with advanced temperature-sensitive fabric, it subtly changes appearance when exposed to body heat while delivering reliable thermal protection.</p><p>Whether you're riding, training, exploring outdoors, or facing cold and wind, this balaclava offers breathable warmth without bulk. The soft, stretchable fabric ensures a snug yet pressure-free fit for all-day wear.</p><ul><li>Heat-reactive color-changing fabric.</li><li>Wind, dust & UV protection.</li><li>Lightweight, soft & stretchable material.</li><li>Multi-use design: full mask, open-face hood, or neck gaiter.</li><li>Thermal insulation with breathable comfort<br/></li></ul><p><br/><br/></p><p></p><p><br/><br/></p><p><br/></p><p></p>",
                     "collapsible_font_heading_size": 16,
                     "collapsible_font_size": 12,
                     "coll_heading_color": "#ffffff",
@@ -617,6 +617,12 @@
     "horizontal_scrolling_text_mgft6H": {
       "type": "horizontal-scrolling-text",
       "blocks": {
+        "text_rMpbNF": {
+          "type": "text",
+          "settings": {
+            "title": "Premium Fabric"
+          }
+        },
         "text_bhKVK4": {
           "type": "text",
           "settings": {
@@ -643,6 +649,7 @@
         }
       },
       "block_order": [
+        "text_rMpbNF",
         "text_bhKVK4",
         "text_WjTjtc",
         "text_hfPTxT",
