@@ -336,7 +336,7 @@
                   "settings": {
                     "inventory_threshold": 10,
                     "show_inventory_quantity": true,
-                    "inventory_status_color": "#1d1a2d",
+                    "inventory_status_color": "#ffffff",
                     "inventory_status_color_low": "#ee9441",
                     "inventory_status_color_in_stock": "#1b9139",
                     "stock_indicator_font_size": 12,
@@ -594,13 +594,13 @@
                   "name": "Collapsible Tab",
                   "settings": {
                     "heading": "Description",
-                    "content": "<p>Transform your child's playtime with the Ultimate Bouncing Joy Ball™, a safe and engaging way to enhance balance, coordination, and fitness while having endless fun! Perfect for ages 3 to 12, this bouncing delight turns energy into joyful movement.<ul><li>Anti-burst for maximum safety</li><li>Height-adjustable for lasting use</li><li>Portable design for on-the-go fun</li><li>Vibrant colors to spark imagination</li></ul></p>",
+                    "content": "<p>Transform your child's playtime with the Ultimate Bouncing Joy Ball™, a safe and engaging way to enhance balance, coordination, and fitness while having endless fun! Perfect for ages 3 to 12, this bouncing delight turns energy into joyful movement.</p><ul><li>Anti-burst for maximum safety</li><li>Height-adjustable for lasting use</li><li>Portable design for on-the-go fun</li><li>Vibrant colors to spark imagination</li></ul><p></p>",
                     "collapsible_font_heading_size": 16,
                     "collapsible_font_size": 12,
-                    "coll_heading_color": "#000000",
-                    "coll_heading_highlighted_color": "#000000",
-                    "coll_text_color": "#000000",
-                    "coll_text_highlighted_color": "#000000",
+                    "coll_heading_color": "#ffffff",
+                    "coll_heading_highlighted_color": "#ffffff",
+                    "coll_text_color": "#ffffff",
+                    "coll_text_highlighted_color": "#ffffff",
                     "collapsible_border_radius": 20
                   },
                   "blocks": {}
@@ -610,13 +610,13 @@
                   "name": "Collapsible Tab",
                   "settings": {
                     "heading": "Most Common Questions",
-                    "content": "<p><b>Question 1:</b> What age group is this bouncing ball suitable for?<br/><b>Answer 1:</b> This bouncing ball is ideal for energetic kids aged 3 to 12 years, making it a great choice for a wide range of young children.<br/><br/><b>Question 2:</b> Is the bouncing ball safe for indoor use?<br/><b>Answer 2:</b> Yes, the bouncing ball is crafted from high-quality, anti-burst materials that ensure safety during every leap, making it suitable for both indoor and outdoor play.<br/><br/><b>Question 3:</b> How does the height-adjustable handle work?<br/><b>Answer 3:</b> The height-adjustable handle can be easily modified to match your child's height, ensuring long-term usability and comfort as they grow.</p>",
+                    "content": "<p><strong>Question 1:</strong> What age group is this bouncing ball suitable for?<br/><strong>Answer 1:</strong> This bouncing ball is ideal for energetic kids aged 3 to 12 years, making it a great choice for a wide range of young children.<br/><br/><strong>Question 2:</strong> Is the bouncing ball safe for indoor use?<br/><strong>Answer 2:</strong> Yes, the bouncing ball is crafted from high-quality, anti-burst materials that ensure safety during every leap, making it suitable for both indoor and outdoor play.<br/><br/><strong>Question 3:</strong> How does the height-adjustable handle work?<br/><strong>Answer 3:</strong> The height-adjustable handle can be easily modified to match your child's height, ensuring long-term usability and comfort as they grow.</p>",
                     "collapsible_font_heading_size": 16,
                     "collapsible_font_size": 12,
-                    "coll_heading_color": "#000000",
-                    "coll_heading_highlighted_color": "#000000",
-                    "coll_text_color": "#000000",
-                    "coll_text_highlighted_color": "#000000",
+                    "coll_heading_color": "#ffffff",
+                    "coll_heading_highlighted_color": "#ffffff",
+                    "coll_text_color": "#ffffff",
+                    "coll_text_highlighted_color": "#ffffff",
                     "collapsible_border_radius": 20
                   },
                   "blocks": {}
@@ -629,10 +629,10 @@
                     "content": "<p>We offer Free Express Shipping on all orders! Please allow 1-2 Business Days for us to process and ship your order. Estimated Arrival Time: 7-12 business days.</p>",
                     "collapsible_font_heading_size": 16,
                     "collapsible_font_size": 12,
-                    "coll_heading_color": "#000000",
-                    "coll_heading_highlighted_color": "#000000",
-                    "coll_text_color": "#000000",
-                    "coll_text_highlighted_color": "#000000",
+                    "coll_heading_color": "#ffffff",
+                    "coll_heading_highlighted_color": "#ffffff",
+                    "coll_text_color": "#ffffff",
+                    "coll_text_highlighted_color": "#ffffff",
                     "collapsible_border_radius": 20
                   },
                   "blocks": {}
