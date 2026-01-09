@@ -666,96 +666,21 @@
         "padding_bottom": 8
       }
     },
-    "rich_text_rPfaL7": {
-      "type": "rich-text",
-      "blocks": {
-        "list-cards": {
-          "type": "_rich-text-list-cards",
-          "static": true,
-          "settings": {
-            "text_alignment": "center",
-            "cards_layout": "left",
-            "font_size": 14,
-            "color": "#ffffff",
-            "bg_color": "#ffffff",
-            "background_opacity": 27,
-            "border_color": "#ffffff",
-            "border_radius": 10,
-            "gap_between_cards": 8,
-            "padding_top": 0,
-            "padding_bottom": 0
-          },
-          "blocks": {
-            "rich_text_list_card_WDMVxF": {
-              "type": "_rich-text-list-card",
-              "name": "Rich text card",
-              "settings": {
-                "text": "<p>Enhances balance and coordination</p>"
-              },
-              "blocks": {}
-            },
-            "rich_text_list_card_PJtK9f": {
-              "type": "_rich-text-list-card",
-              "name": "Rich text card",
-              "settings": {
-                "text": "<p>Safe and durable design</p>"
-              },
-              "blocks": {}
-            },
-            "rich_text_list_card_KEeKPf": {
-              "type": "_rich-text-list-card",
-              "name": "Rich text card",
-              "settings": {
-                "text": "<p>Encourages active, imaginative play</p>"
-              },
-              "blocks": {}
-            },
-            "rich_text_list_card_ibmQHp": {
-              "type": "_rich-text-list-card",
-              "name": "Rich text card",
-              "settings": {
-                "text": "<p>Supports social interaction skills</p>"
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "rich_text_list_card_WDMVxF",
-            "rich_text_list_card_PJtK9f",
-            "rich_text_list_card_KEeKPf",
-            "rich_text_list_card_ibmQHp"
-          ]
-        }
-      },
+    "video_wLm7Hz": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
       "settings": {
-        "heading": "Transformative Fun For Active Kids",
-        "text": "<p>Many children struggle to stay active and engaged without screens, leading to frustration for parents. This dynamic bouncing ball offers an entertaining solution that promotes physical health and creativity.</p>",
-        "content_alignment": "center",
-        "text_max_width_percentage": 80,
-        "text_max_width_percentage_mobile": 100,
-        "heading_font_size": 35,
-        "mobile_heading_font_size": 25,
+        "heading": "Video",
+        "heading_size": 40,
+        "heading_mob_size": 28,
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
         "heading_color": "#ffffff",
-        "heading_highlighted_color": "#ffffff",
-        "heading_use_gradient": false,
-        "heading_gradient_color": "",
-        "body_font_size": 16,
-        "body_color": "#ffffff",
-        "body_highlighted_color": "#ffffff",
+        "bolded_heading_color": "#ffffff",
         "color_scheme": "accent-3",
-        "button_label": "Shop Now",
-        "button_link": "#main-product-top",
-        "button_font_size": 14,
-        "button_font_size_mobile": 12,
-        "button_color": "#ffffff",
-        "button_bg_color": "#1d1a2d",
-        "button_border_radius": 6,
-        "button_padding_vertical": 0,
-        "button_width_increase_desktop": 52,
-        "button_padding_vertical_mobile": 8,
-        "button_width_increase_mobile": 80,
         "padding_top": 24,
-        "padding_bottom": 62
+        "padding_bottom": 24
       }
     },
     "reasons_GqYHik": {
@@ -768,10 +693,10 @@
             "heading_tag": "h3",
             "heading_size": 40,
             "reasons_mob_heading_size": 28,
-            "heading_color": "#000000",
-            "bolded_heading_color": "#000000",
+            "heading_color": "#ffffff",
+            "bolded_heading_color": "#ffffff",
             "heading_use_gradient": true,
-            "heading_gradient_color": "linear-gradient(180deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
+            "heading_gradient_color": "linear-gradient(180deg, rgba(251, 51, 164, 1), rgba(96, 77, 188, 1) 100%)",
             "headig_padding_top": 0,
             "headig_padding_bottom": 0,
             "text": "Delivering quality and consistency that customers rely on.",
@@ -1440,7 +1365,7 @@
   "order": [
     "main",
     "horizontal_scrolling_text_mgft6H",
-    "rich_text_rPfaL7",
+    "video_wLm7Hz",
     "reasons_GqYHik",
     "feature_icons_bDyMKj",
     "comparison_table_jRgDad",
