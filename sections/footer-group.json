@@ -50,7 +50,7 @@
             "heading": "REACH US:",
             "address": "",
             "tel": "",
-            "email": "toyciousstore@gmail.com",
+            "email": "leqnoxcare@gmail.com",
             "text_color": "#ffffff",
             "heading_color": "#ffffff"
           }
@@ -62,9 +62,9 @@
         "contact_list_iT4LHE"
       ],
       "settings": {
-        "branding_text": "Powered By Atlas",
-        "enable_country_selector": true,
-        "enable_language_selector": true,
+        "branding_text": "",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
         "show_policy": false,
         "enable_payment_icons": true,
         "policy_link_size": 12,
@@ -88,7 +88,7 @@
         "menu_arrow_svg_color": "#ffffff",
         "color_scheme": "accent-2",
         "footer_use_custom_background": true,
-        "footer_custom_background_color": "#9b9a9c",
+        "footer_custom_background_color": "#383838",
         "footer_custom_background_color_opacity": 100,
         "footer_use_gradient_background": false,
         "footer_gradient_background_color": "linear-gradient(180deg, rgba(251, 51, 166, 1), rgba(127, 72, 176, 1) 50%, rgba(48, 145, 211, 1) 100%)",

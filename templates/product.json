@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -109,12 +118,12 @@
                   "type": "_rating_content",
                   "static": true,
                   "settings": {
-                    "rating_text": "<p><strong>{rating_value}</strong> | <strong>{num}</strong> Customers </p>",
+                    "rating_text": "<p><strong>4.8</strong> | 3768 Customers </p>",
                     "product_rating": 4.8,
                     "rating_text_font_size": 13,
                     "rating_text_mob_font_size": 12,
                     "rating_text_color": "#ffffff",
-                    "rating_container_background": "rgb(155,154,156)",
+                    "rating_container_background": "#000000",
                     "is_rating_container_gradient": false,
                     "rating_container_gradient_color": "linear-gradient(160deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
                     "rating_container_border_radius": 2,
@@ -138,23 +147,10 @@
                 "mobile_title_alignment": "left",
                 "font_size": 28,
                 "mobile_font_size": 22,
-                "title_color": "#000000",
+                "title_color": "#ffffff",
                 "uppercase_title": false,
                 "padding_top": 4,
                 "padding_bottom": 2,
-                "padding_top_mobile": 0,
-                "padding_bottom_mobile": 0
-              },
-              "blocks": {}
-            },
-            "text_DHFDL8": {
-              "type": "text",
-              "name": "Text Block",
-              "settings": {
-                "text": "NEW: This year's **Active Play** Champion",
-                "font_size": 12,
-                "padding_top": 0,
-                "padding_bottom": 0,
                 "padding_top_mobile": 0,
                 "padding_bottom_mobile": 0
               },
@@ -167,7 +163,7 @@
                 "layout": "price_first",
                 "price_gap": 8,
                 "regular_font_size": 22,
-                "main_price_color": "#000000",
+                "main_price_color": "#ffffff",
                 "compare_price_font_size": 18,
                 "compare_price_color": "#000000",
                 "padding_top": 6,
@@ -207,7 +203,7 @@
                 "column_gap": 8,
                 "pill_background": "#ffffff",
                 "pill_text_color": "#000000",
-                "pill_border_color": "rgb(155,154,156)",
+                "pill_border_color": "#9b9a9c",
                 "pill_border_radius": 40,
                 "pill_font_size": 12,
                 "pill_font_weight": 500,
@@ -217,7 +213,7 @@
                 "text_color": "#136ea2",
                 "text_highlighted_color": "#136ea2",
                 "emoji_size": 18,
-                "emoji_color": "rgb(155,154,156)",
+                "emoji_color": "#9b9a9c",
                 "padding_top": 6,
                 "padding_bottom": 6,
                 "padding_top_mobile": 8,
@@ -228,34 +224,30 @@
                   "type": "_bullet-point-benefits-list",
                   "static": true,
                   "settings": {
-                    "point_1": "Safety Assurance",
-                    "icon_1": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"><\/path><\/svg>",
-                    "bullet_image_1": "shopify:\/\/shop_images\/Group_166635.png",
-                    "point_2": "Endless Fun",
-                    "icon_2": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"><\/path><\/svg>",
-                    "bullet_image_2": "shopify:\/\/shop_images\/Group_166635.png",
-                    "point_3": "Boosts Fitness",
-                    "icon_3": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"><\/path><\/svg>",
-                    "bullet_image_3": "shopify:\/\/shop_images\/Group_166635.png",
-                    "point_4": "Social Play",
-                    "icon_4": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"><\/path><\/svg>",
-                    "bullet_image_4": "shopify:\/\/shop_images\/Group_166635.png",
+                    "point_1": "Heat-Reactive Technology",
+                    "icon_1": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
+                    "point_2": "Breathable Comfort",
+                    "icon_2": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
+                    "point_3": "All-Weather Protection",
+                    "icon_3": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
+                    "point_4": "Lightweight Performance",
+                    "icon_4": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
                     "point_5": "",
-                    "icon_5": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"><\/path><\/svg>",
+                    "icon_5": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
                     "point_6": "",
-                    "icon_6": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"><\/path><\/svg>",
+                    "icon_6": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
                     "point_7": "",
-                    "icon_7": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"><\/path><\/svg>",
+                    "icon_7": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
                     "point_8": "",
-                    "icon_8": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"><\/path><\/svg>",
+                    "icon_8": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
                     "point_9": "",
-                    "icon_9": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"><\/path><\/svg>",
+                    "icon_9": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
                     "point_10": "",
-                    "icon_10": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"><\/path><\/svg>",
+                    "icon_10": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
                     "point_11": "",
-                    "icon_11": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"><\/path><\/svg>",
+                    "icon_11": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
                     "point_12": "",
-                    "icon_12": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"><\/path><\/svg>"
+                    "icon_12": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>"
                   },
                   "blocks": {}
                 }
@@ -319,9 +311,9 @@
                   "static": true,
                   "settings": {
                     "quantity_label_font_size": 14,
-                    "quantity_label_color": "#000000",
+                    "quantity_label_color": "#e9e8ea",
                     "subtotal_font_size": 12,
-                    "subtotal_color": "#666666"
+                    "subtotal_color": "#e9e8ea"
                   },
                   "blocks": {}
                 },
@@ -330,8 +322,8 @@
                   "static": true,
                   "settings": {
                     "inventory_threshold": 10,
-                    "show_inventory_quantity": true,
-                    "inventory_status_color": "#1d1a2d",
+                    "show_inventory_quantity": false,
+                    "inventory_status_color": "#ffffff",
                     "inventory_status_color_low": "#ee9441",
                     "inventory_status_color_in_stock": "#1b9139",
                     "stock_indicator_font_size": 12,
@@ -359,9 +351,9 @@
                   "settings": {
                     "add_to_cart_text": "Add to cart",
                     "button_font_size": 14,
-                    "uppercase_text": false,
+                    "uppercase_text": true,
                     "text_color": "#ffffff",
-                    "bg_color": "#1d1a2d",
+                    "bg_color": "#1e1e1e",
                     "border_radius": 6
                   },
                   "blocks": {}
@@ -391,8 +383,8 @@
               "type": "social_proof",
               "name": "Social Proof",
               "settings": {
-                "purchase_text": "Sarah and 438 people purchased",
-                "text_color": "#1d1a2d",
+                "purchase_text": "Trusted by 3,000+ Customers",
+                "text_color": "#ffffff",
                 "font_size": 12,
                 "padding_top": 0,
                 "padding_bottom": 0,
@@ -461,16 +453,16 @@
               "name": "Icon Highlights",
               "settings": {
                 "heading_1": "Safe Payment",
-                "icon_1": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewBox=\"0 -960 960 960\" width=\"24px\" fill=\"#e3e3e3\"><path d=\"M444-200h70v-50q50-9 86-39t36-89q0-42-24-77t-96-61q-60-20-83-35t-23-41q0-26 18.5-41t53.5-15q32 0 50 15.5t26 38.5l64-26q-11-35-40.5-61T516-710v-50h-70v50q-50 11-78 44t-28 74q0 47 27.5 76t86.5 50q63 23 87.5 41t24.5 47q0 33-23.5 48.5T486-314q-33 0-58.5-20.5T390-396l-66 26q14 48 43.5 77.5T444-252v52Zm36 120q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"\/><\/svg>",
-                "image_1": "shopify:\/\/shop_images\/Group_165530.png",
+                "icon_1": "",
+                "image_1": "shopify://shop_images/assured_workload_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
                 "heading_2": "Free Shipping",
-                "icon_2": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"M852-212 732-332l56-56 120 120-56 56ZM708-692l-56-56 120-120 56 56-120 120Zm-456 0L132-812l56-56 120 120-56 56ZM108-212l-56-56 120-120 56 56-120 120Zm246-75 126-76 126 77-33-144 111-96-146-13-58-136-58 135-146 13 111 97-33 143ZM233-120l65-281L80-590l288-25 112-265 112 265 288 25-218 189 65 281-247-149-247 149Zm247-361Z\"><\/path><\/svg>",
-                "image_2": "shopify:\/\/shop_images\/elements_55472c7a-c60e-467e-a8e1-9714f2de2375.png",
-                "heading_3": "Fast Delivery",
-                "icon_3": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewBox=\"0 -960 960 960\" width=\"24px\" fill=\"#e3e3e3\"><path d=\"M280-160q-50 0-85-35t-35-85H60l18-80h113q17-19 40-29.5t49-10.5q26 0 49 10.5t40 29.5h167l84-360H182l4-17q6-28 27.5-45.5T264-800h456l-37 160h117l120 160-40 200h-80q0 50-35 85t-85 35q-50 0-85-35t-35-85H400q0 50-35 85t-85 35Zm357-280h193l4-21-74-99h-95l-28 120Zm-19-273 2-7-84 360 2-7 34-146 46-200ZM20-427l20-80h220l-20 80H20Zm80-146 20-80h260l-20 80H100Zm180 333q17 0 28.5-11.5T320-280q0-17-11.5-28.5T280-320q-17 0-28.5 11.5T240-280q0 17 11.5 28.5T280-240Zm400 0q17 0 28.5-11.5T720-280q0-17-11.5-28.5T680-320q-17 0-28.5 11.5T640-280q0 17 11.5 28.5T680-240Z\"\/><\/svg>",
-                "image_3": "shopify:\/\/shop_images\/elements_1.png",
+                "icon_2": "",
+                "image_2": "shopify://shop_images/delivery_truck_bolt_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
+                "heading_3": "24/7 Support",
+                "icon_3": "",
+                "image_3": "shopify://shop_images/support_agent_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
                 "layout_direction": "horizontal",
-                "text_color": "#000000",
+                "text_color": "#ffffff",
                 "font_size": 12,
                 "custom_icon_color": "#000000",
                 "icon_size": 18,
@@ -480,103 +472,6 @@
                 "padding_bottom_mobile": 10
               },
               "blocks": {}
-            },
-            "reviews_N963dq": {
-              "type": "reviews",
-              "name": "Product Reviews",
-              "settings": {
-                "show_review_count": true,
-                "reviewer_name_font_size": 14,
-                "location_font_size": 12,
-                "review_text_font_size": 12,
-                "reviews_text_color": "#ffffff",
-                "review_text_line_height": 23,
-                "review_count_font_size": 12,
-                "review_count_color": "#000000",
-                "review_card_background": "rgb(155,154,156)",
-                "enable_review_card_gradient_background": false,
-                "review_card_gradient_background": "linear-gradient(180deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
-                "review_divider_color": "#000000",
-                "dot_active_color": "#000000",
-                "dot_inactive_color": "#d9d9d9",
-                "star_size": 12,
-                "mini_review_stars_color": "#ffffff",
-                "review_card_border_radius": 6,
-                "review_card_padding_horizontal_desktop": 23,
-                "review_card_padding_vertical_desktop": 18,
-                "review_card_padding_horizontal_mobile": 18,
-                "review_card_padding_vertical_mobile": 12,
-                "stars_gap": 1,
-                "dots_gap": 4,
-                "review_card_gap": 18,
-                "dot_size": 8,
-                "padding_top": 10,
-                "padding_bottom": 10,
-                "padding_top_mobile": 10,
-                "padding_bottom_mobile": 10
-              },
-              "blocks": {
-                "reviews_item_list": {
-                  "type": "_reviews_item_list",
-                  "static": true,
-                  "settings": {
-                    "item_image_1": "",
-                    "item_author_1": "Sarah K.",
-                    "item_author_location_1": "Los Angeles",
-                    "item_text_1": "Insert review here",
-                    "item_rating_1": 5,
-                    "item_image_2": "",
-                    "item_author_2": "Sarah K.",
-                    "item_author_location_2": "Los Angeles",
-                    "item_text_2": "Insert review here",
-                    "item_rating_2": 5,
-                    "item_image_3": "",
-                    "item_author_3": "Sarah K.",
-                    "item_author_location_3": "Los Angeles",
-                    "item_text_3": "Insert review here",
-                    "item_rating_3": 5,
-                    "item_image_4": "",
-                    "item_author_4": "Sarah K.",
-                    "item_author_location_4": "Los Angeles",
-                    "item_text_4": "Insert review here",
-                    "item_rating_4": 5,
-                    "item_author_5": "",
-                    "item_author_location_5": "",
-                    "item_text_5": "",
-                    "item_rating_5": 5,
-                    "item_author_6": "",
-                    "item_author_location_6": "",
-                    "item_text_6": "",
-                    "item_rating_6": 5,
-                    "item_author_7": "",
-                    "item_author_location_7": "",
-                    "item_text_7": "",
-                    "item_rating_7": 5,
-                    "item_author_8": "",
-                    "item_author_location_8": "",
-                    "item_text_8": "",
-                    "item_rating_8": 5,
-                    "item_author_9": "",
-                    "item_author_location_9": "",
-                    "item_text_9": "",
-                    "item_rating_9": 5,
-                    "item_author_10": "",
-                    "item_author_location_10": "",
-                    "item_text_10": "",
-                    "item_rating_10": 5,
-                    "item_author_11": "",
-                    "item_author_location_11": "",
-                    "item_text_11": "",
-                    "item_rating_11": 5,
-                    "item_author_12": "",
-                    "item_author_location_12": "",
-                    "item_text_12": "",
-                    "item_rating_12": 5
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": []
             },
             "collapsible_tabs_e8Hyd8": {
               "type": "collapsible_tabs",
@@ -593,13 +488,13 @@
                   "name": "Collapsible Tab",
                   "settings": {
                     "heading": "Description",
-                    "content": "<p>Transform your child's playtime with the Ultimate Bouncing Joy Ball™, a safe and engaging way to enhance balance, coordination, and fitness while having endless fun! Perfect for ages 3 to 12, this bouncing delight turns energy into joyful movement.<ul><li>Anti-burst for maximum safety</li><li>Height-adjustable for lasting use</li><li>Portable design for on-the-go fun</li><li>Vibrant colors to spark imagination</li></ul></p>",
+                    "content": "<p>Upgrade your everyday protection with the <strong>LEQNOX Heat-Reactive Balaclava</strong> — engineered for comfort, performance, and modern style. Designed with advanced temperature-sensitive fabric, it subtly changes appearance when exposed to body heat while delivering reliable thermal protection.</p><p>Whether you're riding, training, exploring outdoors, or facing cold and wind, this balaclava offers breathable warmth without bulk. The soft, stretchable fabric ensures a snug yet pressure-free fit for all-day wear.</p><ul><li>Heat-reactive color-changing fabric.</li><li>Wind, dust & UV protection.</li><li>Lightweight, soft & stretchable material.</li><li>Multi-use design: full mask, open-face hood, or neck gaiter.</li><li>Thermal insulation with breathable comfort.</li></ul>",
                     "collapsible_font_heading_size": 16,
                     "collapsible_font_size": 12,
-                    "coll_heading_color": "#000000",
-                    "coll_heading_highlighted_color": "#000000",
-                    "coll_text_color": "#000000",
-                    "coll_text_highlighted_color": "#000000",
+                    "coll_heading_color": "#ffffff",
+                    "coll_heading_highlighted_color": "#ffffff",
+                    "coll_text_color": "#ffffff",
+                    "coll_text_highlighted_color": "#ffffff",
                     "collapsible_border_radius": 20
                   },
                   "blocks": {}
@@ -609,13 +504,13 @@
                   "name": "Collapsible Tab",
                   "settings": {
                     "heading": "Most Common Questions",
-                    "content": "<p><b>Question 1:</b> What age group is this bouncing ball suitable for?<br/><b>Answer 1:</b> This bouncing ball is ideal for energetic kids aged 3 to 12 years, making it a great choice for a wide range of young children.<br/><br/><b>Question 2:</b> Is the bouncing ball safe for indoor use?<br/><b>Answer 2:</b> Yes, the bouncing ball is crafted from high-quality, anti-burst materials that ensure safety during every leap, making it suitable for both indoor and outdoor play.<br/><br/><b>Question 3:</b> How does the height-adjustable handle work?<br/><b>Answer 3:</b> The height-adjustable handle can be easily modified to match your child's height, ensuring long-term usability and comfort as they grow.</p>",
+                    "content": "<p><strong>Question 1: What is a heat-reactive balaclava?</strong></p><p><strong>Answer:</strong> A heat-reactive balaclava uses temperature-sensitive fabric that subtly changes color when exposed to body heat, creating a dynamic look while still providing thermal protection.</p><p><strong>Question 2: Is this balaclava suitable for all seasons?</strong></p><p><strong>Answer:</strong> Yes. It is designed to offer warmth in cold conditions while remaining breathable in mild weather, making it suitable for year-round use during outdoor activities.<br/><br/><strong>Question 3: What activities is this balaclava best for?</strong></p><p><strong>Answer:</strong> It’s ideal for biking, motorcycling, hiking, skiing, workouts, tactical use, outdoor work, and daily cold-weather wear.</p><p><strong>Question 4: Is the fabric comfortable for long use?</strong></p><p><strong>Answer:</strong> Absolutely. The balaclava is made from soft, lightweight, and stretchable material that provides a snug fit without irritation or pressure, even during extended wear.</p><p><strong>Question 5: Can it be worn in different styles?</strong></p><p><strong>Answer:</strong> Yes. You can wear it as a full face mask, open-face hood, neck gaiter, or head cover—making it versatile for different conditions and preferences.<br/><br/><strong>Question 6: Is this one-size-fits-all?</strong></p><p><strong>Answer:</strong> The stretchable design fits most head sizes comfortably for both men and women.</p><p><strong>Question 7: How do I care for the balaclava?</strong></p><p><strong>Answer:</strong> Hand wash or machine wash on a gentle cycle with cold water. Air dry for best results and long-lasting performance.</p>",
                     "collapsible_font_heading_size": 16,
                     "collapsible_font_size": 12,
-                    "coll_heading_color": "#000000",
-                    "coll_heading_highlighted_color": "#000000",
-                    "coll_text_color": "#000000",
-                    "coll_text_highlighted_color": "#000000",
+                    "coll_heading_color": "#ffffff",
+                    "coll_heading_highlighted_color": "#ffffff",
+                    "coll_text_color": "#ffffff",
+                    "coll_text_highlighted_color": "#ffffff",
                     "collapsible_border_radius": 20
                   },
                   "blocks": {}
@@ -628,10 +523,10 @@
                     "content": "<p>We offer Free Express Shipping on all orders! Please allow 1-2 Business Days for us to process and ship your order. Estimated Arrival Time: 7-12 business days.</p>",
                     "collapsible_font_heading_size": 16,
                     "collapsible_font_size": 12,
-                    "coll_heading_color": "#000000",
-                    "coll_heading_highlighted_color": "#000000",
-                    "coll_text_color": "#000000",
-                    "coll_text_highlighted_color": "#000000",
+                    "coll_heading_color": "#ffffff",
+                    "coll_heading_highlighted_color": "#ffffff",
+                    "coll_text_color": "#ffffff",
+                    "coll_text_highlighted_color": "#ffffff",
                     "collapsible_border_radius": 20
                   },
                   "blocks": {}
@@ -696,7 +591,6 @@
           "block_order": [
             "rating_HYWfzY",
             "title_9cUzFz",
-            "text_DHFDL8",
             "price_rNLTVV",
             "bullet_point_benefits_L9Ekdy",
             "divider_XjYQhi",
@@ -706,7 +600,6 @@
             "payment_badges_mdNTxn",
             "payment_badges_yf76Lm",
             "icon_with_text_UYemba",
-            "reviews_N963dq",
             "collapsible_tabs_e8Hyd8",
             "sticky_atc_dyxKah"
           ]
@@ -724,26 +617,39 @@
     "horizontal_scrolling_text_mgft6H": {
       "type": "horizontal-scrolling-text",
       "blocks": {
+        "text_rMpbNF": {
+          "type": "text",
+          "settings": {
+            "title": "Premium Fabric"
+          }
+        },
         "text_bhKVK4": {
           "type": "text",
-          "settings": { "title": "Safe Indoor Fun" }
+          "settings": {
+            "title": "Breathable Comfort"
+          }
         },
         "text_WjTjtc": {
           "type": "text",
-          "settings": { "title": "Durable & Long-Lasting" }
+          "settings": {
+            "title": "Lightweight Performance"
+          }
         },
         "text_hfPTxT": {
           "type": "text",
-          "settings": { "title": "Encourages Active Play" }
+          "settings": {
+            "title": "All-Weather Protection"
+          }
         },
         "text_PnmK77": {
           "type": "text",
           "settings": {
-            "title": "Engaging Colorful Design"
+            "title": "Heat-Reactive Technology"
           }
         }
       },
       "block_order": [
+        "text_rMpbNF",
         "text_bhKVK4",
         "text_WjTjtc",
         "text_hfPTxT",
@@ -760,207 +666,22 @@
         "padding_bottom": 8
       }
     },
-    "image_with_text_jxiKk3": {
-      "type": "image-with-text",
+    "video_wLm7Hz": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
       "settings": {
-        "image": "",
-        "image_radius": 6,
-        "defer_loading_image": true,
-        "heading": "Ignite Your Child's Active Adventure",
-        "text": "<p>Discover the perfect solution for keeping your child active and engaged while having fun. This bouncing companion ensures laughter, fitness, and endless imaginative play.<\/p>",
-        "button_text": "",
-        "button_link": "",
-        "layout": "text_first",
-        "height": "medium",
-        "desktop_content_alignment": "left",
-        "grid_border_radius": 6,
-        "section_padding_left_padding": 24,
-        "section_padding_right_padding": 12,
-        "section_padding_bottom": 12,
-        "section_padding_top": 12,
-        "desktop_font_size": 35,
-        "mobile_font_size": 18,
-        "heading_font_weight": "700",
-        "heading_color": "#000000",
-        "heading_use_gradient": false,
-        "heading_gradient_color": "",
-        "heading_highlighted_color": "#000000",
-        "font_size": 14,
-        "body_color": "#000000",
-        "body_highlighted_color": "#000000",
-        "section_color_scheme": "accent-1",
-        "grid_background_color": "rgb(233,232,234)",
-        "card_use_gradient": false,
-        "card_gradient": "",
-        "benefit_1_text": "Boosts confidence and resilience",
-        "benefit_1_icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" enable-background=\"new 0 0 24 24\" height=\"24px\" viewbox=\"0 0 24 24\" width=\"24px\" fill=\"#e3e3e3\"><g><rect fill=\"none\" height=\"24\" width=\"24\"><\/rect><\/g><g><path d=\"M23,12l-2.44-2.79l0.34-3.69l-3.61-0.82L15.4,1.5L12,2.96L8.6,1.5L6.71,4.69L3.1,5.5L3.44,9.2L1,12l2.44,2.79l-0.34,3.7 l3.61,0.82L8.6,22.5l3.4-1.47l3.4,1.46l1.89-3.19l3.61-0.82l-0.34-3.69L23,12z M10.09,16.72l-3.8-3.81l1.48-1.48l2.32,2.33 l5.85-5.87l1.48,1.48L10.09,16.72z\"><\/path><\/g><\/svg>",
-        "benefit_1_custom_icon": "shopify:\/\/shop_images\/Group_165861.svg",
-        "benefit_2_text": "Enhances coordination and balance",
-        "benefit_2_icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" enable-background=\"new 0 0 24 24\" height=\"24px\" viewbox=\"0 0 24 24\" width=\"24px\" fill=\"#e3e3e3\"><g><rect fill=\"none\" height=\"24\" width=\"24\"><\/rect><\/g><g><path d=\"M23,12l-2.44-2.79l0.34-3.69l-3.61-0.82L15.4,1.5L12,2.96L8.6,1.5L6.71,4.69L3.1,5.5L3.44,9.2L1,12l2.44,2.79l-0.34,3.7 l3.61,0.82L8.6,22.5l3.4-1.47l3.4,1.46l1.89-3.19l3.61-0.82l-0.34-3.69L23,12z M10.09,16.72l-3.8-3.81l1.48-1.48l2.32,2.33 l5.85-5.87l1.48,1.48L10.09,16.72z\"><\/path><\/g><\/svg>",
-        "benefit_2_custom_icon": "shopify:\/\/shop_images\/Group_165861.svg",
-        "benefit_3_text": "Fosters social skills through play",
-        "benefit_3_icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" enable-background=\"new 0 0 24 24\" height=\"24px\" viewbox=\"0 0 24 24\" width=\"24px\" fill=\"#e3e3e3\"><g><rect fill=\"none\" height=\"24\" width=\"24\"><\/rect><\/g><g><path d=\"M23,12l-2.44-2.79l0.34-3.69l-3.61-0.82L15.4,1.5L12,2.96L8.6,1.5L6.71,4.69L3.1,5.5L3.44,9.2L1,12l2.44,2.79l-0.34,3.7 l3.61,0.82L8.6,22.5l3.4-1.47l3.4,1.46l1.89-3.19l3.61-0.82l-0.34-3.69L23,12z M10.09,16.72l-3.8-3.81l1.48-1.48l2.32,2.33 l5.85-5.87l1.48,1.48L10.09,16.72z\"><\/path><\/g><\/svg>",
-        "benefit_3_custom_icon": "shopify:\/\/shop_images\/Group_165861.svg",
-        "benefits_icon_size": 20,
-        "benefits_text_size": 14,
-        "benefits_gap": 12,
-        "benefits_icon_color": "#000000",
-        "benefits_text_color": "#000000",
-        "benefits_text_highlighted_color": "#000000",
-        "card_max_width": 1600,
-        "button_label_1_size": 14,
-        "button_label_1_size_mobile": 12,
-        "button_1_text_color": "#ffffff",
-        "button_1_background_color": "#000000",
-        "button_1_border_radius": 6,
-        "button_padding_vertical": 8,
-        "button_width_increase_desktop": 0,
-        "button_width_increase_mobile": 0,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "scrolling_images_UgXcTG": {
-      "type": "scrolling-images",
-      "blocks": {
-        "slide_HnEeeE": { "type": "slide", "settings": { "link": "" } },
-        "slide_AdAJPm": { "type": "slide", "settings": { "link": "" } },
-        "slide_Tkcitt": { "type": "slide", "settings": { "link": "" } },
-        "slide_wFQKM9": { "type": "slide", "settings": { "link": "" } }
-      },
-      "block_order": [
-        "slide_HnEeeE",
-        "slide_AdAJPm",
-        "slide_Tkcitt",
-        "slide_wFQKM9"
-      ],
-      "settings": {
-        "section_heading": "As seen on",
-        "heading_alignment": "center",
-        "font_size": 20,
-        "mobile_font_size": 16,
-        "header_color": "#000000",
-        "header_highlighted_color": "#000000",
-        "heading_use_gradient": false,
-        "heading_gradient_color": "",
-        "pause_hover": true,
-        "slider_direction": "right",
-        "scrolling_velocity": 2,
-        "slider_gap": 52,
-        "slider_gap_mobile": 15,
-        "icon_width": 120,
-        "icon_width_mobile": 250,
-        "image_border_radius": 8,
-        "color_scheme": "accent-1",
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "borders_3WVyHf": {
-      "type": "borders",
-      "settings": {
-        "shape": "waves",
-        "border_size": "60",
-        "flip_horizontal": true,
-        "flip_vertical": false,
-        "shape_color": "base-custom-color-2",
-        "enable_custom_shape_color": false,
-        "custom_shape_color": "rgb(155,154,156)",
-        "background_color": "base-accent-1",
-        "padding_top": 10,
-        "padding_bottom": 10
-      }
-    },
-    "rich_text_rPfaL7": {
-      "type": "rich-text",
-      "blocks": {
-        "list-cards": {
-          "type": "_rich-text-list-cards",
-          "static": true,
-          "settings": {
-            "text_alignment": "center",
-            "cards_layout": "left",
-            "font_size": 14,
-            "color": "#ffffff",
-            "bg_color": "#ffffff",
-            "background_opacity": 27,
-            "border_color": "#ffffff",
-            "border_radius": 10,
-            "gap_between_cards": 8,
-            "padding_top": 0,
-            "padding_bottom": 0
-          },
-          "blocks": {
-            "rich_text_list_card_WDMVxF": {
-              "type": "_rich-text-list-card",
-              "name": "Rich text card",
-              "settings": {
-                "text": "<p>Enhances balance and coordination<\/p>"
-              },
-              "blocks": {}
-            },
-            "rich_text_list_card_PJtK9f": {
-              "type": "_rich-text-list-card",
-              "name": "Rich text card",
-              "settings": {
-                "text": "<p>Safe and durable design<\/p>"
-              },
-              "blocks": {}
-            },
-            "rich_text_list_card_KEeKPf": {
-              "type": "_rich-text-list-card",
-              "name": "Rich text card",
-              "settings": {
-                "text": "<p>Encourages active, imaginative play<\/p>"
-              },
-              "blocks": {}
-            },
-            "rich_text_list_card_ibmQHp": {
-              "type": "_rich-text-list-card",
-              "name": "Rich text card",
-              "settings": {
-                "text": "<p>Supports social interaction skills<\/p>"
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "rich_text_list_card_WDMVxF",
-            "rich_text_list_card_PJtK9f",
-            "rich_text_list_card_KEeKPf",
-            "rich_text_list_card_ibmQHp"
-          ]
-        }
-      },
-      "settings": {
-        "heading": "Transformative Fun For Active Kids",
-        "text": "<p>Many children struggle to stay active and engaged without screens, leading to frustration for parents. This dynamic bouncing ball offers an entertaining solution that promotes physical health and creativity.<\/p>",
-        "content_alignment": "center",
-        "text_max_width_percentage": 80,
-        "text_max_width_percentage_mobile": 100,
-        "heading_font_size": 35,
-        "mobile_heading_font_size": 25,
+        "heading": "",
+        "heading_size": 25,
+        "heading_mob_size": 28,
+        "video": "shopify://files/videos/Balaclava Video.mp4",
+        "video_url": "",
+        "description": "",
+        "full_width": false,
         "heading_color": "#ffffff",
-        "heading_highlighted_color": "#ffffff",
-        "heading_use_gradient": false,
-        "heading_gradient_color": "",
-        "body_font_size": 16,
-        "body_color": "#ffffff",
-        "body_highlighted_color": "#ffffff",
+        "bolded_heading_color": "#ffffff",
         "color_scheme": "accent-3",
-        "button_label": "Shop Now",
-        "button_link": "#main-product-top",
-        "button_font_size": 14,
-        "button_font_size_mobile": 12,
-        "button_color": "#ffffff",
-        "button_bg_color": "#1d1a2d",
-        "button_border_radius": 6,
-        "button_padding_vertical": 0,
-        "button_width_increase_desktop": 52,
-        "button_padding_vertical_mobile": 8,
-        "button_width_increase_mobile": 80,
         "padding_top": 24,
-        "padding_bottom": 62
+        "padding_bottom": 24
       }
     },
     "reasons_GqYHik": {
@@ -969,17 +690,17 @@
         "reasons_to_buy_content_rmwz9L": {
           "type": "_reasons-to-buy-content",
           "settings": {
-            "heading": "Trusted by Happy Young Jumpers",
+            "heading": "Trusted by Performance-Driven Customers",
             "heading_tag": "h3",
             "heading_size": 40,
             "reasons_mob_heading_size": 28,
-            "heading_color": "#000000",
-            "bolded_heading_color": "#000000",
+            "heading_color": "#ffffff",
+            "bolded_heading_color": "#ffffff",
             "heading_use_gradient": true,
-            "heading_gradient_color": "linear-gradient(180deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
+            "heading_gradient_color": "linear-gradient(180deg, rgba(251, 51, 164, 1), rgba(96, 77, 188, 1) 100%)",
             "headig_padding_top": 0,
             "headig_padding_bottom": 0,
-            "text": "Delivering quality and consistency that customers rely on.",
+            "text": "Delivering comfort, innovation, and protection that customers rely on in every environment.",
             "text_tag": "p",
             "text_size": 16,
             "text_mob_size": 16,
@@ -999,19 +720,18 @@
           "type": "_reasons-to-buy-product-card",
           "settings": {
             "product_url": "#main-product-top",
-            "product_image": "",
-            "product_title": "<p>Ultimate Bouncing Joy Ball™<\/p>",
-            "product_description": "<p><\/p>",
+            "product_title": "<p><strong>LEQNOX Heat-Reactive Balaclava</strong></p>",
+            "product_description": "",
             "product_title_font_size": 17,
             "product_title_color": "#ffffff",
             "product_description_font_size": 14,
             "product_description_color": "#ffffff",
-            "card_background_color": "rgb(155,154,156)",
+            "card_background_color": "#9b9a9c",
             "card_has_gradient": false,
-            "card_gradient": "linear-gradient(180deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
+            "card_gradient": "linear-gradient(180deg, rgba(251, 51, 164, 1), rgba(96, 77, 188, 1) 100%)",
             "product_description_opacity": 70,
             "arrow_icon_color": "#ffffff",
-            "card_border_radius": 10,
+            "card_border_radius": 11,
             "thumbnail_border_radius": 4,
             "text_content_gap": 10,
             "text_content_gap_mobile": 11
@@ -1026,7 +746,7 @@
             "cards_vertical_spacing_mobile": 14,
             "percentage_number_font_size": 50,
             "percentage_number_font_size_mobile": 28,
-            "percentage_number_color": "rgb(155,154,156)",
+            "percentage_number_color": "#9b9a9c",
             "percentage_number_has_gradient": false,
             "percentage_number_bg": "linear-gradient(180deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
             "block_heading_size": 24,
@@ -1043,8 +763,8 @@
             "reasons_to_buy_stat_t96XrA": {
               "type": "_reasons-to-buy-stat",
               "settings": {
-                "row_heading": "<p>Improved Balance Skills<\/p>",
-                "row_text": "<p>Achieved better balance and coordination after just a few week of bouncing regularly.<\/p>",
+                "row_heading": "<p>Improved Balance Skills</p>",
+                "row_text": "<p>Customers reported improved comfort and protection during outdoor activities, even in cold and windy conditions.</p>",
                 "percentage": 92
               },
               "blocks": {}
@@ -1052,8 +772,8 @@
             "reasons_to_buy_stat_Cpcned": {
               "type": "_reasons-to-buy-stat",
               "settings": {
-                "row_heading": "<p>Increased Physical Activity<\/p>",
-                "row_text": "<p>Parents noticed their children were more active and engaged with outdoor play.<\/p>",
+                "row_heading": "<p>Increased Physical Activity</p>",
+                "row_text": "<p>Wearers noticed better breathability and reduced irritation compared to traditional face masks.</p>",
                 "percentage": 87
               },
               "blocks": {}
@@ -1061,8 +781,8 @@
             "reasons_to_buy_stat_nEiBpL": {
               "type": "_reasons-to-buy-stat",
               "settings": {
-                "row_heading": "<p>Boosted Confidence<\/p>",
-                "row_text": "<p>Children reported feeling more confident as they mastered their jumping skills.<\/p>",
+                "row_heading": "<p>Boosted Confidence</p>",
+                "row_text": "<p>Users loved the heat-reactive design and modern look, calling it both functional and stylish.</p>",
                 "percentage": 94
               },
               "blocks": {}
@@ -1082,7 +802,6 @@
       ],
       "name": "Reasons to buy",
       "settings": {
-        "image": "",
         "image_height": "small",
         "image_border_radius": 6,
         "border_color": "#000000",
@@ -1098,10 +817,9 @@
         "column_dnAQVt": {
           "type": "column",
           "settings": {
-            "icon": "<svg width=\"91\" height=\"93\" viewBox=\"0 0 91 93\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\r\n <g filter=\"url(#filter0_d_5281_3537)\">\r\n <circle cx=\"45.5\" cy=\"43.5\" r=\"43.5\" fill=\"white\"\/>\r\n <\/g>\r\n <path fill=\"none\" d=\"M47.7075 63C46.0929 63 44.5504 62.3267 41.4655 60.9801C37.8648 59.4084 35.1084 58.2052 33.196 57.0798H26M47.7075 63C49.3222 63 50.8647 62.3267 53.9496 60.9801C61.6287 57.6281 65.4683 55.9521 65.4683 53.1329V32.4121M47.7075 63V41.2925M29.9468 32.4121V38.3323\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\r\n <path fill=\"none\" d=\"M40.4575 38.71L34.6928 35.9205C31.5291 34.3897 29.9473 33.6242 29.9473 32.4121C29.9473 31.2 31.5291 30.4345 34.6928 28.9037L40.4575 26.1142C44.0154 24.3926 45.7944 23.5317 47.708 23.5317C49.6216 23.5317 51.4006 24.3926 54.9585 26.1142L60.7232 28.9037C63.8869 30.4345 65.4687 31.2 65.4687 32.4121C65.4687 33.6242 63.8869 34.3897 60.7232 35.9205L54.9585 38.71C51.4006 40.4316 49.6216 41.2925 47.708 41.2925C45.7944 41.2925 44.0154 40.4316 40.4575 38.71Z\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\r\n <path fill=\"none\" d=\"M57.8438 27.5093L37.5781 37.3156\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\r\n <path fill=\"none\" d=\"M26 45.2393H31.9202\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\r\n <path fill=\"none\" d=\"M26 51.1597H31.9202\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\r\n <defs>\r\n <filter id=\"filter0_d_5281_3537\" x=\"0\" y=\"0\" width=\"91\" height=\"93\" filterUnits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\r\n <feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"\/>\r\n <feColorMatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\" result=\"hardAlpha\"\/>\r\n <feOffset dy=\"4\"\/>\r\n <feGaussianBlur stdDeviation=\"1\"\/>\r\n <feComposite in2=\"hardAlpha\" operator=\"out\"\/>\r\n <feColorMatrix type=\"matrix\" values=\"0 0 0 0 0.856463 0 0 0 0 0.903726 0 0 0 0 0.918269 0 0 0 1 0\"\/>\r\n <feBlend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow_5281_3537\"\/>\r\n <feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow_5281_3537\" result=\"shape\"\/>\r\n <\/filter>\r\n <\/defs>\r\n <\/svg>",
-            "custom_icon_image": "shopify:\/\/shop_images\/Group_166541_1.png",
+            "icon": "<svg width=\"91\" height=\"93\" viewbox=\"0 0 91 93\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\r\n <g filter=\"url(#filter0_d_5281_3537)\">\r\n <circle cx=\"45.5\" cy=\"43.5\" r=\"43.5\" fill=\"white\"></circle>\r\n </g>\r\n <path fill=\"none\" d=\"M47.7075 63C46.0929 63 44.5504 62.3267 41.4655 60.9801C37.8648 59.4084 35.1084 58.2052 33.196 57.0798H26M47.7075 63C49.3222 63 50.8647 62.3267 53.9496 60.9801C61.6287 57.6281 65.4683 55.9521 65.4683 53.1329V32.4121M47.7075 63V41.2925M29.9468 32.4121V38.3323\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\r\n <path fill=\"none\" d=\"M40.4575 38.71L34.6928 35.9205C31.5291 34.3897 29.9473 33.6242 29.9473 32.4121C29.9473 31.2 31.5291 30.4345 34.6928 28.9037L40.4575 26.1142C44.0154 24.3926 45.7944 23.5317 47.708 23.5317C49.6216 23.5317 51.4006 24.3926 54.9585 26.1142L60.7232 28.9037C63.8869 30.4345 65.4687 31.2 65.4687 32.4121C65.4687 33.6242 63.8869 34.3897 60.7232 35.9205L54.9585 38.71C51.4006 40.4316 49.6216 41.2925 47.708 41.2925C45.7944 41.2925 44.0154 40.4316 40.4575 38.71Z\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\r\n <path fill=\"none\" d=\"M57.8438 27.5093L37.5781 37.3156\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\r\n <path fill=\"none\" d=\"M26 45.2393H31.9202\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\r\n <path fill=\"none\" d=\"M26 51.1597H31.9202\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\r\n <defs>\r\n <filter id=\"filter0_d_5281_3537\" x=\"0\" y=\"0\" width=\"91\" height=\"93\" filterunits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\r\n <feflood flood-opacity=\"0\" result=\"BackgroundImageFix\"></feflood>\r\n <fecolormatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\" result=\"hardAlpha\"></fecolormatrix>\r\n <feoffset dy=\"4\"></feoffset>\r\n <fegaussianblur stddeviation=\"1\"></fegaussianblur>\r\n <fecomposite in2=\"hardAlpha\" operator=\"out\"></fecomposite>\r\n <fecolormatrix type=\"matrix\" values=\"0 0 0 0 0.856463 0 0 0 0 0.903726 0 0 0 0 0.918269 0 0 0 1 0\"></fecolormatrix>\r\n <feblend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow_5281_3537\"></feblend>\r\n <feblend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow_5281_3537\" result=\"shape\"></feblend>\r\n </filter>\r\n </defs>\r\n </svg>",
             "title": "",
-            "text": "<p>Worldwide Shipping<\/p>",
+            "text": "<p>Worldwide Shipping</p>",
             "icon_heading_font_size": 24,
             "icon_heading_color": "#000000",
             "icon_bolded_heading_color": "#000000",
@@ -1114,10 +832,9 @@
         "column_9dY4yh": {
           "type": "column",
           "settings": {
-            "icon": "<svg width=\"91\" height=\"93\" viewBox=\"0 0 91 93\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\r\n <g filter=\"url(#filter0_d_5281_3538)\">\r\n <circle cx=\"45.5\" cy=\"43.5\" r=\"43.5\" fill=\"white\"\/>\r\n <\/g>\r\n <path fill=\"none\" d=\"M56.5009 40.9111C56.5009 40.1615 56.5009 39.7866 56.6135 39.453C56.9407 38.4823 57.8052 38.1075 58.6719 37.7131C59.6425 37.269 60.1279 37.048 60.611 37.009C61.157 36.9656 61.7052 37.0826 62.1732 37.3448C62.7929 37.6915 63.2262 38.3545 63.6682 38.8918C65.7114 41.3748 66.734 42.6163 67.1067 43.9835C67.41 45.0885 67.41 46.2455 67.1067 47.3483C66.5629 49.346 64.8404 51.0186 63.5642 52.57C62.912 53.3608 62.5849 53.7573 62.1732 53.9891C61.6972 54.2531 61.1535 54.37 60.611 54.325C60.1279 54.286 59.6425 54.065 58.6697 53.6208C57.803 53.2265 56.9407 52.8516 56.6135 51.881C56.5009 51.5473 56.5009 51.1725 56.5009 50.4228V40.9111ZM34.8342 40.9111C34.8342 39.9665 34.8082 39.1193 34.0455 38.4563C33.7682 38.2158 33.3999 38.049 32.6654 37.7131C31.6925 37.2711 31.2072 37.048 30.724 37.009C29.2789 36.892 28.501 37.88 27.669 38.894C25.6237 41.3748 24.601 42.6163 24.2262 43.9856C23.9246 45.087 23.9246 46.2491 24.2262 47.3505C24.7722 49.346 26.4969 51.0208 27.7709 52.57C28.5747 53.545 29.3439 54.4355 30.724 54.325C31.2072 54.286 31.6925 54.065 32.6654 53.6208C33.402 53.2871 33.7682 53.1181 34.0455 52.8776C34.8082 52.2146 34.8342 51.3675 34.8342 50.425V40.9111Z\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\"\/>\r\n <path fill=\"none\" d=\"M30.502 37C30.502 29.8197 37.2923 24 45.6686 24C54.045 24 60.8353 29.8197 60.8353 37\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"square\" stroke-linejoin=\"round\"\/>\r\n <path fill=\"none\" d=\"M60.8359 54.333V56.0663C60.8359 59.8948 56.9576 62.9997 52.1693 62.9997H47.8359\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\r\n <defs>\r\n <filter id=\"filter0_d_5281_3538\" x=\"0\" y=\"0\" width=\"91\" height=\"93\" filterUnits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\r\n <feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"\/>\r\n <feColorMatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\" result=\"hardAlpha\"\/>\r\n <feOffset dy=\"4\"\/>\r\n <feGaussianBlur stdDeviation=\"1\"\/>\r\n <feComposite in2=\"hardAlpha\" operator=\"out\"\/>\r\n <feColorMatrix type=\"matrix\" values=\"0 0 0 0 0.856463 0 0 0 0 0.903726 0 0 0 0 0.918269 0 0 0 1 0\"\/>\r\n <feBlend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow_5281_3538\"\/>\r\n <feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow_5281_3538\" result=\"shape\"\/>\r\n <\/filter>\r\n <\/defs>\r\n <\/svg>",
-            "custom_icon_image": "shopify:\/\/shop_images\/Group_166607_48d2b0fe-890f-4e11-8a8a-d897d1a49b1e.png",
+            "icon": "<svg width=\"91\" height=\"93\" viewbox=\"0 0 91 93\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\r\n <g filter=\"url(#filter0_d_5281_3538)\">\r\n <circle cx=\"45.5\" cy=\"43.5\" r=\"43.5\" fill=\"white\"></circle>\r\n </g>\r\n <path fill=\"none\" d=\"M56.5009 40.9111C56.5009 40.1615 56.5009 39.7866 56.6135 39.453C56.9407 38.4823 57.8052 38.1075 58.6719 37.7131C59.6425 37.269 60.1279 37.048 60.611 37.009C61.157 36.9656 61.7052 37.0826 62.1732 37.3448C62.7929 37.6915 63.2262 38.3545 63.6682 38.8918C65.7114 41.3748 66.734 42.6163 67.1067 43.9835C67.41 45.0885 67.41 46.2455 67.1067 47.3483C66.5629 49.346 64.8404 51.0186 63.5642 52.57C62.912 53.3608 62.5849 53.7573 62.1732 53.9891C61.6972 54.2531 61.1535 54.37 60.611 54.325C60.1279 54.286 59.6425 54.065 58.6697 53.6208C57.803 53.2265 56.9407 52.8516 56.6135 51.881C56.5009 51.5473 56.5009 51.1725 56.5009 50.4228V40.9111ZM34.8342 40.9111C34.8342 39.9665 34.8082 39.1193 34.0455 38.4563C33.7682 38.2158 33.3999 38.049 32.6654 37.7131C31.6925 37.2711 31.2072 37.048 30.724 37.009C29.2789 36.892 28.501 37.88 27.669 38.894C25.6237 41.3748 24.601 42.6163 24.2262 43.9856C23.9246 45.087 23.9246 46.2491 24.2262 47.3505C24.7722 49.346 26.4969 51.0208 27.7709 52.57C28.5747 53.545 29.3439 54.4355 30.724 54.325C31.2072 54.286 31.6925 54.065 32.6654 53.6208C33.402 53.2871 33.7682 53.1181 34.0455 52.8776C34.8082 52.2146 34.8342 51.3675 34.8342 50.425V40.9111Z\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\"></path>\r\n <path fill=\"none\" d=\"M30.502 37C30.502 29.8197 37.2923 24 45.6686 24C54.045 24 60.8353 29.8197 60.8353 37\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"square\" stroke-linejoin=\"round\"></path>\r\n <path fill=\"none\" d=\"M60.8359 54.333V56.0663C60.8359 59.8948 56.9576 62.9997 52.1693 62.9997H47.8359\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\r\n <defs>\r\n <filter id=\"filter0_d_5281_3538\" x=\"0\" y=\"0\" width=\"91\" height=\"93\" filterunits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\r\n <feflood flood-opacity=\"0\" result=\"BackgroundImageFix\"></feflood>\r\n <fecolormatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\" result=\"hardAlpha\"></fecolormatrix>\r\n <feoffset dy=\"4\"></feoffset>\r\n <fegaussianblur stddeviation=\"1\"></fegaussianblur>\r\n <fecomposite in2=\"hardAlpha\" operator=\"out\"></fecomposite>\r\n <fecolormatrix type=\"matrix\" values=\"0 0 0 0 0.856463 0 0 0 0 0.903726 0 0 0 0 0.918269 0 0 0 1 0\"></fecolormatrix>\r\n <feblend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow_5281_3538\"></feblend>\r\n <feblend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow_5281_3538\" result=\"shape\"></feblend>\r\n </filter>\r\n </defs>\r\n </svg>",
             "title": "",
-            "text": "<p>24/7 Support<\/p>",
+            "text": "<p>24/7 Support</p>",
             "icon_heading_font_size": 24,
             "icon_heading_color": "#000000",
             "icon_bolded_heading_color": "#000000",
@@ -1130,10 +847,9 @@
         "column_VRFTkg": {
           "type": "column",
           "settings": {
-            "icon": "<svg width=\"91\" height=\"93\" viewBox=\"0 0 91 93\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\r\n <g filter=\"url(#filter0_d_5281_3539)\">\r\n <circle cx=\"45.5\" cy=\"43.5\" r=\"43.5\" fill=\"white\"\/>\r\n <\/g>\r\n <path fill=\"none\" d=\"M44.2393 24.2246C44.4789 23.488 45.5211 23.488 45.7607 24.2246L49.2471 34.9541C49.6754 36.2724 50.9039 37.1658 52.29 37.166H63.5723C64.3471 37.1662 64.6689 38.1568 64.042 38.6123L54.915 45.2441C53.7937 46.059 53.3247 47.503 53.7529 48.8213L57.2393 59.5508C57.4787 60.2878 56.6348 60.9008 56.0078 60.4453L46.8809 53.8145C45.7593 52.9996 44.2407 52.9996 43.1191 53.8145L33.9922 60.4453C33.3652 60.9008 32.5213 60.2878 32.7607 59.5508L36.2471 48.8213C36.6753 47.503 36.2063 46.059 35.085 45.2441L25.958 38.6123C25.3311 38.1568 25.6529 37.1662 26.4277 37.166H37.71C39.0961 37.1658 40.3246 36.2724 40.7529 34.9541L44.2393 24.2246Z\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\"\/>\r\n <defs>\r\n <filter id=\"filter0_d_5281_3539\" x=\"0\" y=\"0\" width=\"91\" height=\"93\" filterUnits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\r\n <feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"\/>\r\n <feColorMatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\" result=\"hardAlpha\"\/>\r\n <feOffset dy=\"4\"\/>\r\n <feGaussianBlur stdDeviation=\"1\"\/>\r\n <feComposite in2=\"hardAlpha\" operator=\"out\"\/>\r\n <feColorMatrix type=\"matrix\" values=\"0 0 0 0 0.856463 0 0 0 0 0.903726 0 0 0 0 0.918269 0 0 0 1 0\"\/>\r\n <feBlend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow_5281_3539\"\/>\r\n <feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow_5281_3539\" result=\"shape\"\/>\r\n <\/filter>\r\n <\/defs>\r\n <\/svg>",
-            "custom_icon_image": "shopify:\/\/shop_images\/Group_166608.png",
+            "icon": "<svg width=\"91\" height=\"93\" viewbox=\"0 0 91 93\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\r\n <g filter=\"url(#filter0_d_5281_3539)\">\r\n <circle cx=\"45.5\" cy=\"43.5\" r=\"43.5\" fill=\"white\"></circle>\r\n </g>\r\n <path fill=\"none\" d=\"M44.2393 24.2246C44.4789 23.488 45.5211 23.488 45.7607 24.2246L49.2471 34.9541C49.6754 36.2724 50.9039 37.1658 52.29 37.166H63.5723C64.3471 37.1662 64.6689 38.1568 64.042 38.6123L54.915 45.2441C53.7937 46.059 53.3247 47.503 53.7529 48.8213L57.2393 59.5508C57.4787 60.2878 56.6348 60.9008 56.0078 60.4453L46.8809 53.8145C45.7593 52.9996 44.2407 52.9996 43.1191 53.8145L33.9922 60.4453C33.3652 60.9008 32.5213 60.2878 32.7607 59.5508L36.2471 48.8213C36.6753 47.503 36.2063 46.059 35.085 45.2441L25.958 38.6123C25.3311 38.1568 25.6529 37.1662 26.4277 37.166H37.71C39.0961 37.1658 40.3246 36.2724 40.7529 34.9541L44.2393 24.2246Z\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\"></path>\r\n <defs>\r\n <filter id=\"filter0_d_5281_3539\" x=\"0\" y=\"0\" width=\"91\" height=\"93\" filterunits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\r\n <feflood flood-opacity=\"0\" result=\"BackgroundImageFix\"></feflood>\r\n <fecolormatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\" result=\"hardAlpha\"></fecolormatrix>\r\n <feoffset dy=\"4\"></feoffset>\r\n <fegaussianblur stddeviation=\"1\"></fegaussianblur>\r\n <fecomposite in2=\"hardAlpha\" operator=\"out\"></fecomposite>\r\n <fecolormatrix type=\"matrix\" values=\"0 0 0 0 0.856463 0 0 0 0 0.903726 0 0 0 0 0.918269 0 0 0 1 0\"></fecolormatrix>\r\n <feblend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow_5281_3539\"></feblend>\r\n <feblend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow_5281_3539\" result=\"shape\"></feblend>\r\n </filter>\r\n </defs>\r\n </svg>",
             "title": "",
-            "text": "<p>Verified quality only<\/p>",
+            "text": "<p>Verified quality only</p>",
             "icon_heading_font_size": 24,
             "icon_heading_color": "#000000",
             "icon_bolded_heading_color": "#000000",
@@ -1146,10 +862,9 @@
         "column_8WP3Hg": {
           "type": "column",
           "settings": {
-            "icon": "<svg width=\"91\" height=\"93\" viewBox=\"0 0 91 93\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\r\n <g filter=\"url(#filter0_d_5118_3448)\">\r\n <circle cx=\"45.5\" cy=\"43.5\" r=\"43.5\" fill=\"white\"\/>\r\n <\/g>\r\n <path fill=\"none\" d=\"M52.3774 51.2542H58.6945C61.189 51.2122 65 52.5254 65 57.2618C65 62.1762 60.2973 63 58.6945 63C57.0917 63 41.9551 63 37.5922 63C32.7051 63 26 62.0099 26 53.5773L26 35.7H65V44.5105M52.3774 51.2542C52.3879 50.8371 52.5654 50.4234 52.9101 50.1227L56.2288 47.3525M52.3774 51.2542C52.3662 51.6995 52.5453 52.1486 52.9144 52.4682L56.2288 55.1671\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\r\n <path fill=\"none\" d=\"M26 35.693L27.7975 31.2014C29.2561 27.7107 29.9854 25.9654 31.4637 24.9827C32.9419 24 34.8381 24 38.6304 24H52.3221C56.1145 24 58.0105 24 59.4889 24.9827C60.9672 25.9654 61.6963 27.7107 63.1551 31.2014L65 35.7\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\"\/>\r\n <path fill=\"none\" d=\"M45.5 35.7V24\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\"\/>\r\n <path fill=\"none\" d=\"M41.5996 43.5H49.3996\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\"\/>\r\n <defs>\r\n <filter id=\"filter0_d_5118_3448\" x=\"0\" y=\"0\" width=\"91\" height=\"93\" filterUnits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\r\n <feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"\/>\r\n <feColorMatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\" result=\"hardAlpha\"\/>\r\n <feOffset dy=\"4\"\/>\r\n <feGaussianBlur stdDeviation=\"1\"\/>\r\n <feComposite in2=\"hardAlpha\" operator=\"out\"\/>\r\n <feColorMatrix type=\"matrix\" values=\"0 0 0 0 0.856463 0 0 0 0 0.903726 0 0 0 0 0.918269 0 0 0 1 0\"\/>\r\n <feBlend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow_5118_3448\"\/>\r\n <feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow_5118_3448\" result=\"shape\"\/>\r\n <\/filter>\r\n <\/defs>\r\n <\/svg>",
-            "custom_icon_image": "shopify:\/\/shop_images\/Group_166610.png",
+            "icon": "<svg width=\"91\" height=\"93\" viewbox=\"0 0 91 93\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\r\n <g filter=\"url(#filter0_d_5118_3448)\">\r\n <circle cx=\"45.5\" cy=\"43.5\" r=\"43.5\" fill=\"white\"></circle>\r\n </g>\r\n <path fill=\"none\" d=\"M52.3774 51.2542H58.6945C61.189 51.2122 65 52.5254 65 57.2618C65 62.1762 60.2973 63 58.6945 63C57.0917 63 41.9551 63 37.5922 63C32.7051 63 26 62.0099 26 53.5773L26 35.7H65V44.5105M52.3774 51.2542C52.3879 50.8371 52.5654 50.4234 52.9101 50.1227L56.2288 47.3525M52.3774 51.2542C52.3662 51.6995 52.5453 52.1486 52.9144 52.4682L56.2288 55.1671\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\r\n <path fill=\"none\" d=\"M26 35.693L27.7975 31.2014C29.2561 27.7107 29.9854 25.9654 31.4637 24.9827C32.9419 24 34.8381 24 38.6304 24H52.3221C56.1145 24 58.0105 24 59.4889 24.9827C60.9672 25.9654 61.6963 27.7107 63.1551 31.2014L65 35.7\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\"></path>\r\n <path fill=\"none\" d=\"M45.5 35.7V24\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\"></path>\r\n <path fill=\"none\" d=\"M41.5996 43.5H49.3996\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\"></path>\r\n <defs>\r\n <filter id=\"filter0_d_5118_3448\" x=\"0\" y=\"0\" width=\"91\" height=\"93\" filterunits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\r\n <feflood flood-opacity=\"0\" result=\"BackgroundImageFix\"></feflood>\r\n <fecolormatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\" result=\"hardAlpha\"></fecolormatrix>\r\n <feoffset dy=\"4\"></feoffset>\r\n <fegaussianblur stddeviation=\"1\"></fegaussianblur>\r\n <fecomposite in2=\"hardAlpha\" operator=\"out\"></fecomposite>\r\n <fecolormatrix type=\"matrix\" values=\"0 0 0 0 0.856463 0 0 0 0 0.903726 0 0 0 0 0.918269 0 0 0 1 0\"></fecolormatrix>\r\n <feblend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow_5118_3448\"></feblend>\r\n <feblend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow_5118_3448\" result=\"shape\"></feblend>\r\n </filter>\r\n </defs>\r\n </svg>",
             "title": "",
-            "text": "<p>Hassle-free returns<\/p>",
+            "text": "<p>Hassle-free returns</p>",
             "icon_heading_font_size": 24,
             "icon_heading_color": "#000000",
             "icon_bolded_heading_color": "#000000",
@@ -1195,30 +910,14 @@
         "padding_bottom": 0
       }
     },
-    "borders_6ffEVj": {
-      "type": "borders",
-      "name": "Section border",
-      "settings": {
-        "shape": "waves",
-        "border_size": "90",
-        "flip_horizontal": true,
-        "flip_vertical": false,
-        "shape_color": "base-custom-color-2",
-        "enable_custom_shape_color": false,
-        "custom_shape_color": "rgb(155,154,156)",
-        "background_color": "base-accent-1",
-        "padding_top": 10,
-        "padding_bottom": 10
-      }
-    },
-    "comparison_table_jRgDad": {
+    "comparison_table_aJbwDw": {
       "type": "comparison-table",
       "blocks": {
-        "comparison_table_content_fnCAKh": {
+        "comparison_table_content_AdAJjr": {
           "type": "_comparison-table-content",
           "settings": {
-            "content_heading": "Unmatched Bounce Experience",
-            "body_content": "<p>Discover a playful companion that combines safety, fun, and fitness, encouraging active play while enhancing balance and creativity, setting the standard well above conventional toys.<\/p>",
+            "content_heading": "Unmatched Comfort. Engineered Quality",
+            "body_content": "<p>LEQNOX balaclavas are crafted from premium, skin-friendly materials designed for all-day comfort. Soft, breathable, and precision-engineered, each piece adapts to your body heat while maintaining a smooth, irritation-free fit. This is performance wear built for comfort — and elevated by innovation</p>",
             "content_alignment": "center",
             "heading_size": 40,
             "heading_mob_size": 25,
@@ -1233,10 +932,10 @@
           },
           "blocks": {}
         },
-        "comparison_table_xjzrcn": {
+        "comparison_table_6b4tTK": {
           "type": "_comparison-table",
           "settings": {
-            "table_border_color": "#c4c4c4",
+            "table_border_color": "#e9e8ea",
             "table_border_opacity": 15,
             "self_cells_background_color": "#ffffff",
             "self_cells_background_opacity": 27,
@@ -1250,13 +949,12 @@
             "product_column_shadow_opacity": 60
           },
           "blocks": {
-            "comparison_table_header_mTxkNP": {
+            "comparison_table_header_YrHWqN": {
               "type": "_comparison-table-header",
               "settings": {
                 "show_brand_name": true,
                 "us_label": "",
                 "other_brands_label": "Others",
-                "logo": "shopify://shop_images/Bolt.svg",
                 "logo_width": 90,
                 "mobile_logo_width": 60,
                 "other_brands_logo_width": 74,
@@ -1264,11 +962,11 @@
                 "cell_header_brand_text_size": 16,
                 "cell_header_brand_text_color": "#ffffff",
                 "cell_header_competitor_text_size": 16,
-                "cell_header_competitor_text_color": "#383838"
+                "cell_header_competitor_text_color": "#757575"
               },
               "blocks": {}
             },
-            "comparison_table_rows_CqtQBD": {
+            "comparison_table_rows_eAMYAB": {
               "type": "_comparison-table-rows",
               "settings": {
                 "benefits_desktop_size": 16,
@@ -1278,75 +976,75 @@
                 "features_background_color": "rgba(0,0,0,0)",
                 "product_column_border_top_color": "rgba(0,0,0,0)",
                 "enable_product_column_border_top_gradient": false,
-                "product_column_border_top_gradient": "linear-gradient(180deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
+                "product_column_border_top_gradient": "linear-gradient(180deg, rgba(251,51,164, 1), rgba(96,77,188, 1) 100%)",
                 "product_column_border_opacity": 100
               },
               "blocks": {
-                "comparison_table_row_V99iCa": {
+                "comparison_table_row_tWR37V": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Anti-Burst Safety",
+                    "benefit": "Premium heat-reactive fabric",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
                     "heading_highlighted_color": "#ffffff",
-                    "benefit_icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"><\/path><\/svg>",
+                    "benefit_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"></path></svg>",
                     "benefit_icon_size": 20,
                     "benefit_icon_color": "#ffffff"
                   },
                   "blocks": {}
                 },
-                "comparison_table_row_DmxHFa": {
+                "comparison_table_row_zH7YnA": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Height-Adjustable",
+                    "benefit": "Ultra-soft, skin-safe materials",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
                     "heading_highlighted_color": "#ffffff",
-                    "benefit_icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"><\/path><\/svg>",
+                    "benefit_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"></path></svg>",
                     "benefit_icon_size": 20,
                     "benefit_icon_color": "#ffffff"
                   },
                   "blocks": {}
                 },
-                "comparison_table_row_NVarfW": {
+                "comparison_table_row_iDh4NQ": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Highly Portable",
+                    "benefit": "Breathable, all-day comfort",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
                     "heading_highlighted_color": "#ffffff",
-                    "benefit_icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"><\/path><\/svg>",
+                    "benefit_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"></path></svg>",
                     "benefit_icon_size": 20,
                     "benefit_icon_color": "#ffffff"
                   },
                   "blocks": {}
                 },
-                "comparison_table_row_CUTdVe": {
+                "comparison_table_row_tnKxkX": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Engaging Colors",
+                    "benefit": "Precision tailoring for perfect fit",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
                     "heading_highlighted_color": "#ffffff",
-                    "benefit_icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"><\/path><\/svg>",
+                    "benefit_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"></path></svg>",
                     "benefit_icon_size": 20,
                     "benefit_icon_color": "#ffffff"
                   },
                   "blocks": {}
                 },
-                "comparison_table_row_9h4G7T": {
+                "comparison_table_row_T4yT8W": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Boosts Confidence",
+                    "benefit": "Durable, high-quality construction",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
                     "heading_highlighted_color": "#ffffff",
-                    "benefit_icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"><\/path><\/svg>",
+                    "benefit_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"></path></svg>",
                     "benefit_icon_size": 20,
                     "benefit_icon_color": "#ffffff"
                   },
@@ -1354,31 +1052,31 @@
                 }
               },
               "block_order": [
-                "comparison_table_row_V99iCa",
-                "comparison_table_row_DmxHFa",
-                "comparison_table_row_NVarfW",
-                "comparison_table_row_CUTdVe",
-                "comparison_table_row_9h4G7T"
+                "comparison_table_row_tWR37V",
+                "comparison_table_row_zH7YnA",
+                "comparison_table_row_iDh4NQ",
+                "comparison_table_row_tnKxkX",
+                "comparison_table_row_T4yT8W"
               ]
             }
           },
           "block_order": [
-            "comparison_table_header_mTxkNP",
-            "comparison_table_rows_CqtQBD"
+            "comparison_table_header_YrHWqN",
+            "comparison_table_rows_eAMYAB"
           ]
         }
       },
       "block_order": [
-        "comparison_table_content_fnCAKh",
-        "comparison_table_xjzrcn"
+        "comparison_table_content_AdAJjr",
+        "comparison_table_6b4tTK"
       ],
       "name": "Comparison table",
       "settings": {
-        "button_label": "Shop Now",
-        "link": "#main-product-top",
+        "button_label": "Shop Now - Experience Yourself",
+        "link": "shopify://products/heat-reactive-balaclava",
         "button_text_size": 12,
         "button_text_color": "#ffffff",
-        "button_background_color": "#1D1A2D",
+        "button_background_color": "#1d1a2d",
         "button_border_radius": 9,
         "button_border_width": 0,
         "button_border_color": "#000000",
@@ -1388,8 +1086,8 @@
         "icon_size": 22,
         "checkmark_color": "#ffffff",
         "x_color": "#ffffff",
-        "checkmark_icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Z\"><\/path><\/svg>",
-        "x_icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m336-280 144-144 144 144 56-56-144-144 144-144-56-56-144 144-144-144-56 56 144 144-144 144 56 56ZM480-80q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Z\"><\/path><\/svg>",
+        "checkmark_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Z\"></path></svg>",
+        "x_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m336-280 144-144 144 144 56-56-144-144 144-144-56-56-144 144-144-144-56 56 144 144-144 144 56 56ZM480-80q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Z\"></path></svg>",
         "color_scheme": "accent-3",
         "section_padding_top_desktop": 36,
         "section_padding_bottom_desktop": 36
@@ -1398,14 +1096,210 @@
     "testimonials_AiHw4G": {
       "type": "testimonials",
       "blocks": {
+        "slide_fGYqHP": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Highly Recommend”</strong>",
+            "review_text": "If you want something comfortable, stylish, and different from regular masks, this is it. I’m ordering another one.",
+            "review_name": "Natalie W.",
+            "author_name_color": "#000000",
+            "highlight_review": true,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_4A6368": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Great Face Coverage”</strong>",
+            "review_text": "Covers my face and neck perfectly against wind and dust. Ideal for riding and outdoor work.",
+            "review_name": "Mohammed Z.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_9jPhnp": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Top Quality Feel”</strong>",
+            "review_text": "Material feels durable and premium. After multiple washes it still looks brand new.",
+            "review_name": "Ryan C.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_F4Gttp": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Unique & Functional”</strong>",
+            "review_text": "The heat-reactive feature is not just for looks—it actually shows how your body heat changes. Very cool and practical.",
+            "review_name": "Lina H.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_P4zkjy": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Comfort All Day”</strong>",
+            "review_text": "Wore it for an entire work shift outdoors and forgot I even had it on. No discomfort at all.",
+            "review_name": "Kevin B.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_CDDxkh": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“All-Weather Ready”</strong>",
+            "review_text": "Works great in cold and still breathable when it’s not freezing. One of the most versatile pieces of gear I own.",
+            "review_name": "<strong> Arjun P.</strong>",
+            "author_name_color": "#000000",
+            "highlight_review": true,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_Kknxrx": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Better Than Expected”</strong>",
+            "review_text": "I was worried it would feel cheap, but it’s actually very well made. Great for cold mornings and evening walks.",
+            "review_name": "Sofia L.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_WMizyP": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Looks Premium”</strong>",
+            "review_text": "Honestly feels like high-end gear. The heat-reactive design gets noticed and I’ve had people ask where I bought it.",
+            "review_name": "Daniel M.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_pPnWHJ": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Soft and Breathable”</strong>",
+            "review_text": "The fabric feels really smooth on the skin. No itching, no tight pressure, just a clean comfortable fit.",
+            "review_name": "Priya S.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_DBRzFw": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Great Winter Gear”</strong>",
+            "review_text": "Used it while hiking in cold weather and it performed amazingly. Stayed comfortable even after hours outside.",
+            "review_name": "Marcus T.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_Q8dAQp": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Warm Without Bulk”</strong>",
+            "review_text": "Lightweight but surprisingly warm. I hate thick masks, and this one is exactly what I was looking for.",
+            "review_name": "Ahmed R.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
         "slide_Wcwxbj": {
           "type": "slide",
           "settings": {
-            "review_heading": "Review header of 2-4 words",
-            "review_text": "<em>A text review talking about the experience with the product - how it transformed their life, how they use it, what their experience is and so on.<\/em>",
-            "author_image": "",
-            "author_thumbnail_image": "",
-            "review_name": "Sarah Michell's",
+            "review_heading": "<strong>“Perfect for Riding”</strong>",
+            "review_text": "Blocks wind completely while still letting me breathe easily. I use it on my motorcycle every day now.",
+            "review_name": "Jason K.",
             "author_name_color": "#000000",
             "highlight_review": false,
             "num_stars": 5,
@@ -1421,12 +1315,10 @@
         "slide_8RKUzj": {
           "type": "slide",
           "settings": {
-            "review_heading": "Review header of 2-4 words",
-            "review_text": "<em>A text review talking about the experience with the product - how it transformed their life, how they use it, what their experience is and so on.<\/em>",
-            "author_image": "",
-            "author_thumbnail_image": "",
+            "review_heading": "\"Stylish & Warm\"",
+            "review_text": "I didn’t expect a balaclava to look this good. The heat-reactive effect is subtle but really cool, and it keeps me warm without feeling heavy. Perfect for early morning rides.",
             "review_name": "Emily A.",
-            "author_name_color": "#000000",
+            "author_name_color": "#1e1e1e",
             "highlight_review": true,
             "num_stars": 5,
             "review_star_size": 20,
@@ -1441,10 +1333,8 @@
         "slide_BVamxE": {
           "type": "slide",
           "settings": {
-            "review_heading": "Review header of 2-4 words",
-            "review_text": "<em>A text review talking about the experience with the product - how it transformed their life, how they use it, what their experience is and so on.<\/em>",
-            "author_image": "",
-            "author_thumbnail_image": "",
+            "review_heading": "<strong>“Next-Level Comfort”</strong>",
+            "review_text": "Super soft and breathable. I’ve worn it for long rides and never felt irritated or overheated. The color change is a great bonus.",
             "review_name": "Will I.",
             "author_name_color": "#000000",
             "highlight_review": false,
@@ -1461,10 +1351,8 @@
         "slide_VVaXmX": {
           "type": "slide",
           "settings": {
-            "review_heading": "Review header of 2-4 words",
-            "review_text": "<em>A text review talking about the experience with the product - how it transformed their life, how they use it, what their experience is and so on.<\/em>",
-            "author_image": "",
-            "author_thumbnail_image": "",
+            "review_heading": "<strong>“Love the Design”</strong>",
+            "review_text": "The heat-reactive pattern makes it stand out from any other mask I’ve owned. Fits perfectly and feels premium.",
             "review_name": "Denisa N.",
             "author_name_color": "#000000",
             "highlight_review": false,
@@ -1480,22 +1368,33 @@
         }
       },
       "block_order": [
+        "slide_fGYqHP",
+        "slide_4A6368",
+        "slide_9jPhnp",
+        "slide_F4Gttp",
+        "slide_P4zkjy",
+        "slide_CDDxkh",
+        "slide_Kknxrx",
+        "slide_WMizyP",
+        "slide_pPnWHJ",
+        "slide_DBRzFw",
+        "slide_Q8dAQp",
         "slide_Wcwxbj",
         "slide_8RKUzj",
         "slide_BVamxE",
         "slide_VVaXmX"
       ],
       "settings": {
-        "section_heading": "Join over 10,000+ Happy Customers",
+        "section_heading": "Join over 3,000+ Happy Customers",
         "show_navigation_buttons": true,
         "show_overall_rating": true,
-        "overall_rating_text": "{rating_value} | {num} Customers",
+        "overall_rating_text": "4.8 | 3768 Customers",
         "overall_rating_value": 4.8,
         "show_opacity_on_inactive_slides": false,
         "heading_font_size": 35,
         "mobile_heading_font_size": 25,
-        "heading_color": "#000000",
-        "bolded_heading_color": "#000000",
+        "heading_color": "#ffffff",
+        "bolded_heading_color": "#ffffff",
         "heading_use_gradient": true,
         "heading_gradient_color": "",
         "color_scheme": "accent-1",
@@ -1503,12 +1402,12 @@
         "star_color": "#ffffff",
         "overall_rating_text_size": 14,
         "overall_rating_text_color": "#ffffff",
-        "overall_rating_background_color": "rgb(155,154,156)",
+        "overall_rating_background_color": "#9b9a9c",
         "overall_rating_use_gradient": false,
-        "overall_rating_gradient_color": "linear-gradient(160deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
+        "overall_rating_gradient_color": "linear-gradient(160deg, rgba(251, 51, 164, 1), rgba(96, 77, 188, 1) 100%)",
         "overall_rating_border_radius": 3,
         "slide_box_shadow": false,
-        "slide_background_color": "rgb(233,232,234)",
+        "slide_background_color": "#e9e8ea",
         "navigation_button_size": 35,
         "navgiation_button_background_color": "#ffffff",
         "left_right_icon_color": "#000000",
@@ -1531,228 +1430,11 @@
         "section_padding_bottom": 36
       }
     },
-    "key_features_7pxUnn": {
-      "type": "key-features",
-      "blocks": {
-        "key_features_list_Xc6fAU": {
-          "type": "_key-features-list",
-          "settings": {
-            "card_list_item_title_font_size_desktop": 16,
-            "card_list_item_title_font_size_mobile": 14,
-            "card_list_item_title_color": "#ffffff",
-            "card_list_item_text_font_size_desktop": 14,
-            "card_list_item_text_font_size_mobile": 12,
-            "card_list_item_text_color": "#eaeaea",
-            "card_list_item_badge_font_size_desktop": 13,
-            "card_list_item_badge_font_size_mobile": 12,
-            "card_list_item_badge_color": "#1e1e1e",
-            "card_list_item_badge_background_color": "#ffffff",
-            "badge_has_border": true,
-            "badge_border_color": "#ffffff",
-            "badge_border_width": 1,
-            "card_list_item_badge_border_radius": 140,
-            "card_list_item_badge_padding_vertical": 3,
-            "card_list_item_badge_padding_horizontal": 10,
-            "card_list_item_left_line_color": "#ffffff",
-            "card_list_item_left_line_has_gradient": false,
-            "card_list_item_left_line_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
-            "card_list_item_left_line_opacity": 60,
-            "card_list_item_left_line_width": 1,
-            "card_list_arrow_size": 18,
-            "card_list_item_arrow_color": "#ffffff",
-            "card_list_item_arrow_opacity": 60
-          },
-          "blocks": {
-            "key_feature_item_F7dqcy": {
-              "type": "_key-feature-item",
-              "name": "Key feature",
-              "settings": {
-                "badge": "<p>First Benefit<\/p>",
-                "title": "<p>Sturdy, Anti-Burst Design<\/p>",
-                "text": "<p>Ensures safety and durability during playtime.<\/p>",
-                "image": ""
-              },
-              "blocks": {}
-            },
-            "key_feature_item_cLXVex": {
-              "type": "_key-feature-item",
-              "name": "Key feature",
-              "settings": {
-                "badge": "<p>Second Benefit<\/p>",
-                "title": "<p>Height-Adjustable Handle<\/p>",
-                "text": "<p>Grows alongside your child for lasting fun.<\/p>",
-                "image": ""
-              },
-              "blocks": {}
-            },
-            "key_feature_item_tVe83r": {
-              "type": "_key-feature-item",
-              "name": "Key feature",
-              "settings": {
-                "badge": "<p>Third Benefit <\/p>",
-                "title": "<p>Lightweight and Portable<\/p>",
-                "text": "<p>Easily transportable for endless bouncing adventures.<\/p>",
-                "image": ""
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "key_feature_item_F7dqcy",
-            "key_feature_item_cLXVex",
-            "key_feature_item_tVe83r"
-          ]
-        }
-      },
-      "block_order": ["key_features_list_Xc6fAU"],
-      "name": "Product key features",
-      "settings": {
-        "card_title": "<p>Benefits of Active Playtime<\/p>",
-        "card_image": "",
-        "image_height": "small",
-        "card_title_font_size_desktop": 35,
-        "card_title_font_size_mobile": 25,
-        "card_title_color": "#ffffff",
-        "card_title_color_bold": "#ffffff",
-        "card_title_use_gradient": false,
-        "card_title_color_bold_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
-        "card_max_width": 1600,
-        "card_gap_desktop": 60,
-        "card_gap_mobile": 30,
-        "card_border_radius": 5,
-        "card_top_padding": 16,
-        "card_bottom_padding": 16,
-        "card_left_padding": 16,
-        "card_right_padding": 16,
-        "card_image_border_radius": 8,
-        "card_color_scheme": "accent-3",
-        "color_scheme": "custom-color-1",
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
-    "collapsible_content_qCMdgd": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_content_list_NtGKhx": {
-          "type": "_collapsible-content-list",
-          "settings": {
-            "heading_font_size": 16,
-            "heading_font_size_mobile": 16,
-            "body_font_size": 16,
-            "body_font_size_mobile": 16,
-            "index_number_size": 30,
-            "index_number_color": "#000000",
-            "index_number_background_color": "#ffffff",
-            "rows_have_border": false,
-            "row_gap": 15,
-            "border_radius": 6,
-            "row_container_bg_color_scheme": "rgb(233,232,234)",
-            "rows_border_color": "#000000",
-            "rows_border_color_opacity": 15,
-            "rows_border_width": 1,
-            "vertical_padding": 13,
-            "horizontal_padding": 19,
-            "icon_size": 11,
-            "icon_color": "#181818",
-            "title_row_has_underline_on_hover": false
-          },
-          "blocks": {
-            "collapsible_content_row_iH4wzw": {
-              "type": "_collapsible-content-row",
-              "settings": {
-                "heading": "What age group is this bouncing ball suitable for?",
-                "row_content": "<p>This incredible bouncing companion is perfect for energetic kids aged 3 to 12. It's designed to grow with your child, encouraging active play and helping them develop essential physical skills through fun and engaging movement.<\/p>",
-                "heading_color": "#383838",
-                "heading_highlighted_color": "#383838",
-                "body_color": "#302f2f",
-                "body_highlighted_color": "#302f2f"
-              },
-              "blocks": {}
-            },
-            "collapsible_content_row_YJHL6b": {
-              "type": "_collapsible-content-row",
-              "settings": {
-                "heading": "Is the jumping ball safe for children to use?",
-                "row_content": "<p>Absolutely! Our bouncing ball is crafted from high-quality, anti-burst materials, ensuring maximum safety during every leap and twist. Parents can feel confident knowing their kids are safe while having a blast.<\/p>",
-                "heading_color": "#383838",
-                "heading_highlighted_color": "#383838",
-                "body_color": "#302f2f",
-                "body_highlighted_color": "#302f2f"
-              },
-              "blocks": {}
-            },
-            "collapsible_content_row_xPdWkx": {
-              "type": "_collapsible-content-row",
-              "settings": {
-                "heading": "Can the handle height be adjusted as my child grows?",
-                "row_content": "<p>Yes! The height-adjustable handle allows you to tailor the bouncing ball to your child's size, making it a lasting addition to their playtime that will adapt as they grow and continue to have fun.<\/p>",
-                "heading_color": "#383838",
-                "heading_highlighted_color": "#383838",
-                "body_color": "#302f2f",
-                "body_highlighted_color": "#302f2f"
-              },
-              "blocks": {}
-            },
-            "collapsible_content_row_LCebyx": {
-              "type": "_collapsible-content-row",
-              "name": "Collapsible content row",
-              "settings": {
-                "heading": "What benefits does this bouncing ball provide for my child?",
-                "row_content": "<p>Beyond just entertainment, this bouncing ball enhances balance, coordination, and physical fitness. It boosts confidence as kids master their bouncing skills, promoting an active lifestyle while encouraging social interaction during playdates.<\/p>",
-                "heading_color": "#383838",
-                "heading_highlighted_color": "#383838",
-                "body_color": "#302f2f",
-                "body_highlighted_color": "#302f2f"
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "collapsible_content_row_iH4wzw",
-            "collapsible_content_row_YJHL6b",
-            "collapsible_content_row_xPdWkx",
-            "collapsible_content_row_LCebyx"
-          ]
-        }
-      },
-      "block_order": ["collapsible_content_list_NtGKhx"],
-      "name": "FAQ's",
-      "settings": {
-        "heading": "Frequently Asked Questions",
-        "subheading": "Find quick answers to the most common questions about our product.",
-        "show_index": true,
-        "content_max_width_desktop": 1100,
-        "desktop_layout": "image_first",
-        "image_ratio": "adapt",
-        "heading_alignment": "center",
-        "heading_subheading_gap": 7,
-        "heading_subheading_gap_mobile": 7,
-        "font_size": 35,
-        "mob_font_size": 25,
-        "heading_color": "#383838",
-        "heading_highlighted_color": "#383838",
-        "heading_use_gradient": true,
-        "heading_gradient_color": "",
-        "subheading_size": 16,
-        "subheading_mob_size": 16,
-        "subheading_color": "#383838",
-        "subheading_highlighted_color": "#383838",
-        "subheading_use_gradient": false,
-        "subheading_gradient_color": "linear-gradient(180deg, rgba(251,51,164, 1), rgba(127, 72, 176, 1) 50%, rgba(48, 145, 211, 1) 100%)",
-        "color_scheme": "accent-1",
-        "padding_top_content": 29,
-        "padding_bottom_content": 0,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
     "contact_form_3MgtG3": {
       "type": "contact-form",
       "name": "t:sections.contact-form.presets.name",
       "settings": {
         "heading": "Reach Out Any Time",
-        "contact_image": "",
         "image_height": "adapt",
         "heading_alignment": "left",
         "image_first_desktop": false,
@@ -1767,12 +1449,12 @@
         "contact_image_border_radius": 10,
         "heading_font_size": 40,
         "heading_mob_font_size": 28,
-        "heading_color": "#000000",
-        "bolded_heading_color": "#000000",
+        "heading_color": "#ffffff",
+        "bolded_heading_color": "#ffffff",
         "heading_use_gradient": true,
-        "heading_gradient_color": "linear-gradient(180deg, rgba(251,51,164, 1), rgba(127, 72, 176, 1) 50%, rgba(48, 145, 211, 1) 100%)",
+        "heading_gradient_color": "linear-gradient(180deg, rgba(251, 51, 164, 1), rgba(127, 72, 176, 1) 50%, rgba(48, 145, 211, 1) 100%)",
         "color_scheme": "accent-1",
-        "input_background_color": "rgb(233,232,234)",
+        "input_background_color": "#e9e8ea",
         "input_text_color": "#1d1a2d",
         "placeholder_color": "#686868",
         "input_border_radius": 6,
@@ -1782,7 +1464,7 @@
         "button_text": "Send Message",
         "button_full_width": true,
         "button_font_size": 12,
-        "button_background_color": "#1D1A2D",
+        "button_background_color": "#1d1a2d",
         "button_text_color": "#ffffff",
         "button_border_radius": 6,
         "button_padding_horizontal": 24,
@@ -1790,22 +1472,33 @@
         "padding_top": 24,
         "padding_bottom": 24
       }
+    },
+    "borders_3FGUCr": {
+      "type": "borders",
+      "name": "t:sections.borders.name",
+      "settings": {
+        "shape": "curved",
+        "border_size": "90",
+        "flip_horizontal": true,
+        "flip_vertical": false,
+        "shape_color": "base-accent-2",
+        "enable_custom_shape_color": true,
+        "custom_shape_color": "#383838",
+        "background_color": "base-accent-1",
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
     }
   },
   "order": [
     "main",
     "horizontal_scrolling_text_mgft6H",
-    "image_with_text_jxiKk3",
-    "scrolling_images_UgXcTG",
-    "borders_3WVyHf",
-    "rich_text_rPfaL7",
+    "video_wLm7Hz",
     "reasons_GqYHik",
     "feature_icons_bDyMKj",
-    "borders_6ffEVj",
-    "comparison_table_jRgDad",
+    "comparison_table_aJbwDw",
     "testimonials_AiHw4G",
-    "key_features_7pxUnn",
-    "collapsible_content_qCMdgd",
-    "contact_form_3MgtG3"
+    "contact_form_3MgtG3",
+    "borders_3FGUCr"
   ]
 }

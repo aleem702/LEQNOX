@@ -15,7 +15,7 @@
         "heading_j6VgPc": {
           "type": "heading",
           "settings": {
-            "heading": "Ignite Active Play and Joyful Movement",
+            "heading": "Built for Cold. Styled for the Streets.",
             "size": 40,
             "mobile_font_size": 25,
             "color": "#ffffff",
@@ -31,7 +31,7 @@
         "text_BpPwbx": {
           "type": "text",
           "settings": {
-            "text": "Transforming energy into happiness",
+            "text": "Stay warm, stay sharp — wherever the weather takes you.",
             "size": 15,
             "size_mobile": 12,
             "color": "#ffffff",
@@ -47,8 +47,8 @@
         "buttons_k9izFg": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify://products/ultimate-bouncing-joy-ball™",
+            "button_label_1": "Shop Now - Feel the Uniqueness",
+            "button_link_1": "shopify://products/heat-reactive-balaclava",
             "button_label_1_size": 14,
             "button_label_1_size_mobile": 12,
             "button_1_text_color": "#ffffff",
@@ -73,7 +73,7 @@
         "image_height": "adapt",
         "image_or_content_first": "image",
         "enable_waves": true,
-        "shape_color": "#ffffff",
+        "shape_color": "#000000",
         "shape_height_desktop": 100,
         "shape_height_mobile": 47,
         "desktop_content_position": "middle-center",
@@ -85,11 +85,11 @@
     "image_with_text_NrYFbe": {
       "type": "image-with-text",
       "settings": {
-        "image": "shopify://shop_images/ChatGPT_Image_Dec_17_2025_02_12_52_PM.png",
+        "image": "shopify://shop_images/ChatGPT_Image_Jan_8_2026_09_54_27_PM.png",
         "image_radius": 9,
         "defer_loading_image": true,
-        "heading": "Transform Playtime Today",
-        "text": "<p>Many children struggle to stay active and engaged in a fun way, leading to too much screen time. This innovative bouncing companion offers a lively solution that promotes physical fitness and imaginative play.</p>",
+        "heading": "<strong>Style That Reacts to You</strong>",
+        "text": "<p>LEQNOX introduces heat-reactive balaclavas that transform with your body temperature. As your heat rises, the design subtly changes — creating a look that’s always in motion. Protection, performance, and expression in one layer.</p>",
         "button_text": "",
         "button_link": "",
         "layout": "image_first",
@@ -114,11 +114,11 @@
         "grid_background_color": "#e9e8ea",
         "card_use_gradient": false,
         "card_gradient": "",
-        "benefit_1_text": "Boosts balance skills",
+        "benefit_1_text": "Heat-reactive color transformation",
         "benefit_1_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 24 24\" height=\"24px\" viewbox=\"0 0 24 24\" width=\"24px\" fill=\"#e3e3e3\"><g><rect fill=\"none\" height=\"24\" width=\"24\"></rect></g><g><path d=\"M23,12l-2.44-2.79l0.34-3.69l-3.61-0.82L15.4,1.5L12,2.96L8.6,1.5L6.71,4.69L3.1,5.5L3.44,9.2L1,12l2.44,2.79l-0.34,3.7 l3.61,0.82L8.6,22.5l3.4-1.47l3.4,1.46l1.89-3.19l3.61-0.82l-0.34-3.69L23,12z M10.09,16.72l-3.8-3.81l1.48-1.48l2.32,2.33 l5.85-5.87l1.48,1.48L10.09,16.72z\"></path></g></svg>",
-        "benefit_2_text": "Safe, durable design",
+        "benefit_2_text": "Breathable, all-day comfort",
         "benefit_2_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 24 24\" height=\"24px\" viewbox=\"0 0 24 24\" width=\"24px\" fill=\"#e3e3e3\"><g><rect fill=\"none\" height=\"24\" width=\"24\"></rect></g><g><path d=\"M23,12l-2.44-2.79l0.34-3.69l-3.61-0.82L15.4,1.5L12,2.96L8.6,1.5L6.71,4.69L3.1,5.5L3.44,9.2L1,12l2.44,2.79l-0.34,3.7 l3.61,0.82L8.6,22.5l3.4-1.47l3.4,1.46l1.89-3.19l3.61-0.82l-0.34-3.69L23,12z M10.09,16.72l-3.8-3.81l1.48-1.48l2.32,2.33 l5.85-5.87l1.48,1.48L10.09,16.72z\"></path></g></svg>",
-        "benefit_3_text": "Encourages active play",
+        "benefit_3_text": "Built for cold, designed for style",
         "benefit_3_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 24 24\" height=\"24px\" viewbox=\"0 0 24 24\" width=\"24px\" fill=\"#e3e3e3\"><g><rect fill=\"none\" height=\"24\" width=\"24\"></rect></g><g><path d=\"M23,12l-2.44-2.79l0.34-3.69l-3.61-0.82L15.4,1.5L12,2.96L8.6,1.5L6.71,4.69L3.1,5.5L3.44,9.2L1,12l2.44,2.79l-0.34,3.7 l3.61,0.82L8.6,22.5l3.4-1.47l3.4,1.46l1.89-3.19l3.61-0.82l-0.34-3.69L23,12z M10.09,16.72l-3.8-3.81l1.48-1.48l2.32,2.33 l5.85-5.87l1.48,1.48L10.09,16.72z\"></path></g></svg>",
         "benefits_icon_size": 20,
         "benefits_text_size": 14,
@@ -145,28 +145,28 @@
         "benefit_kDAbrL": {
           "type": "benefit",
           "settings": {
-            "benefit_text": "<p>Durable Anti-Burst Design</p>",
+            "benefit_text": "<p>Heat-Reactive Technology</p>",
             "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#e3e3e3\"><path d=\"m438-338 226-226-57-57-169 169-84-84-57 57 141 141Zm42 258q-139-35-229.5-159.5T160-516v-244l320-120 320 120v244q0 152-90.5 276.5T480-80Zm0-84q104-33 172-132t68-220v-189l-240-90-240 90v189q0 121 68 220t172 132Zm0-316Z\"></path></svg>"
           }
         },
         "benefit_9mAp3c": {
           "type": "benefit",
           "settings": {
-            "benefit_text": "<p>Height-Adjustable Handle</p>",
+            "benefit_text": "<p>Adaptive Color Transformation</p>",
             "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#e3e3e3\"><path d=\"m438-426 198-198-57-57-141 141-56-56-57 57 113 113Zm42 240q122-112 181-203.5T720-552q0-109-69.5-178.5T480-800q-101 0-170.5 69.5T240-552q0 71 59 162.5T480-186Zm0 106Q319-217 239.5-334.5T160-552q0-150 96.5-239T480-880q127 0 223.5 89T800-552q0 100-79.5 217.5T480-80Zm0-480Z\"></path></svg>"
           }
         },
         "benefit_kcN8ye": {
           "type": "benefit",
           "settings": {
-            "benefit_text": "<p>Lightweight and Portable</p>",
+            "benefit_text": "<p>Lightweight, Breathable Fabric</p>",
             "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#e3e3e3\"><path d=\"M40-200v-560h80v560H40Zm120 0v-560h80v560h-80Zm120 0v-560h40v560h-40Zm120 0v-560h80v560h-80Zm120 0v-560h120v560H520Zm160 0v-560h40v560h-40Zm120 0v-560h120v560H800Z\"></path></svg>"
           }
         },
         "benefit_pNj3Rj": {
           "type": "benefit",
           "settings": {
-            "benefit_text": "<p>Vibrant Color Options</p>",
+            "benefit_text": "<p>Bold Streetwear Aesthetic</p>",
             "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#e3e3e3\"><path d=\"m40-240 20-80h220l-20 80H40Zm80-160 20-80h260l-20 80H120Zm623 240 20-160 29-240 10-79-59 479ZM240-80q-33 0-56.5-23.5T160-160h583l59-479H692l-11 85q-2 17-15 26.5t-30 7.5q-17-2-26.5-14.5T602-564l9-75H452l-11 84q-2 17-15 27t-30 8q-17-2-27-15t-8-30l9-74H220q4-34 26-57.5t54-23.5h80q8-75 51.5-117.5T550-880q64 0 106.5 47.5T698-720h102q36 1 60 28t19 63l-60 480q-4 30-26.5 49.5T740-80H240Zm220-640h159q1-33-22.5-56.5T540-800q-35 0-55.5 21.5T460-720Z\"></path></svg>"
           }
         }
@@ -197,29 +197,14 @@
         "padding_bottom": 12
       }
     },
-    "borders_TanT6h": {
-      "type": "borders",
-      "settings": {
-        "shape": "waves",
-        "border_size": "60",
-        "flip_horizontal": true,
-        "flip_vertical": false,
-        "shape_color": "base-custom-color-2",
-        "enable_custom_shape_color": false,
-        "custom_shape_color": "#9b9a9c",
-        "background_color": "base-accent-1",
-        "padding_top": 10,
-        "padding_bottom": 10
-      }
-    },
     "comparison_table_zM4Ngh": {
       "type": "comparison-table",
       "blocks": {
         "comparison_table_content_HJKENH": {
           "type": "_comparison-table-content",
           "settings": {
-            "content_heading": "Unmatched Bounce Experience",
-            "body_content": "<p>Discover a playful companion that combines safety, fun, and fitness, encouraging active play while enhancing balance and creativity, setting the standard well above conventional toys.</p>",
+            "content_heading": "Unmatched Comfort. Engineered Quality",
+            "body_content": "<p>LEQNOX balaclavas are crafted from premium, skin-friendly materials designed for all-day comfort. Soft, breathable, and precision-engineered, each piece adapts to your body heat while maintaining a smooth, irritation-free fit. This is performance wear built for comfort — and elevated by innovation</p>",
             "content_alignment": "center",
             "heading_size": 40,
             "heading_mob_size": 25,
@@ -285,7 +270,7 @@
                 "comparison_table_row_RkKmf4": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Anti-Burst Safety",
+                    "benefit": "Premium heat-reactive fabric",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
@@ -299,7 +284,7 @@
                 "comparison_table_row_LP66XH": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Height-Adjustable",
+                    "benefit": "Ultra-soft, skin-safe materials",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
@@ -313,7 +298,7 @@
                 "comparison_table_row_UgaiJJ": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Highly Portable",
+                    "benefit": "Breathable, all-day comfort",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
@@ -327,7 +312,7 @@
                 "comparison_table_row_H4xrLR": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Engaging Colors",
+                    "benefit": "Precision tailoring for perfect fit",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
@@ -341,7 +326,7 @@
                 "comparison_table_row_q83zHz": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Boosts Confidence",
+                    "benefit": "Durable, high-quality construction",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
@@ -374,8 +359,8 @@
       ],
       "name": "Comparison table",
       "settings": {
-        "button_label": "Shop Now",
-        "link": "shopify://products/ultimate-bouncing-joy-ball™",
+        "button_label": "Shop Now - Experience Yourself",
+        "link": "shopify://products/heat-reactive-balaclava",
         "button_text_size": 12,
         "button_text_color": "#ffffff",
         "button_background_color": "#1d1a2d",
@@ -395,119 +380,6 @@
         "section_padding_bottom_desktop": 36
       }
     },
-    "borders_3nkwTk": {
-      "type": "borders",
-      "name": "t:sections.borders.name",
-      "settings": {
-        "shape": "waves",
-        "border_size": "60",
-        "flip_horizontal": false,
-        "flip_vertical": true,
-        "shape_color": "base-custom-color-2",
-        "enable_custom_shape_color": true,
-        "custom_shape_color": "#9b9a9c",
-        "background_color": "base-accent-1",
-        "padding_top": 10,
-        "padding_bottom": 10
-      }
-    },
-    "image_comparison_slider_y3wPPw": {
-      "type": "image-comparison-slider",
-      "blocks": {
-        "heading_xVYWke": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Exciting Results",
-            "size": 40,
-            "mobile_font_size": 28,
-            "color": "#000000",
-            "highlighted_color": "#000000",
-            "heading_use_gradient": true,
-            "heading_gradient_color": "",
-            "padding_top_desktop": 5,
-            "padding_bottom_desktop": 5,
-            "padding_top_mobile": 3,
-            "padding_bottom_mobile": 3
-          }
-        },
-        "text_NXFM34": {
-          "type": "text",
-          "settings": {
-            "text": "Discover the difference for yourself and see why our customers love the results.",
-            "size": 14,
-            "size_mobile": 14,
-            "color": "#666666",
-            "highlighted_color": "#000000",
-            "text_use_gradient": false,
-            "text_gradient_color": "",
-            "padding_top_desktop": 5,
-            "padding_bottom_desktop": 5,
-            "padding_top_mobile": 3,
-            "padding_bottom_mobile": 3
-          }
-        },
-        "buttons_rhA7qi": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify://products/ultimate-bouncing-joy-ball™",
-            "button_label_1_size": 14,
-            "button_label_1_size_mobile": 12,
-            "button_1_text_color": "#ffffff",
-            "button_1_background_color": "#000000",
-            "button_1_border_radius": 6,
-            "button_padding_vertical": 8,
-            "button_width_increase_desktop": 68,
-            "button_width_increase_mobile": 68,
-            "padding_top_desktop": 5,
-            "padding_bottom_desktop": 5,
-            "padding_top_mobile": 11,
-            "padding_bottom_mobile": 27
-          }
-        }
-      },
-      "block_order": [
-        "heading_xVYWke",
-        "text_NXFM34",
-        "buttons_rhA7qi"
-      ],
-      "name": "Before and after",
-      "settings": {
-        "before_image": "shopify://shop_images/ChatGPT_Image_Dec_18_2025_09_13_35_AM.png",
-        "after_image": "shopify://shop_images/chatgpt_after.png",
-        "image_height": 540,
-        "image_height_mobile": 300,
-        "enable_grayscale_before_image": true,
-        "before_label": "Before",
-        "after_label": "After",
-        "default_slider_position": 50,
-        "layout_desktop": "slider_second",
-        "layout_mobile": "slider_first_mobile",
-        "desktop_content_alignment": "center",
-        "mobile_content_alignment": "center",
-        "card_background_color": "#e9e8ea",
-        "card_border_radius": 6,
-        "labels_background_color": "#000000",
-        "labels_text_color": "#ffffff",
-        "labels_font_size": 14,
-        "labels_border_radius": 5,
-        "line_color": "#ffffff",
-        "line_width": 4,
-        "divider_icon_color": "#000000",
-        "divider_icon_size": 40,
-        "color_scheme": "accent-1",
-        "card_padding_top": 0,
-        "card_padding_right": 0,
-        "card_padding_bottom": 0,
-        "card_padding_left": 0,
-        "card_padding_top_mobile": 0,
-        "card_padding_right_mobile": 0,
-        "card_padding_bottom_mobile": 0,
-        "card_padding_left_mobile": 0,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
     "feature_icons_MMNaQM": {
       "type": "feature-icons",
       "blocks": {
@@ -518,10 +390,10 @@
             "title": "",
             "text": "<p>Worldwide Shipping</p>",
             "icon_heading_font_size": 24,
-            "icon_heading_color": "#000000",
-            "icon_bolded_heading_color": "#000000",
+            "icon_heading_color": "#ffffff",
+            "icon_bolded_heading_color": "#ffffff",
             "column_text_size": 15,
-            "column_text_color": "#000000",
+            "column_text_color": "#ffffff",
             "column_text_highlighted_color": "#000000",
             "custom_icon_color": "#000000"
           }
@@ -533,11 +405,11 @@
             "title": "",
             "text": "<p>24/7 Support</p>",
             "icon_heading_font_size": 24,
-            "icon_heading_color": "#000000",
-            "icon_bolded_heading_color": "#000000",
+            "icon_heading_color": "#ffffff",
+            "icon_bolded_heading_color": "#ffffff",
             "column_text_size": 15,
-            "column_text_color": "#000000",
-            "column_text_highlighted_color": "#000000",
+            "column_text_color": "#ffffff",
+            "column_text_highlighted_color": "#ffffff",
             "custom_icon_color": "#000000"
           }
         },
@@ -548,11 +420,11 @@
             "title": "",
             "text": "<p>Verified quality only</p>",
             "icon_heading_font_size": 24,
-            "icon_heading_color": "#000000",
-            "icon_bolded_heading_color": "#000000",
+            "icon_heading_color": "#ffffff",
+            "icon_bolded_heading_color": "#ffffff",
             "column_text_size": 15,
-            "column_text_color": "#000000",
-            "column_text_highlighted_color": "#000000",
+            "column_text_color": "#ffffff",
+            "column_text_highlighted_color": "#ffffff",
             "custom_icon_color": "#000000"
           }
         },
@@ -563,11 +435,11 @@
             "title": "",
             "text": "<p>Hassle-free returns</p>",
             "icon_heading_font_size": 24,
-            "icon_heading_color": "#000000",
-            "icon_bolded_heading_color": "#000000",
+            "icon_heading_color": "#ffffff",
+            "icon_bolded_heading_color": "#ffffff",
             "column_text_size": 15,
-            "column_text_color": "#000000",
-            "column_text_highlighted_color": "#000000",
+            "column_text_color": "#ffffff",
+            "column_text_highlighted_color": "#ffffff",
             "custom_icon_color": "#000000"
           }
         }
@@ -606,17 +478,17 @@
         "padding_bottom": 24
       }
     },
-    "borders_mEeNVn": {
+    "borders_tRNAPL": {
       "type": "borders",
       "name": "t:sections.borders.name",
       "settings": {
-        "shape": "waves",
-        "border_size": "60",
+        "shape": "curved",
+        "border_size": "90",
         "flip_horizontal": true,
         "flip_vertical": false,
         "shape_color": "base-accent-2",
         "enable_custom_shape_color": true,
-        "custom_shape_color": "#9b9a9c",
+        "custom_shape_color": "#383838",
         "background_color": "base-accent-1",
         "padding_top": 10,
         "padding_bottom": 10
@@ -627,11 +499,8 @@
     "image_banner_TVECWz",
     "image_with_text_NrYFbe",
     "benefits_cards_AHFLcL",
-    "borders_TanT6h",
     "comparison_table_zM4Ngh",
-    "borders_3nkwTk",
-    "image_comparison_slider_y3wPPw",
     "feature_icons_MMNaQM",
-    "borders_mEeNVn"
+    "borders_tRNAPL"
   ]
 }
