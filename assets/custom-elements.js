@@ -1380,7 +1380,6 @@ class VariantSelects extends HTMLElement {
   toggleAddButton(disable = true, text, modifyClass = true) {
     let productForm;
     if(this.closest(".card-product-variant-selector")) {
-
       const idProductForm = this.closest(".card-product-variant-selector").dataset.productFormId;
         productForm = document.getElementById(
           `${idProductForm}`
@@ -1389,19 +1388,25 @@ class VariantSelects extends HTMLElement {
       productForm = document.getElementById(
         `product-form-${this.dataset.section}`
       )
-      if(!productForm) return;
     }
-    const addButton = productForm.querySelector('[name="add"]');
+    
+    let addButton = productForm ? productForm.querySelector('[name="add"]') : null;
+    if (!addButton) {
+      addButton = document.getElementById(`ProductSubmitButton-${this.dataset.section}`);
+    }
+
     const stickyAddBtn = document.querySelector(".sticky-atc__button button");
     const stickyBtnText = stickyAddBtn?.querySelector("span");
-    const addButtonText = productForm.querySelector('[name="add"] > span');
+    
     if (!addButton) return;
+
+    const addButtonText = addButton.querySelector('.button-text') || addButton.querySelector('span');
 
     if (disable) {
       addButton.setAttribute("disabled", "disabled");
       stickyAddBtn?.setAttribute("disabled", "disabled");
       if (text) {
-        addButtonText.textContent = text;
+        if (addButtonText) addButtonText.textContent = text;
         if (stickyBtnText) {
           stickyBtnText.textContent = text;
         }
@@ -1409,7 +1414,7 @@ class VariantSelects extends HTMLElement {
     } else {
       addButton.removeAttribute("disabled");
       stickyAddBtn?.removeAttribute("disabled");
-      addButtonText.textContent = window.variantStrings.addToCart;
+      if (addButtonText) addButtonText.textContent = window.variantStrings.addToCart;
       if (stickyBtnText) {
         stickyBtnText.textContent = window.variantStrings.addToCart;
       }
