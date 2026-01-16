@@ -935,7 +935,7 @@
         "comparison_table_6b4tTK": {
           "type": "_comparison-table",
           "settings": {
-            "table_border_color": "#c4c4c4",
+            "table_border_color": "#e9e8ea",
             "table_border_opacity": 15,
             "self_cells_background_color": "#ffffff",
             "self_cells_background_opacity": 27,
@@ -962,7 +962,7 @@
                 "cell_header_brand_text_size": 16,
                 "cell_header_brand_text_color": "#ffffff",
                 "cell_header_competitor_text_size": 16,
-                "cell_header_competitor_text_color": "#383838"
+                "cell_header_competitor_text_color": "#757575"
               },
               "blocks": {}
             },
