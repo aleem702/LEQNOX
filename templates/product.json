@@ -322,7 +322,7 @@
                   "static": true,
                   "settings": {
                     "inventory_threshold": 10,
-                    "show_inventory_quantity": true,
+                    "show_inventory_quantity": false,
                     "inventory_status_color": "#ffffff",
                     "inventory_status_color_low": "#ee9441",
                     "inventory_status_color_in_stock": "#1b9139",
