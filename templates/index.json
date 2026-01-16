@@ -197,21 +197,6 @@
         "padding_bottom": 12
       }
     },
-    "borders_TanT6h": {
-      "type": "borders",
-      "settings": {
-        "shape": "waves",
-        "border_size": "60",
-        "flip_horizontal": true,
-        "flip_vertical": false,
-        "shape_color": "base-custom-color-2",
-        "enable_custom_shape_color": false,
-        "custom_shape_color": "#9b9a9c",
-        "background_color": "base-accent-1",
-        "padding_top": 10,
-        "padding_bottom": 10
-      }
-    },
     "comparison_table_zM4Ngh": {
       "type": "comparison-table",
       "blocks": {
@@ -514,7 +499,6 @@
     "image_banner_TVECWz",
     "image_with_text_NrYFbe",
     "benefits_cards_AHFLcL",
-    "borders_TanT6h",
     "comparison_table_zM4Ngh",
     "feature_icons_MMNaQM",
     "borders_tRNAPL"
