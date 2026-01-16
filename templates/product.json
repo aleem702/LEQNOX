@@ -1472,6 +1472,22 @@
         "padding_top": 24,
         "padding_bottom": 24
       }
+    },
+    "borders_3FGUCr": {
+      "type": "borders",
+      "name": "t:sections.borders.name",
+      "settings": {
+        "shape": "curved",
+        "border_size": "90",
+        "flip_horizontal": true,
+        "flip_vertical": false,
+        "shape_color": "base-accent-2",
+        "enable_custom_shape_color": true,
+        "custom_shape_color": "#383838",
+        "background_color": "base-accent-1",
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
     }
   },
   "order": [
@@ -1482,6 +1498,7 @@
     "feature_icons_bDyMKj",
     "comparison_table_aJbwDw",
     "testimonials_AiHw4G",
-    "contact_form_3MgtG3"
+    "contact_form_3MgtG3",
+    "borders_3FGUCr"
   ]
 }
