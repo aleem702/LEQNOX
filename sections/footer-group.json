@@ -63,8 +63,8 @@
       ],
       "settings": {
         "branding_text": "",
-        "enable_country_selector": true,
-        "enable_language_selector": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
         "show_policy": false,
         "enable_payment_icons": true,
         "policy_link_size": 12,
