@@ -1096,12 +1096,210 @@
     "testimonials_AiHw4G": {
       "type": "testimonials",
       "blocks": {
+        "slide_fGYqHP": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Highly Recommend”</strong>",
+            "review_text": "If you want something comfortable, stylish, and different from regular masks, this is it. I’m ordering another one.",
+            "review_name": "Natalie W.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_4A6368": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Great Face Coverage”</strong>",
+            "review_text": "Covers my face and neck perfectly against wind and dust. Ideal for riding and outdoor work.",
+            "review_name": "Mohammed Z.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_9jPhnp": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Top Quality Feel”</strong>",
+            "review_text": "Material feels durable and premium. After multiple washes it still looks brand new.",
+            "review_name": "Ryan C.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_F4Gttp": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Unique & Functional”</strong>",
+            "review_text": "The heat-reactive feature is not just for looks—it actually shows how your body heat changes. Very cool and practical.",
+            "review_name": "Lina H.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_P4zkjy": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Comfort All Day”</strong>",
+            "review_text": "Wore it for an entire work shift outdoors and forgot I even had it on. No discomfort at all.",
+            "review_name": "Kevin B.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_CDDxkh": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“All-Weather Ready”</strong>",
+            "review_text": "Works great in cold and still breathable when it’s not freezing. One of the most versatile pieces of gear I own.",
+            "review_name": "<strong> Arjun P.</strong>",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_Kknxrx": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Better Than Expected”</strong>",
+            "review_text": "I was worried it would feel cheap, but it’s actually very well made. Great for cold mornings and evening walks.",
+            "review_name": "Sofia L.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_WMizyP": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Looks Premium”</strong>",
+            "review_text": "Honestly feels like high-end gear. The heat-reactive design gets noticed and I’ve had people ask where I bought it.",
+            "review_name": "Daniel M.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_pPnWHJ": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Soft and Breathable”</strong>",
+            "review_text": "The fabric feels really smooth on the skin. No itching, no tight pressure, just a clean comfortable fit.",
+            "review_name": "Priya S.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_DBRzFw": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Great Winter Gear”</strong>",
+            "review_text": "Used it while hiking in cold weather and it performed amazingly. Stayed comfortable even after hours outside.",
+            "review_name": "Marcus T.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_Q8dAQp": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Warm Without Bulk”</strong>",
+            "review_text": "Lightweight but surprisingly warm. I hate thick masks, and this one is exactly what I was looking for.",
+            "review_name": "Ahmed R.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
         "slide_Wcwxbj": {
           "type": "slide",
           "settings": {
-            "review_heading": "Review header of 2-4 words",
-            "review_text": "<em>A text review talking about the experience with the product - how it transformed their life, how they use it, what their experience is and so on.</em>",
-            "review_name": "Sarah Michell's",
+            "review_heading": "<strong>“Perfect for Riding”</strong>",
+            "review_text": "Blocks wind completely while still letting me breathe easily. I use it on my motorcycle every day now.",
+            "review_name": "Jason K.",
             "author_name_color": "#000000",
             "highlight_review": false,
             "num_stars": 5,
@@ -1117,10 +1315,10 @@
         "slide_8RKUzj": {
           "type": "slide",
           "settings": {
-            "review_heading": "Review header of 2-4 words",
-            "review_text": "<em>A text review talking about the experience with the product - how it transformed their life, how they use it, what their experience is and so on.</em>",
+            "review_heading": "\"Stylish & Warm\"",
+            "review_text": "I didn’t expect a balaclava to look this good. The heat-reactive effect is subtle but really cool, and it keeps me warm without feeling heavy. Perfect for early morning rides.",
             "review_name": "Emily A.",
-            "author_name_color": "#000000",
+            "author_name_color": "#1e1e1e",
             "highlight_review": true,
             "num_stars": 5,
             "review_star_size": 20,
@@ -1135,8 +1333,8 @@
         "slide_BVamxE": {
           "type": "slide",
           "settings": {
-            "review_heading": "Review header of 2-4 words",
-            "review_text": "<em>A text review talking about the experience with the product - how it transformed their life, how they use it, what their experience is and so on.</em>",
+            "review_heading": "<strong>“Next-Level Comfort”</strong>",
+            "review_text": "Super soft and breathable. I’ve worn it for long rides and never felt irritated or overheated. The color change is a great bonus.",
             "review_name": "Will I.",
             "author_name_color": "#000000",
             "highlight_review": false,
@@ -1153,8 +1351,8 @@
         "slide_VVaXmX": {
           "type": "slide",
           "settings": {
-            "review_heading": "Review header of 2-4 words",
-            "review_text": "<em>A text review talking about the experience with the product - how it transformed their life, how they use it, what their experience is and so on.</em>",
+            "review_heading": "<strong>“Love the Design”</strong>",
+            "review_text": "The heat-reactive pattern makes it stand out from any other mask I’ve owned. Fits perfectly and feels premium.",
             "review_name": "Denisa N.",
             "author_name_color": "#000000",
             "highlight_review": false,
@@ -1170,6 +1368,17 @@
         }
       },
       "block_order": [
+        "slide_fGYqHP",
+        "slide_4A6368",
+        "slide_9jPhnp",
+        "slide_F4Gttp",
+        "slide_P4zkjy",
+        "slide_CDDxkh",
+        "slide_Kknxrx",
+        "slide_WMizyP",
+        "slide_pPnWHJ",
+        "slide_DBRzFw",
+        "slide_Q8dAQp",
         "slide_Wcwxbj",
         "slide_8RKUzj",
         "slide_BVamxE",
@@ -1184,8 +1393,8 @@
         "show_opacity_on_inactive_slides": false,
         "heading_font_size": 35,
         "mobile_heading_font_size": 25,
-        "heading_color": "#000000",
-        "bolded_heading_color": "#000000",
+        "heading_color": "#ffffff",
+        "bolded_heading_color": "#ffffff",
         "heading_use_gradient": true,
         "heading_gradient_color": "",
         "color_scheme": "accent-1",
@@ -1195,7 +1404,7 @@
         "overall_rating_text_color": "#ffffff",
         "overall_rating_background_color": "#9b9a9c",
         "overall_rating_use_gradient": false,
-        "overall_rating_gradient_color": "linear-gradient(160deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
+        "overall_rating_gradient_color": "linear-gradient(160deg, rgba(251, 51, 164, 1), rgba(96, 77, 188, 1) 100%)",
         "overall_rating_border_radius": 3,
         "slide_box_shadow": false,
         "slide_background_color": "#e9e8ea",
