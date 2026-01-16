@@ -670,8 +670,8 @@
       "type": "video",
       "name": "t:sections.video.presets.name",
       "settings": {
-        "heading": "Video",
-        "heading_size": 40,
+        "heading": "",
+        "heading_size": 25,
         "heading_mob_size": 28,
         "video": "shopify://files/videos/Balaclava Video.mp4",
         "video_url": "",
