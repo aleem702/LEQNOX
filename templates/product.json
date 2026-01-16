@@ -690,7 +690,7 @@
         "reasons_to_buy_content_rmwz9L": {
           "type": "_reasons-to-buy-content",
           "settings": {
-            "heading": "Trusted by Happy Young Jumpers",
+            "heading": "Trusted by Performance-Driven Customers",
             "heading_tag": "h3",
             "heading_size": 40,
             "reasons_mob_heading_size": 28,
@@ -700,7 +700,7 @@
             "heading_gradient_color": "linear-gradient(180deg, rgba(251, 51, 164, 1), rgba(96, 77, 188, 1) 100%)",
             "headig_padding_top": 0,
             "headig_padding_bottom": 0,
-            "text": "Delivering quality and consistency that customers rely on.",
+            "text": "Delivering comfort, innovation, and protection that customers rely on in every environment.",
             "text_tag": "p",
             "text_size": 16,
             "text_mob_size": 16,
@@ -720,18 +720,18 @@
           "type": "_reasons-to-buy-product-card",
           "settings": {
             "product_url": "#main-product-top",
-            "product_title": "<p>Ultimate Bouncing Joy Ball™</p>",
-            "product_description": "<p></p>",
+            "product_title": "<p><strong>LEQNOX Heat-Reactive Balaclava</strong></p>",
+            "product_description": "",
             "product_title_font_size": 17,
             "product_title_color": "#ffffff",
             "product_description_font_size": 14,
             "product_description_color": "#ffffff",
             "card_background_color": "#9b9a9c",
             "card_has_gradient": false,
-            "card_gradient": "linear-gradient(180deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
+            "card_gradient": "linear-gradient(180deg, rgba(251, 51, 164, 1), rgba(96, 77, 188, 1) 100%)",
             "product_description_opacity": 70,
             "arrow_icon_color": "#ffffff",
-            "card_border_radius": 10,
+            "card_border_radius": 11,
             "thumbnail_border_radius": 4,
             "text_content_gap": 10,
             "text_content_gap_mobile": 11
@@ -764,7 +764,7 @@
               "type": "_reasons-to-buy-stat",
               "settings": {
                 "row_heading": "<p>Improved Balance Skills</p>",
-                "row_text": "<p>Achieved better balance and coordination after just a few week of bouncing regularly.</p>",
+                "row_text": "<p>Customers reported improved comfort and protection during outdoor activities, even in cold and windy conditions.</p>",
                 "percentage": 92
               },
               "blocks": {}
@@ -773,7 +773,7 @@
               "type": "_reasons-to-buy-stat",
               "settings": {
                 "row_heading": "<p>Increased Physical Activity</p>",
-                "row_text": "<p>Parents noticed their children were more active and engaged with outdoor play.</p>",
+                "row_text": "<p>Wearers noticed better breathability and reduced irritation compared to traditional face masks.</p>",
                 "percentage": 87
               },
               "blocks": {}
@@ -782,7 +782,7 @@
               "type": "_reasons-to-buy-stat",
               "settings": {
                 "row_heading": "<p>Boosted Confidence</p>",
-                "row_text": "<p>Children reported feeling more confident as they mastered their jumping skills.</p>",
+                "row_text": "<p>Users loved the heat-reactive design and modern look, calling it both functional and stylish.</p>",
                 "percentage": 94
               },
               "blocks": {}
