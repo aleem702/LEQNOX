@@ -311,9 +311,9 @@
                   "static": true,
                   "settings": {
                     "quantity_label_font_size": 14,
-                    "quantity_label_color": "#000000",
+                    "quantity_label_color": "#e9e8ea",
                     "subtotal_font_size": 12,
-                    "subtotal_color": "#666666"
+                    "subtotal_color": "#e9e8ea"
                   },
                   "blocks": {}
                 },
