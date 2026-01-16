@@ -1,0 +1,1504 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "product-gallery": {
+          "type": "_product-gallery",
+          "static": true,
+          "settings": {
+            "gallery_layout": "thumbnail_slider",
+            "enable_sticky_info": true,
+            "image_zoom": "none",
+            "full_width_gallery_mobile": false,
+            "media_size": "small",
+            "mobile_thumbnails": "show",
+            "enable_video_looping": false,
+            "show_gallery_nav_buttons": true,
+            "show_button_navigation_mobile": true,
+            "nav_button_size": 41,
+            "nav_button_bg_color": "#ffffff",
+            "nav_button_hover_bg_color": "#ffffff",
+            "nav_button_border_color": "#c9c9c9",
+            "nav_button_hover_border_color": "#999999",
+            "nav_button_icon_color": "#000000",
+            "nav_button_hover_icon_color": "#333333",
+            "slider_counter_font_size": 12,
+            "slider_counter_color": "#000000",
+            "slider_counter_active_color": "#000000"
+          },
+          "blocks": {
+            "product-media": {
+              "type": "_product-media",
+              "static": true,
+              "settings": {
+                "media_fit": "cover",
+                "media_border_radius": 6,
+                "media_border_radius_mobile": 6,
+                "mobile_media_ratio": "square",
+                "mobile_media_height": "large",
+                "media_badge_position": "top-right",
+                "media_badge_size": "medium"
+              },
+              "blocks": {}
+            },
+            "product-thumbnails": {
+              "type": "_product-thumbnails",
+              "static": true,
+              "settings": {
+                "show_navigation_buttons": false,
+                "mobile_thumb_size": "small",
+                "active_thumbnail_border_width": 1,
+                "thumbnail_border_radius": 10,
+                "active_thumbnail_border_color": "#000000"
+              },
+              "blocks": {
+                "product-thumbnails-dots": {
+                  "type": "_product-thumbnails-dots",
+                  "static": true,
+                  "settings": {
+                    "max_dots_visible": 6,
+                    "dots_size": 10,
+                    "dots_color": "#c9c9c9",
+                    "dots_active_color": "#000000"
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": []
+            }
+          },
+          "block_order": []
+        },
+        "product-information": {
+          "type": "_product-information",
+          "static": true,
+          "settings": {},
+          "blocks": {
+            "rating_HYWfzY": {
+              "type": "rating",
+              "name": "Product Rating",
+              "settings": {
+                "rating_alignment": "flex-start",
+                "padding_top": 3,
+                "padding_bottom": 3,
+                "padding_top_mobile": 12,
+                "padding_bottom_mobile": 3
+              },
+              "blocks": {
+                "rating_profile_images": {
+                  "type": "_rating_profile_images",
+                  "static": true,
+                  "settings": {
+                    "profile_image_size": 21,
+                    "profile_image_border_width": 1,
+                    "profile_image_overlap": 8,
+                    "profile_image_border_color": "#ffffff"
+                  },
+                  "blocks": {
+                    "profile_images_list": {
+                      "type": "_profile_images_list",
+                      "static": true,
+                      "settings": {},
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": []
+                },
+                "rating_content": {
+                  "type": "_rating_content",
+                  "static": true,
+                  "settings": {
+                    "rating_text": "<p><strong>4.8</strong> | 3768 Customers </p>",
+                    "product_rating": 4.8,
+                    "rating_text_font_size": 13,
+                    "rating_text_mob_font_size": 12,
+                    "rating_text_color": "#ffffff",
+                    "rating_container_background": "#000000",
+                    "is_rating_container_gradient": false,
+                    "rating_container_gradient_color": "linear-gradient(160deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
+                    "rating_container_border_radius": 2,
+                    "rating_container_vertical_padding": 4,
+                    "star_size": 12,
+                    "stars_color": "#ffffff",
+                    "stars_background_color": "#ffffff",
+                    "stars_gap": 0,
+                    "stars_margin": 8
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": []
+            },
+            "title_9cUzFz": {
+              "type": "title",
+              "name": "Product Title",
+              "settings": {
+                "title_alignment": "left",
+                "mobile_title_alignment": "left",
+                "font_size": 28,
+                "mobile_font_size": 22,
+                "title_color": "#ffffff",
+                "uppercase_title": false,
+                "padding_top": 4,
+                "padding_bottom": 2,
+                "padding_top_mobile": 0,
+                "padding_bottom_mobile": 0
+              },
+              "blocks": {}
+            },
+            "price_rNLTVV": {
+              "type": "price",
+              "name": "Product Price",
+              "settings": {
+                "layout": "price_first",
+                "price_gap": 8,
+                "regular_font_size": 22,
+                "main_price_color": "#ffffff",
+                "compare_price_font_size": 18,
+                "compare_price_color": "#000000",
+                "padding_top": 6,
+                "padding_bottom": 6,
+                "padding_top_mobile": 0,
+                "padding_bottom_mobile": 0
+              },
+              "blocks": {
+                "price_badge": {
+                  "type": "_price_badge",
+                  "static": true,
+                  "settings": {
+                    "sale_badge_font_size": 12,
+                    "sale_badge_height": 20,
+                    "sale_badge_padding": 8
+                  },
+                  "blocks": {}
+                },
+                "price_unit_price": {
+                  "type": "_price_unit_price",
+                  "static": true,
+                  "settings": {
+                    "show_unit_price": true,
+                    "unit_price_font_size": 12,
+                    "unit_price_color": "#000000"
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": []
+            },
+            "bullet_point_benefits_L9Ekdy": {
+              "type": "bullet-point-benefits",
+              "name": "Product Features",
+              "settings": {
+                "display_layout": "pills_column_2",
+                "column_gap": 8,
+                "pill_background": "#ffffff",
+                "pill_text_color": "#000000",
+                "pill_border_color": "#9b9a9c",
+                "pill_border_radius": 40,
+                "pill_font_size": 12,
+                "pill_font_weight": 500,
+                "pill_padding_horizontal": 8,
+                "pill_padding_vertical": 2,
+                "body_font_size": 14,
+                "text_color": "#136ea2",
+                "text_highlighted_color": "#136ea2",
+                "emoji_size": 18,
+                "emoji_color": "#9b9a9c",
+                "padding_top": 6,
+                "padding_bottom": 6,
+                "padding_top_mobile": 8,
+                "padding_bottom_mobile": 0
+              },
+              "blocks": {
+                "bullet-point-benefits-list": {
+                  "type": "_bullet-point-benefits-list",
+                  "static": true,
+                  "settings": {
+                    "point_1": "Heat-Reactive Technology",
+                    "icon_1": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
+                    "point_2": "Breathable Comfort",
+                    "icon_2": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
+                    "point_3": "All-Weather Protection",
+                    "icon_3": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
+                    "point_4": "Lightweight Performance",
+                    "icon_4": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
+                    "point_5": "",
+                    "icon_5": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
+                    "point_6": "",
+                    "icon_6": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
+                    "point_7": "",
+                    "icon_7": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
+                    "point_8": "",
+                    "icon_8": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
+                    "point_9": "",
+                    "icon_9": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
+                    "point_10": "",
+                    "icon_10": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
+                    "point_11": "",
+                    "icon_11": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>",
+                    "point_12": "",
+                    "icon_12": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z\"></path></svg>"
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": []
+            },
+            "divider_XjYQhi": {
+              "type": "divider",
+              "name": "Divider",
+              "settings": {
+                "divider_height": 1,
+                "divider_color": "#000000",
+                "divider_opacity": 20,
+                "padding_top": 10,
+                "padding_bottom": 10,
+                "padding_top_mobile": 10,
+                "padding_bottom_mobile": 10
+              },
+              "blocks": {}
+            },
+            "variant_picker_cca4P7": {
+              "type": "variant_picker",
+              "name": "Variant Picker",
+              "settings": {
+                "enable_color_swatches": true,
+                "picker_type": "button",
+                "custom_swatch_option_name": "Color",
+                "color_swatch_type": "image",
+                "swatch_size": "6rem",
+                "swatch_type": "circle",
+                "variants_custom_color": "#000000",
+                "pills_border_radius": 70,
+                "pills_font_size": 14,
+                "pills_vertical_spacing": 10,
+                "pills_horizontal_spacing": 15,
+                "pills_background_color": "#f6f6f6",
+                "pills_selected_background_color": "#000000",
+                "pills_text_color": "#000000",
+                "pills_selected_text_color": "#ffffff",
+                "padding_top": 0,
+                "padding_bottom": 12,
+                "padding_top_mobile": 0,
+                "padding_bottom_mobile": 0
+              },
+              "blocks": {}
+            },
+            "quantity_selector_BqH8Bi": {
+              "type": "quantity_selector",
+              "name": "Buy buttons",
+              "settings": {
+                "add_to_cart_full_width": true,
+                "show_buy_now_button": false,
+                "padding_top": 6,
+                "padding_bottom": 6,
+                "padding_top_mobile": 6,
+                "padding_bottom_mobile": 6
+              },
+              "blocks": {
+                "quantity_label": {
+                  "type": "_quantity_label",
+                  "static": true,
+                  "settings": {
+                    "quantity_label_font_size": 14,
+                    "quantity_label_color": "#e9e8ea",
+                    "subtotal_font_size": 12,
+                    "subtotal_color": "#e9e8ea"
+                  },
+                  "blocks": {}
+                },
+                "inventory_quantity": {
+                  "type": "_inventory_quantity",
+                  "static": true,
+                  "settings": {
+                    "inventory_threshold": 10,
+                    "show_inventory_quantity": false,
+                    "inventory_status_color": "#ffffff",
+                    "inventory_status_color_low": "#ee9441",
+                    "inventory_status_color_in_stock": "#1b9139",
+                    "stock_indicator_font_size": 12,
+                    "stock_dot_size": 14
+                  },
+                  "blocks": {}
+                },
+                "quantity_form": {
+                  "type": "_quantity_form",
+                  "static": true,
+                  "settings": {
+                    "border_radius": 6,
+                    "button_border_radius": 3,
+                    "background_color": "#f6f6f6",
+                    "border_color": "#ebebeb",
+                    "text_color": "#111111",
+                    "button_icon_color": "#111111",
+                    "button_background_color": "#ffffff"
+                  },
+                  "blocks": {}
+                },
+                "add_to_cart_button": {
+                  "type": "_add_to_cart_button",
+                  "static": true,
+                  "settings": {
+                    "add_to_cart_text": "Add to cart",
+                    "button_font_size": 14,
+                    "uppercase_text": true,
+                    "text_color": "#ffffff",
+                    "bg_color": "#1e1e1e",
+                    "border_radius": 6
+                  },
+                  "blocks": {}
+                },
+                "buy_now_button": {
+                  "type": "_buy_now_button",
+                  "static": true,
+                  "settings": {
+                    "buy_now_text": "Buy now",
+                    "buy_now_button_font_size": 14,
+                    "buy_now_button_font_weight": 400,
+                    "buy_now_uppercase_text": false,
+                    "buy_now_text_color": "#ffffff",
+                    "buy_now_bg_color": "#000000",
+                    "buy_now_border_radius": 6,
+                    "padding_top": 6,
+                    "padding_bottom": 6,
+                    "padding_top_mobile": 6,
+                    "padding_bottom_mobile": 6
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": []
+            },
+            "social_proof_t6FNkr": {
+              "type": "social_proof",
+              "name": "Social Proof",
+              "settings": {
+                "purchase_text": "Trusted by 3,000+ Customers",
+                "text_color": "#ffffff",
+                "font_size": 12,
+                "padding_top": 0,
+                "padding_bottom": 0,
+                "padding_top_mobile": 0,
+                "padding_bottom_mobile": 0
+              },
+              "blocks": {
+                "rating_profile_images": {
+                  "type": "_rating_profile_images",
+                  "static": true,
+                  "settings": {
+                    "profile_image_size": 21,
+                    "profile_image_border_width": 1,
+                    "profile_image_overlap": 8,
+                    "profile_image_border_color": "#ffffff"
+                  },
+                  "blocks": {
+                    "profile_images_list": {
+                      "type": "_profile_images_list",
+                      "static": true,
+                      "settings": {},
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": []
+                }
+              },
+              "block_order": []
+            },
+            "payment_badges_mdNTxn": {
+              "type": "payment_badges",
+              "name": "Payment Badges",
+              "settings": {
+                "use_shopify_dynamic_payment_icons": true,
+                "image_layout": "center",
+                "custom_image_size": 80,
+                "custom_image_size_mobile": 80,
+                "payment_icons_image_size": 40,
+                "payment_icons_image_size_mobile": 30,
+                "padding_top": 4,
+                "padding_bottom": 4,
+                "padding_top_mobile": 4,
+                "padding_bottom_mobile": 4
+              },
+              "blocks": {}
+            },
+            "payment_badges_yf76Lm": {
+              "type": "payment_badges",
+              "name": "Payment Badges",
+              "settings": {
+                "use_shopify_dynamic_payment_icons": false,
+                "image_layout": "center",
+                "custom_image_size": 100,
+                "custom_image_size_mobile": 80,
+                "payment_icons_image_size": 28,
+                "payment_icons_image_size_mobile": 24,
+                "padding_top": 0,
+                "padding_bottom": 0,
+                "padding_top_mobile": 0,
+                "padding_bottom_mobile": 0
+              },
+              "blocks": {}
+            },
+            "icon_with_text_UYemba": {
+              "type": "icon-with-text",
+              "name": "Icon Highlights",
+              "settings": {
+                "heading_1": "Safe Payment",
+                "icon_1": "",
+                "image_1": "shopify://shop_images/assured_workload_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
+                "heading_2": "Free Shipping",
+                "icon_2": "",
+                "image_2": "shopify://shop_images/delivery_truck_bolt_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
+                "heading_3": "24/7 Support",
+                "icon_3": "",
+                "image_3": "shopify://shop_images/support_agent_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
+                "layout_direction": "horizontal",
+                "text_color": "#ffffff",
+                "font_size": 12,
+                "custom_icon_color": "#000000",
+                "icon_size": 18,
+                "padding_top": 10,
+                "padding_bottom": 10,
+                "padding_top_mobile": 10,
+                "padding_bottom_mobile": 10
+              },
+              "blocks": {}
+            },
+            "collapsible_tabs_e8Hyd8": {
+              "type": "collapsible_tabs",
+              "name": "Collapsible tabs",
+              "settings": {
+                "padding_top": 10,
+                "padding_bottom": 10,
+                "padding_top_mobile": 10,
+                "padding_bottom_mobile": 10
+              },
+              "blocks": {
+                "collapsible_tab_mjFUL7": {
+                  "type": "_collapsible_tab",
+                  "name": "Collapsible Tab",
+                  "settings": {
+                    "heading": "Description",
+                    "content": "<p>Upgrade your everyday protection with the <strong>LEQNOX Heat-Reactive Balaclava</strong> — engineered for comfort, performance, and modern style. Designed with advanced temperature-sensitive fabric, it subtly changes appearance when exposed to body heat while delivering reliable thermal protection.</p><p>Whether you're riding, training, exploring outdoors, or facing cold and wind, this balaclava offers breathable warmth without bulk. The soft, stretchable fabric ensures a snug yet pressure-free fit for all-day wear.</p><ul><li>Heat-reactive color-changing fabric.</li><li>Wind, dust & UV protection.</li><li>Lightweight, soft & stretchable material.</li><li>Multi-use design: full mask, open-face hood, or neck gaiter.</li><li>Thermal insulation with breathable comfort.</li></ul>",
+                    "collapsible_font_heading_size": 16,
+                    "collapsible_font_size": 12,
+                    "coll_heading_color": "#ffffff",
+                    "coll_heading_highlighted_color": "#ffffff",
+                    "coll_text_color": "#ffffff",
+                    "coll_text_highlighted_color": "#ffffff",
+                    "collapsible_border_radius": 20
+                  },
+                  "blocks": {}
+                },
+                "collapsible_tab_fmGN3m": {
+                  "type": "_collapsible_tab",
+                  "name": "Collapsible Tab",
+                  "settings": {
+                    "heading": "Most Common Questions",
+                    "content": "<p><strong>Question 1: What is a heat-reactive balaclava?</strong></p><p><strong>Answer:</strong> A heat-reactive balaclava uses temperature-sensitive fabric that subtly changes color when exposed to body heat, creating a dynamic look while still providing thermal protection.</p><p><strong>Question 2: Is this balaclava suitable for all seasons?</strong></p><p><strong>Answer:</strong> Yes. It is designed to offer warmth in cold conditions while remaining breathable in mild weather, making it suitable for year-round use during outdoor activities.<br/><br/><strong>Question 3: What activities is this balaclava best for?</strong></p><p><strong>Answer:</strong> It’s ideal for biking, motorcycling, hiking, skiing, workouts, tactical use, outdoor work, and daily cold-weather wear.</p><p><strong>Question 4: Is the fabric comfortable for long use?</strong></p><p><strong>Answer:</strong> Absolutely. The balaclava is made from soft, lightweight, and stretchable material that provides a snug fit without irritation or pressure, even during extended wear.</p><p><strong>Question 5: Can it be worn in different styles?</strong></p><p><strong>Answer:</strong> Yes. You can wear it as a full face mask, open-face hood, neck gaiter, or head cover—making it versatile for different conditions and preferences.<br/><br/><strong>Question 6: Is this one-size-fits-all?</strong></p><p><strong>Answer:</strong> The stretchable design fits most head sizes comfortably for both men and women.</p><p><strong>Question 7: How do I care for the balaclava?</strong></p><p><strong>Answer:</strong> Hand wash or machine wash on a gentle cycle with cold water. Air dry for best results and long-lasting performance.</p>",
+                    "collapsible_font_heading_size": 16,
+                    "collapsible_font_size": 12,
+                    "coll_heading_color": "#ffffff",
+                    "coll_heading_highlighted_color": "#ffffff",
+                    "coll_text_color": "#ffffff",
+                    "coll_text_highlighted_color": "#ffffff",
+                    "collapsible_border_radius": 20
+                  },
+                  "blocks": {}
+                },
+                "collapsible_tab_6gizn9": {
+                  "type": "_collapsible_tab",
+                  "name": "Collapsible Tab",
+                  "settings": {
+                    "heading": "Processing & Shipping",
+                    "content": "<p>We offer Free Express Shipping on all orders! Please allow 1-2 Business Days for us to process and ship your order. Estimated Arrival Time: 7-12 business days.</p>",
+                    "collapsible_font_heading_size": 16,
+                    "collapsible_font_size": 12,
+                    "coll_heading_color": "#ffffff",
+                    "coll_heading_highlighted_color": "#ffffff",
+                    "coll_text_color": "#ffffff",
+                    "coll_text_highlighted_color": "#ffffff",
+                    "collapsible_border_radius": 20
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "collapsible_tab_mjFUL7",
+                "collapsible_tab_fmGN3m",
+                "collapsible_tab_6gizn9"
+              ]
+            },
+            "sticky_atc_dyxKah": {
+              "type": "sticky_atc",
+              "name": "Sticky Add to Cart",
+              "settings": {
+                "button_label": "Add to cart",
+                "color_scheme": "accent-3",
+                "border_radius": 6,
+                "close_button_size": 10,
+                "close_button_color": "#000000",
+                "display_when": "after_scroll",
+                "show_price_badge": true,
+                "show_variant_selector": true,
+                "show_only_atc_button_on_mobile": false,
+                "show_close_button": true,
+                "show_price": true,
+                "show_compare_at_price": true,
+                "title_size": 15,
+                "product_title_color": "#ffffff",
+                "option_size": 12,
+                "product_option_color": "#ffffff",
+                "price_size": 18,
+                "price_color": "#ffffff",
+                "comp_price_size": 14,
+                "compare_price_color": "#fdfdfd",
+                "bold_sticky_atc_text": false,
+                "button_font_size": 12,
+                "button_text_color": "#ffffff",
+                "button_bg_color": "#1d1a2d",
+                "button_border_radius": 6,
+                "input_font_size": 14,
+                "input_text_color": "#ffffff",
+                "input_bg_color": "#ffffff",
+                "input_bg_color_opacity": 20,
+                "input_border_color": "#ffffff",
+                "input_border_color_opacity": 100,
+                "input_border_width": 1,
+                "input_border_radius": 6,
+                "image_height": 66,
+                "image_width": 64,
+                "hide_image_on_mobile": true,
+                "image_height_mobile": 52,
+                "image_width_mobile": 40,
+                "padding_top": 0,
+                "padding_bottom": 0,
+                "padding_top_mobile": 0,
+                "padding_bottom_mobile": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "rating_HYWfzY",
+            "title_9cUzFz",
+            "price_rNLTVV",
+            "bullet_point_benefits_L9Ekdy",
+            "divider_XjYQhi",
+            "variant_picker_cca4P7",
+            "quantity_selector_BqH8Bi",
+            "social_proof_t6FNkr",
+            "payment_badges_mdNTxn",
+            "payment_badges_yf76Lm",
+            "icon_with_text_UYemba",
+            "collapsible_tabs_e8Hyd8",
+            "sticky_atc_dyxKah"
+          ]
+        }
+      },
+      "settings": {
+        "show_main_image_first": false,
+        "section_color_scheme": "accent-1",
+        "padding_top_desktop": 20,
+        "padding_bottom_desktop": 20,
+        "padding_top_mobile": 8,
+        "padding_bottom_mobile": 20
+      }
+    },
+    "horizontal_scrolling_text_mgft6H": {
+      "type": "horizontal-scrolling-text",
+      "blocks": {
+        "text_rMpbNF": {
+          "type": "text",
+          "settings": {
+            "title": "Premium Fabric"
+          }
+        },
+        "text_bhKVK4": {
+          "type": "text",
+          "settings": {
+            "title": "Breathable Comfort"
+          }
+        },
+        "text_WjTjtc": {
+          "type": "text",
+          "settings": {
+            "title": "Lightweight Performance"
+          }
+        },
+        "text_hfPTxT": {
+          "type": "text",
+          "settings": {
+            "title": "All-Weather Protection"
+          }
+        },
+        "text_PnmK77": {
+          "type": "text",
+          "settings": {
+            "title": "Heat-Reactive Technology"
+          }
+        }
+      },
+      "block_order": [
+        "text_rMpbNF",
+        "text_bhKVK4",
+        "text_WjTjtc",
+        "text_hfPTxT",
+        "text_PnmK77"
+      ],
+      "settings": {
+        "speed": 1,
+        "text_size": 14,
+        "text_spacing": 3,
+        "text_color": "#ffffff",
+        "highlighted_text_color": "#ffffff",
+        "color_scheme": "accent-3",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "video_wLm7Hz": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": 25,
+        "heading_mob_size": 28,
+        "video": "shopify://files/videos/Balaclava Video.mp4",
+        "video_url": "",
+        "description": "",
+        "full_width": false,
+        "heading_color": "#ffffff",
+        "bolded_heading_color": "#ffffff",
+        "color_scheme": "accent-3",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "reasons_GqYHik": {
+      "type": "reasons",
+      "blocks": {
+        "reasons_to_buy_content_rmwz9L": {
+          "type": "_reasons-to-buy-content",
+          "settings": {
+            "heading": "Trusted by Performance-Driven Customers",
+            "heading_tag": "h3",
+            "heading_size": 40,
+            "reasons_mob_heading_size": 28,
+            "heading_color": "#ffffff",
+            "bolded_heading_color": "#ffffff",
+            "heading_use_gradient": true,
+            "heading_gradient_color": "linear-gradient(180deg, rgba(251, 51, 164, 1), rgba(96, 77, 188, 1) 100%)",
+            "headig_padding_top": 0,
+            "headig_padding_bottom": 0,
+            "text": "Delivering comfort, innovation, and protection that customers rely on in every environment.",
+            "text_tag": "p",
+            "text_size": 16,
+            "text_mob_size": 16,
+            "text_color": "#666666",
+            "bolded_text_color": "#000000",
+            "text_use_gradient": false,
+            "text_gradient_color": "",
+            "text_padding_top": 0,
+            "text_padding_bottom": 0,
+            "content_alignment": "left",
+            "content_gap": 21,
+            "content_gap_mobile": 14
+          },
+          "blocks": {}
+        },
+        "reasons_to_buy_product_card_3LG667": {
+          "type": "_reasons-to-buy-product-card",
+          "settings": {
+            "product_url": "#main-product-top",
+            "product_title": "<p><strong>LEQNOX Heat-Reactive Balaclava</strong></p>",
+            "product_description": "",
+            "product_title_font_size": 17,
+            "product_title_color": "#ffffff",
+            "product_description_font_size": 14,
+            "product_description_color": "#ffffff",
+            "card_background_color": "#9b9a9c",
+            "card_has_gradient": false,
+            "card_gradient": "linear-gradient(180deg, rgba(251, 51, 164, 1), rgba(96, 77, 188, 1) 100%)",
+            "product_description_opacity": 70,
+            "arrow_icon_color": "#ffffff",
+            "card_border_radius": 11,
+            "thumbnail_border_radius": 4,
+            "text_content_gap": 10,
+            "text_content_gap_mobile": 11
+          },
+          "blocks": {}
+        },
+        "reasons_to_buy_stats_TQiBR8": {
+          "type": "_reasons-to-buy-stats",
+          "settings": {
+            "content_alignment": "center",
+            "cards_vertical_spacing": 25,
+            "cards_vertical_spacing_mobile": 14,
+            "percentage_number_font_size": 50,
+            "percentage_number_font_size_mobile": 28,
+            "percentage_number_color": "#9b9a9c",
+            "percentage_number_has_gradient": false,
+            "percentage_number_bg": "linear-gradient(180deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
+            "block_heading_size": 24,
+            "block_heading_size_mobile": 14,
+            "block_heading_color": "#000000",
+            "bolded_block_heading_color": "#000000",
+            "block_body_size": 12,
+            "block_body_size_mobile": 14,
+            "block_body_color": "#666666",
+            "bolded_block_body_color": "#666666",
+            "border_color": "#000000"
+          },
+          "blocks": {
+            "reasons_to_buy_stat_t96XrA": {
+              "type": "_reasons-to-buy-stat",
+              "settings": {
+                "row_heading": "<p>Improved Balance Skills</p>",
+                "row_text": "<p>Customers reported improved comfort and protection during outdoor activities, even in cold and windy conditions.</p>",
+                "percentage": 92
+              },
+              "blocks": {}
+            },
+            "reasons_to_buy_stat_Cpcned": {
+              "type": "_reasons-to-buy-stat",
+              "settings": {
+                "row_heading": "<p>Increased Physical Activity</p>",
+                "row_text": "<p>Wearers noticed better breathability and reduced irritation compared to traditional face masks.</p>",
+                "percentage": 87
+              },
+              "blocks": {}
+            },
+            "reasons_to_buy_stat_nEiBpL": {
+              "type": "_reasons-to-buy-stat",
+              "settings": {
+                "row_heading": "<p>Boosted Confidence</p>",
+                "row_text": "<p>Users loved the heat-reactive design and modern look, calling it both functional and stylish.</p>",
+                "percentage": 94
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "reasons_to_buy_stat_t96XrA",
+            "reasons_to_buy_stat_Cpcned",
+            "reasons_to_buy_stat_nEiBpL"
+          ]
+        }
+      },
+      "block_order": [
+        "reasons_to_buy_content_rmwz9L",
+        "reasons_to_buy_product_card_3LG667",
+        "reasons_to_buy_stats_TQiBR8"
+      ],
+      "name": "Reasons to buy",
+      "settings": {
+        "image_height": "small",
+        "image_border_radius": 6,
+        "border_color": "#000000",
+        "border_color_opacity": 5,
+        "color_scheme": "accent-1",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "feature_icons_bDyMKj": {
+      "type": "feature-icons",
+      "blocks": {
+        "column_dnAQVt": {
+          "type": "column",
+          "settings": {
+            "icon": "<svg width=\"91\" height=\"93\" viewbox=\"0 0 91 93\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\r\n <g filter=\"url(#filter0_d_5281_3537)\">\r\n <circle cx=\"45.5\" cy=\"43.5\" r=\"43.5\" fill=\"white\"></circle>\r\n </g>\r\n <path fill=\"none\" d=\"M47.7075 63C46.0929 63 44.5504 62.3267 41.4655 60.9801C37.8648 59.4084 35.1084 58.2052 33.196 57.0798H26M47.7075 63C49.3222 63 50.8647 62.3267 53.9496 60.9801C61.6287 57.6281 65.4683 55.9521 65.4683 53.1329V32.4121M47.7075 63V41.2925M29.9468 32.4121V38.3323\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\r\n <path fill=\"none\" d=\"M40.4575 38.71L34.6928 35.9205C31.5291 34.3897 29.9473 33.6242 29.9473 32.4121C29.9473 31.2 31.5291 30.4345 34.6928 28.9037L40.4575 26.1142C44.0154 24.3926 45.7944 23.5317 47.708 23.5317C49.6216 23.5317 51.4006 24.3926 54.9585 26.1142L60.7232 28.9037C63.8869 30.4345 65.4687 31.2 65.4687 32.4121C65.4687 33.6242 63.8869 34.3897 60.7232 35.9205L54.9585 38.71C51.4006 40.4316 49.6216 41.2925 47.708 41.2925C45.7944 41.2925 44.0154 40.4316 40.4575 38.71Z\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\r\n <path fill=\"none\" d=\"M57.8438 27.5093L37.5781 37.3156\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\r\n <path fill=\"none\" d=\"M26 45.2393H31.9202\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\r\n <path fill=\"none\" d=\"M26 51.1597H31.9202\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\r\n <defs>\r\n <filter id=\"filter0_d_5281_3537\" x=\"0\" y=\"0\" width=\"91\" height=\"93\" filterunits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\r\n <feflood flood-opacity=\"0\" result=\"BackgroundImageFix\"></feflood>\r\n <fecolormatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\" result=\"hardAlpha\"></fecolormatrix>\r\n <feoffset dy=\"4\"></feoffset>\r\n <fegaussianblur stddeviation=\"1\"></fegaussianblur>\r\n <fecomposite in2=\"hardAlpha\" operator=\"out\"></fecomposite>\r\n <fecolormatrix type=\"matrix\" values=\"0 0 0 0 0.856463 0 0 0 0 0.903726 0 0 0 0 0.918269 0 0 0 1 0\"></fecolormatrix>\r\n <feblend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow_5281_3537\"></feblend>\r\n <feblend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow_5281_3537\" result=\"shape\"></feblend>\r\n </filter>\r\n </defs>\r\n </svg>",
+            "title": "",
+            "text": "<p>Worldwide Shipping</p>",
+            "icon_heading_font_size": 24,
+            "icon_heading_color": "#000000",
+            "icon_bolded_heading_color": "#000000",
+            "column_text_size": 16,
+            "column_text_color": "#000000",
+            "column_text_highlighted_color": "#000000",
+            "custom_icon_color": "#000000"
+          }
+        },
+        "column_9dY4yh": {
+          "type": "column",
+          "settings": {
+            "icon": "<svg width=\"91\" height=\"93\" viewbox=\"0 0 91 93\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\r\n <g filter=\"url(#filter0_d_5281_3538)\">\r\n <circle cx=\"45.5\" cy=\"43.5\" r=\"43.5\" fill=\"white\"></circle>\r\n </g>\r\n <path fill=\"none\" d=\"M56.5009 40.9111C56.5009 40.1615 56.5009 39.7866 56.6135 39.453C56.9407 38.4823 57.8052 38.1075 58.6719 37.7131C59.6425 37.269 60.1279 37.048 60.611 37.009C61.157 36.9656 61.7052 37.0826 62.1732 37.3448C62.7929 37.6915 63.2262 38.3545 63.6682 38.8918C65.7114 41.3748 66.734 42.6163 67.1067 43.9835C67.41 45.0885 67.41 46.2455 67.1067 47.3483C66.5629 49.346 64.8404 51.0186 63.5642 52.57C62.912 53.3608 62.5849 53.7573 62.1732 53.9891C61.6972 54.2531 61.1535 54.37 60.611 54.325C60.1279 54.286 59.6425 54.065 58.6697 53.6208C57.803 53.2265 56.9407 52.8516 56.6135 51.881C56.5009 51.5473 56.5009 51.1725 56.5009 50.4228V40.9111ZM34.8342 40.9111C34.8342 39.9665 34.8082 39.1193 34.0455 38.4563C33.7682 38.2158 33.3999 38.049 32.6654 37.7131C31.6925 37.2711 31.2072 37.048 30.724 37.009C29.2789 36.892 28.501 37.88 27.669 38.894C25.6237 41.3748 24.601 42.6163 24.2262 43.9856C23.9246 45.087 23.9246 46.2491 24.2262 47.3505C24.7722 49.346 26.4969 51.0208 27.7709 52.57C28.5747 53.545 29.3439 54.4355 30.724 54.325C31.2072 54.286 31.6925 54.065 32.6654 53.6208C33.402 53.2871 33.7682 53.1181 34.0455 52.8776C34.8082 52.2146 34.8342 51.3675 34.8342 50.425V40.9111Z\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\"></path>\r\n <path fill=\"none\" d=\"M30.502 37C30.502 29.8197 37.2923 24 45.6686 24C54.045 24 60.8353 29.8197 60.8353 37\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"square\" stroke-linejoin=\"round\"></path>\r\n <path fill=\"none\" d=\"M60.8359 54.333V56.0663C60.8359 59.8948 56.9576 62.9997 52.1693 62.9997H47.8359\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\r\n <defs>\r\n <filter id=\"filter0_d_5281_3538\" x=\"0\" y=\"0\" width=\"91\" height=\"93\" filterunits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\r\n <feflood flood-opacity=\"0\" result=\"BackgroundImageFix\"></feflood>\r\n <fecolormatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\" result=\"hardAlpha\"></fecolormatrix>\r\n <feoffset dy=\"4\"></feoffset>\r\n <fegaussianblur stddeviation=\"1\"></fegaussianblur>\r\n <fecomposite in2=\"hardAlpha\" operator=\"out\"></fecomposite>\r\n <fecolormatrix type=\"matrix\" values=\"0 0 0 0 0.856463 0 0 0 0 0.903726 0 0 0 0 0.918269 0 0 0 1 0\"></fecolormatrix>\r\n <feblend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow_5281_3538\"></feblend>\r\n <feblend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow_5281_3538\" result=\"shape\"></feblend>\r\n </filter>\r\n </defs>\r\n </svg>",
+            "title": "",
+            "text": "<p>24/7 Support</p>",
+            "icon_heading_font_size": 24,
+            "icon_heading_color": "#000000",
+            "icon_bolded_heading_color": "#000000",
+            "column_text_size": 16,
+            "column_text_color": "#000000",
+            "column_text_highlighted_color": "#000000",
+            "custom_icon_color": "#000000"
+          }
+        },
+        "column_VRFTkg": {
+          "type": "column",
+          "settings": {
+            "icon": "<svg width=\"91\" height=\"93\" viewbox=\"0 0 91 93\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\r\n <g filter=\"url(#filter0_d_5281_3539)\">\r\n <circle cx=\"45.5\" cy=\"43.5\" r=\"43.5\" fill=\"white\"></circle>\r\n </g>\r\n <path fill=\"none\" d=\"M44.2393 24.2246C44.4789 23.488 45.5211 23.488 45.7607 24.2246L49.2471 34.9541C49.6754 36.2724 50.9039 37.1658 52.29 37.166H63.5723C64.3471 37.1662 64.6689 38.1568 64.042 38.6123L54.915 45.2441C53.7937 46.059 53.3247 47.503 53.7529 48.8213L57.2393 59.5508C57.4787 60.2878 56.6348 60.9008 56.0078 60.4453L46.8809 53.8145C45.7593 52.9996 44.2407 52.9996 43.1191 53.8145L33.9922 60.4453C33.3652 60.9008 32.5213 60.2878 32.7607 59.5508L36.2471 48.8213C36.6753 47.503 36.2063 46.059 35.085 45.2441L25.958 38.6123C25.3311 38.1568 25.6529 37.1662 26.4277 37.166H37.71C39.0961 37.1658 40.3246 36.2724 40.7529 34.9541L44.2393 24.2246Z\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\"></path>\r\n <defs>\r\n <filter id=\"filter0_d_5281_3539\" x=\"0\" y=\"0\" width=\"91\" height=\"93\" filterunits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\r\n <feflood flood-opacity=\"0\" result=\"BackgroundImageFix\"></feflood>\r\n <fecolormatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\" result=\"hardAlpha\"></fecolormatrix>\r\n <feoffset dy=\"4\"></feoffset>\r\n <fegaussianblur stddeviation=\"1\"></fegaussianblur>\r\n <fecomposite in2=\"hardAlpha\" operator=\"out\"></fecomposite>\r\n <fecolormatrix type=\"matrix\" values=\"0 0 0 0 0.856463 0 0 0 0 0.903726 0 0 0 0 0.918269 0 0 0 1 0\"></fecolormatrix>\r\n <feblend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow_5281_3539\"></feblend>\r\n <feblend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow_5281_3539\" result=\"shape\"></feblend>\r\n </filter>\r\n </defs>\r\n </svg>",
+            "title": "",
+            "text": "<p>Verified quality only</p>",
+            "icon_heading_font_size": 24,
+            "icon_heading_color": "#000000",
+            "icon_bolded_heading_color": "#000000",
+            "column_text_size": 16,
+            "column_text_color": "#000000",
+            "column_text_highlighted_color": "#000000",
+            "custom_icon_color": "#000000"
+          }
+        },
+        "column_8WP3Hg": {
+          "type": "column",
+          "settings": {
+            "icon": "<svg width=\"91\" height=\"93\" viewbox=\"0 0 91 93\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\r\n <g filter=\"url(#filter0_d_5118_3448)\">\r\n <circle cx=\"45.5\" cy=\"43.5\" r=\"43.5\" fill=\"white\"></circle>\r\n </g>\r\n <path fill=\"none\" d=\"M52.3774 51.2542H58.6945C61.189 51.2122 65 52.5254 65 57.2618C65 62.1762 60.2973 63 58.6945 63C57.0917 63 41.9551 63 37.5922 63C32.7051 63 26 62.0099 26 53.5773L26 35.7H65V44.5105M52.3774 51.2542C52.3879 50.8371 52.5654 50.4234 52.9101 50.1227L56.2288 47.3525M52.3774 51.2542C52.3662 51.6995 52.5453 52.1486 52.9144 52.4682L56.2288 55.1671\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\r\n <path fill=\"none\" d=\"M26 35.693L27.7975 31.2014C29.2561 27.7107 29.9854 25.9654 31.4637 24.9827C32.9419 24 34.8381 24 38.6304 24H52.3221C56.1145 24 58.0105 24 59.4889 24.9827C60.9672 25.9654 61.6963 27.7107 63.1551 31.2014L65 35.7\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\"></path>\r\n <path fill=\"none\" d=\"M45.5 35.7V24\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\"></path>\r\n <path fill=\"none\" d=\"M41.5996 43.5H49.3996\" stroke=\"rgb(155,154,156)\" stroke-width=\"2.4\" stroke-linecap=\"round\"></path>\r\n <defs>\r\n <filter id=\"filter0_d_5118_3448\" x=\"0\" y=\"0\" width=\"91\" height=\"93\" filterunits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\r\n <feflood flood-opacity=\"0\" result=\"BackgroundImageFix\"></feflood>\r\n <fecolormatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\" result=\"hardAlpha\"></fecolormatrix>\r\n <feoffset dy=\"4\"></feoffset>\r\n <fegaussianblur stddeviation=\"1\"></fegaussianblur>\r\n <fecomposite in2=\"hardAlpha\" operator=\"out\"></fecomposite>\r\n <fecolormatrix type=\"matrix\" values=\"0 0 0 0 0.856463 0 0 0 0 0.903726 0 0 0 0 0.918269 0 0 0 1 0\"></fecolormatrix>\r\n <feblend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow_5118_3448\"></feblend>\r\n <feblend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow_5118_3448\" result=\"shape\"></feblend>\r\n </filter>\r\n </defs>\r\n </svg>",
+            "title": "",
+            "text": "<p>Hassle-free returns</p>",
+            "icon_heading_font_size": 24,
+            "icon_heading_color": "#000000",
+            "icon_bolded_heading_color": "#000000",
+            "column_text_size": 16,
+            "column_text_color": "#000000",
+            "column_text_highlighted_color": "#000000",
+            "custom_icon_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "column_dnAQVt",
+        "column_9dY4yh",
+        "column_VRFTkg",
+        "column_8WP3Hg"
+      ],
+      "name": "Icon guarantees",
+      "settings": {
+        "title": "Benefits You'll Love",
+        "text": "",
+        "columns_desktop": 4,
+        "padding_horizontal_desktop": 50,
+        "columns_mobile": "2",
+        "heading_size": 20,
+        "heading_mob_size": 28,
+        "heading_color": "#000000",
+        "bolded_heading_color": "#000000",
+        "heading_use_gradient": false,
+        "heading_gradient_color": "",
+        "body_size": 16,
+        "body_color": "#000000",
+        "bolded_body_color": "#000000",
+        "icon_size": "medium",
+        "icon_card_vertical_padding_desktop": 25,
+        "icon_card_horizontal_padding_desktop": 25,
+        "icon_card_vertical_padding_mobile": 25,
+        "icon_card_horizontal_padding_mobile": 25,
+        "swipe_on_mobile": false,
+        "background_style": "primary",
+        "card_color_scheme": "accent-2",
+        "color_scheme": "accent-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "comparison_table_aJbwDw": {
+      "type": "comparison-table",
+      "blocks": {
+        "comparison_table_content_AdAJjr": {
+          "type": "_comparison-table-content",
+          "settings": {
+            "content_heading": "Unmatched Comfort. Engineered Quality",
+            "body_content": "<p>LEQNOX balaclavas are crafted from premium, skin-friendly materials designed for all-day comfort. Soft, breathable, and precision-engineered, each piece adapts to your body heat while maintaining a smooth, irritation-free fit. This is performance wear built for comfort — and elevated by innovation</p>",
+            "content_alignment": "center",
+            "heading_size": 40,
+            "heading_mob_size": 25,
+            "heading_color": "#ffffff",
+            "bolded_heading_color": "#ffffff",
+            "heading_use_gradient": false,
+            "heading_gradient_color": "",
+            "body_size": 12,
+            "body_mob_size": 16,
+            "body_color": "#ffffff",
+            "bolded_body_color": "#757575"
+          },
+          "blocks": {}
+        },
+        "comparison_table_6b4tTK": {
+          "type": "_comparison-table",
+          "settings": {
+            "table_border_color": "#e9e8ea",
+            "table_border_opacity": 15,
+            "self_cells_background_color": "#ffffff",
+            "self_cells_background_opacity": 27,
+            "enable_product_column_custom_border": false,
+            "product_column_custom_border_color": "#000000",
+            "product_column_custom_border_opacity": 100,
+            "product_column_custom_border_width": 1,
+            "product_column_custom_border_radius": 10,
+            "enable_product_column_shadow": false,
+            "product_column_shadow_color": "#c8c8c8",
+            "product_column_shadow_opacity": 60
+          },
+          "blocks": {
+            "comparison_table_header_YrHWqN": {
+              "type": "_comparison-table-header",
+              "settings": {
+                "show_brand_name": true,
+                "us_label": "",
+                "other_brands_label": "Others",
+                "logo_width": 90,
+                "mobile_logo_width": 60,
+                "other_brands_logo_width": 74,
+                "other_brands_mobile_logo_width": 60,
+                "cell_header_brand_text_size": 16,
+                "cell_header_brand_text_color": "#ffffff",
+                "cell_header_competitor_text_size": 16,
+                "cell_header_competitor_text_color": "#757575"
+              },
+              "blocks": {}
+            },
+            "comparison_table_rows_eAMYAB": {
+              "type": "_comparison-table-rows",
+              "settings": {
+                "benefits_desktop_size": 16,
+                "benefits_mobile_size": 14,
+                "bold_features_text": false,
+                "icon_cells_background_color": "rgba(0,0,0,0)",
+                "features_background_color": "rgba(0,0,0,0)",
+                "product_column_border_top_color": "rgba(0,0,0,0)",
+                "enable_product_column_border_top_gradient": false,
+                "product_column_border_top_gradient": "linear-gradient(180deg, rgba(251,51,164, 1), rgba(96,77,188, 1) 100%)",
+                "product_column_border_opacity": 100
+              },
+              "blocks": {
+                "comparison_table_row_tWR37V": {
+                  "type": "_comparison-table-row",
+                  "settings": {
+                    "benefit": "Premium heat-reactive fabric",
+                    "us": true,
+                    "others": false,
+                    "feature_text_color": "#ffffff",
+                    "heading_highlighted_color": "#ffffff",
+                    "benefit_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"></path></svg>",
+                    "benefit_icon_size": 20,
+                    "benefit_icon_color": "#ffffff"
+                  },
+                  "blocks": {}
+                },
+                "comparison_table_row_zH7YnA": {
+                  "type": "_comparison-table-row",
+                  "settings": {
+                    "benefit": "Ultra-soft, skin-safe materials",
+                    "us": true,
+                    "others": false,
+                    "feature_text_color": "#ffffff",
+                    "heading_highlighted_color": "#ffffff",
+                    "benefit_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"></path></svg>",
+                    "benefit_icon_size": 20,
+                    "benefit_icon_color": "#ffffff"
+                  },
+                  "blocks": {}
+                },
+                "comparison_table_row_iDh4NQ": {
+                  "type": "_comparison-table-row",
+                  "settings": {
+                    "benefit": "Breathable, all-day comfort",
+                    "us": true,
+                    "others": false,
+                    "feature_text_color": "#ffffff",
+                    "heading_highlighted_color": "#ffffff",
+                    "benefit_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"></path></svg>",
+                    "benefit_icon_size": 20,
+                    "benefit_icon_color": "#ffffff"
+                  },
+                  "blocks": {}
+                },
+                "comparison_table_row_tnKxkX": {
+                  "type": "_comparison-table-row",
+                  "settings": {
+                    "benefit": "Precision tailoring for perfect fit",
+                    "us": true,
+                    "others": false,
+                    "feature_text_color": "#ffffff",
+                    "heading_highlighted_color": "#ffffff",
+                    "benefit_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"></path></svg>",
+                    "benefit_icon_size": 20,
+                    "benefit_icon_color": "#ffffff"
+                  },
+                  "blocks": {}
+                },
+                "comparison_table_row_T4yT8W": {
+                  "type": "_comparison-table-row",
+                  "settings": {
+                    "benefit": "Durable, high-quality construction",
+                    "us": true,
+                    "others": false,
+                    "feature_text_color": "#ffffff",
+                    "heading_highlighted_color": "#ffffff",
+                    "benefit_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m344-60-76-128-144-32 14-148-98-112 98-112-14-148 144-32 76-128 136 58 136-58 76 128 144 32-14 148 98 112-98 112 14 148-144 32-76 128-136-58-136 58Zm94-278 226-226-56-58-170 170-86-84-56 56 142 142Z\"></path></svg>",
+                    "benefit_icon_size": 20,
+                    "benefit_icon_color": "#ffffff"
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "comparison_table_row_tWR37V",
+                "comparison_table_row_zH7YnA",
+                "comparison_table_row_iDh4NQ",
+                "comparison_table_row_tnKxkX",
+                "comparison_table_row_T4yT8W"
+              ]
+            }
+          },
+          "block_order": [
+            "comparison_table_header_YrHWqN",
+            "comparison_table_rows_eAMYAB"
+          ]
+        }
+      },
+      "block_order": [
+        "comparison_table_content_AdAJjr",
+        "comparison_table_6b4tTK"
+      ],
+      "name": "Comparison table",
+      "settings": {
+        "button_label": "Shop Now - Experience Yourself",
+        "link": "shopify://products/heat-reactive-balaclava",
+        "button_text_size": 12,
+        "button_text_color": "#ffffff",
+        "button_background_color": "#1d1a2d",
+        "button_border_radius": 9,
+        "button_border_width": 0,
+        "button_border_color": "#000000",
+        "button_padding_vertical": 16,
+        "button_width_increase_desktop": 69,
+        "button_width_increase_mobile": 95,
+        "icon_size": 22,
+        "checkmark_color": "#ffffff",
+        "x_color": "#ffffff",
+        "checkmark_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Z\"></path></svg>",
+        "x_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewbox=\"0 -960 960 960\" width=\"24px\" fill=\"#ffffff\"><path d=\"m336-280 144-144 144 144 56-56-144-144 144-144-56-56-144 144-144-144-56 56 144 144-144 144 56 56ZM480-80q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Z\"></path></svg>",
+        "color_scheme": "accent-3",
+        "section_padding_top_desktop": 36,
+        "section_padding_bottom_desktop": 36
+      }
+    },
+    "testimonials_AiHw4G": {
+      "type": "testimonials",
+      "blocks": {
+        "slide_fGYqHP": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Highly Recommend”</strong>",
+            "review_text": "If you want something comfortable, stylish, and different from regular masks, this is it. I’m ordering another one.",
+            "review_name": "Natalie W.",
+            "author_name_color": "#000000",
+            "highlight_review": true,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_4A6368": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Great Face Coverage”</strong>",
+            "review_text": "Covers my face and neck perfectly against wind and dust. Ideal for riding and outdoor work.",
+            "review_name": "Mohammed Z.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_9jPhnp": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Top Quality Feel”</strong>",
+            "review_text": "Material feels durable and premium. After multiple washes it still looks brand new.",
+            "review_name": "Ryan C.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_F4Gttp": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Unique & Functional”</strong>",
+            "review_text": "The heat-reactive feature is not just for looks—it actually shows how your body heat changes. Very cool and practical.",
+            "review_name": "Lina H.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_P4zkjy": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Comfort All Day”</strong>",
+            "review_text": "Wore it for an entire work shift outdoors and forgot I even had it on. No discomfort at all.",
+            "review_name": "Kevin B.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_CDDxkh": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“All-Weather Ready”</strong>",
+            "review_text": "Works great in cold and still breathable when it’s not freezing. One of the most versatile pieces of gear I own.",
+            "review_name": "<strong> Arjun P.</strong>",
+            "author_name_color": "#000000",
+            "highlight_review": true,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_Kknxrx": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Better Than Expected”</strong>",
+            "review_text": "I was worried it would feel cheap, but it’s actually very well made. Great for cold mornings and evening walks.",
+            "review_name": "Sofia L.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_WMizyP": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Looks Premium”</strong>",
+            "review_text": "Honestly feels like high-end gear. The heat-reactive design gets noticed and I’ve had people ask where I bought it.",
+            "review_name": "Daniel M.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_pPnWHJ": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Soft and Breathable”</strong>",
+            "review_text": "The fabric feels really smooth on the skin. No itching, no tight pressure, just a clean comfortable fit.",
+            "review_name": "Priya S.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_DBRzFw": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Great Winter Gear”</strong>",
+            "review_text": "Used it while hiking in cold weather and it performed amazingly. Stayed comfortable even after hours outside.",
+            "review_name": "Marcus T.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_Q8dAQp": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Warm Without Bulk”</strong>",
+            "review_text": "Lightweight but surprisingly warm. I hate thick masks, and this one is exactly what I was looking for.",
+            "review_name": "Ahmed R.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_Wcwxbj": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Perfect for Riding”</strong>",
+            "review_text": "Blocks wind completely while still letting me breathe easily. I use it on my motorcycle every day now.",
+            "review_name": "Jason K.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 16,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_8RKUzj": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "\"Stylish & Warm\"",
+            "review_text": "I didn’t expect a balaclava to look this good. The heat-reactive effect is subtle but really cool, and it keeps me warm without feeling heavy. Perfect for early morning rides.",
+            "review_name": "Emily A.",
+            "author_name_color": "#1e1e1e",
+            "highlight_review": true,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 16,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_BVamxE": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Next-Level Comfort”</strong>",
+            "review_text": "Super soft and breathable. I’ve worn it for long rides and never felt irritated or overheated. The color change is a great bonus.",
+            "review_name": "Will I.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 16,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        },
+        "slide_VVaXmX": {
+          "type": "slide",
+          "settings": {
+            "review_heading": "<strong>“Love the Design”</strong>",
+            "review_text": "The heat-reactive pattern makes it stand out from any other mask I’ve owned. Fits perfectly and feels premium.",
+            "review_name": "Denisa N.",
+            "author_name_color": "#000000",
+            "highlight_review": false,
+            "num_stars": 5,
+            "review_star_size": 20,
+            "review_slide_heading_size": 20,
+            "review_heading_color": "#000000",
+            "review_bolded_heading_color": "#000000",
+            "review_slide_text_size": 15,
+            "review_body_color": "#000000",
+            "review_bolded_body_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "slide_fGYqHP",
+        "slide_4A6368",
+        "slide_9jPhnp",
+        "slide_F4Gttp",
+        "slide_P4zkjy",
+        "slide_CDDxkh",
+        "slide_Kknxrx",
+        "slide_WMizyP",
+        "slide_pPnWHJ",
+        "slide_DBRzFw",
+        "slide_Q8dAQp",
+        "slide_Wcwxbj",
+        "slide_8RKUzj",
+        "slide_BVamxE",
+        "slide_VVaXmX"
+      ],
+      "settings": {
+        "section_heading": "Join over 3,000+ Happy Customers",
+        "show_navigation_buttons": true,
+        "show_overall_rating": true,
+        "overall_rating_text": "4.8 | 3768 Customers",
+        "overall_rating_value": 4.8,
+        "show_opacity_on_inactive_slides": false,
+        "heading_font_size": 35,
+        "mobile_heading_font_size": 25,
+        "heading_color": "#ffffff",
+        "bolded_heading_color": "#ffffff",
+        "heading_use_gradient": true,
+        "heading_gradient_color": "",
+        "color_scheme": "accent-1",
+        "overall_rating_star_size": 16,
+        "star_color": "#ffffff",
+        "overall_rating_text_size": 14,
+        "overall_rating_text_color": "#ffffff",
+        "overall_rating_background_color": "#9b9a9c",
+        "overall_rating_use_gradient": false,
+        "overall_rating_gradient_color": "linear-gradient(160deg, rgba(251, 51, 164, 1), rgba(96, 77, 188, 1) 100%)",
+        "overall_rating_border_radius": 3,
+        "slide_box_shadow": false,
+        "slide_background_color": "#e9e8ea",
+        "navigation_button_size": 35,
+        "navgiation_button_background_color": "#ffffff",
+        "left_right_icon_color": "#000000",
+        "navigation_button_border_color": "#000000",
+        "navigation_button_border_opacity": 50,
+        "navigation_button_border_width": 1,
+        "progress_bar_color": "#000000",
+        "author_thumbnail_size": 66,
+        "author_thumbnail_border_color": "#ffffff",
+        "author_thumbnail_border_width": 2,
+        "review_slide_icon_color": "#000000",
+        "highlight_color_scheme": "accent-3",
+        "highlight_review_icon_color": "#ffffff",
+        "highlight_review_heading_color": "#ffffff",
+        "highlight_review_bolded_heading_color": "#000000",
+        "highlight_review_body_color": "#ffffff",
+        "highlight_review_bolded_body_color": "#ffffff",
+        "highlight_review_name_color": "#ffffff",
+        "section_padding_top": 24,
+        "section_padding_bottom": 36
+      }
+    },
+    "contact_form_3MgtG3": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "heading": "Reach Out Any Time",
+        "image_height": "adapt",
+        "heading_alignment": "left",
+        "image_first_desktop": false,
+        "image_first_mobile": false,
+        "content_gap_desktop": 35,
+        "content_gap_mobile": 14,
+        "space_between_heading_and_form_desktop": 20,
+        "space_between_heading_and_form_mobile": 14,
+        "content_align_desktop": "flex-start",
+        "content_align_mobile": "flex-start",
+        "contact_image_width_desktop": 500,
+        "contact_image_border_radius": 10,
+        "heading_font_size": 40,
+        "heading_mob_font_size": 28,
+        "heading_color": "#ffffff",
+        "bolded_heading_color": "#ffffff",
+        "heading_use_gradient": true,
+        "heading_gradient_color": "linear-gradient(180deg, rgba(251, 51, 164, 1), rgba(127, 72, 176, 1) 50%, rgba(48, 145, 211, 1) 100%)",
+        "color_scheme": "accent-1",
+        "input_background_color": "#e9e8ea",
+        "input_text_color": "#1d1a2d",
+        "placeholder_color": "#686868",
+        "input_border_radius": 6,
+        "input_border": false,
+        "borders_color": "#000000",
+        "borders_opacity": 10,
+        "button_text": "Send Message",
+        "button_full_width": true,
+        "button_font_size": 12,
+        "button_background_color": "#1d1a2d",
+        "button_text_color": "#ffffff",
+        "button_border_radius": 6,
+        "button_padding_horizontal": 24,
+        "button_padding_vertical": 8,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "borders_3FGUCr": {
+      "type": "borders",
+      "name": "t:sections.borders.name",
+      "settings": {
+        "shape": "curved",
+        "border_size": "90",
+        "flip_horizontal": true,
+        "flip_vertical": false,
+        "shape_color": "base-accent-2",
+        "enable_custom_shape_color": true,
+        "custom_shape_color": "#383838",
+        "background_color": "base-accent-1",
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
+    }
+  },
+  "order": [
+    "main",
+    "horizontal_scrolling_text_mgft6H",
+    "video_wLm7Hz",
+    "reasons_GqYHik",
+    "feature_icons_bDyMKj",
+    "comparison_table_aJbwDw",
+    "testimonials_AiHw4G",
+    "contact_form_3MgtG3",
+    "borders_3FGUCr"
+  ]
+}
