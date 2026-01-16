@@ -910,14 +910,14 @@
         "padding_bottom": 0
       }
     },
-    "comparison_table_jRgDad": {
+    "comparison_table_aJbwDw": {
       "type": "comparison-table",
       "blocks": {
-        "comparison_table_content_fnCAKh": {
+        "comparison_table_content_AdAJjr": {
           "type": "_comparison-table-content",
           "settings": {
-            "content_heading": "Unmatched Bounce Experience",
-            "body_content": "<p>Discover a playful companion that combines safety, fun, and fitness, encouraging active play while enhancing balance and creativity, setting the standard well above conventional toys.</p>",
+            "content_heading": "Unmatched Comfort. Engineered Quality",
+            "body_content": "<p>LEQNOX balaclavas are crafted from premium, skin-friendly materials designed for all-day comfort. Soft, breathable, and precision-engineered, each piece adapts to your body heat while maintaining a smooth, irritation-free fit. This is performance wear built for comfort — and elevated by innovation</p>",
             "content_alignment": "center",
             "heading_size": 40,
             "heading_mob_size": 25,
@@ -932,7 +932,7 @@
           },
           "blocks": {}
         },
-        "comparison_table_xjzrcn": {
+        "comparison_table_6b4tTK": {
           "type": "_comparison-table",
           "settings": {
             "table_border_color": "#c4c4c4",
@@ -949,7 +949,7 @@
             "product_column_shadow_opacity": 60
           },
           "blocks": {
-            "comparison_table_header_mTxkNP": {
+            "comparison_table_header_YrHWqN": {
               "type": "_comparison-table-header",
               "settings": {
                 "show_brand_name": true,
@@ -966,7 +966,7 @@
               },
               "blocks": {}
             },
-            "comparison_table_rows_CqtQBD": {
+            "comparison_table_rows_eAMYAB": {
               "type": "_comparison-table-rows",
               "settings": {
                 "benefits_desktop_size": 16,
@@ -976,14 +976,14 @@
                 "features_background_color": "rgba(0,0,0,0)",
                 "product_column_border_top_color": "rgba(0,0,0,0)",
                 "enable_product_column_border_top_gradient": false,
-                "product_column_border_top_gradient": "linear-gradient(180deg, rgba(251,51,164, 1) 0%, rgba(96,77,188, 1) 100%)",
+                "product_column_border_top_gradient": "linear-gradient(180deg, rgba(251,51,164, 1), rgba(96,77,188, 1) 100%)",
                 "product_column_border_opacity": 100
               },
               "blocks": {
-                "comparison_table_row_V99iCa": {
+                "comparison_table_row_tWR37V": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Anti-Burst Safety",
+                    "benefit": "Premium heat-reactive fabric",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
@@ -994,10 +994,10 @@
                   },
                   "blocks": {}
                 },
-                "comparison_table_row_DmxHFa": {
+                "comparison_table_row_zH7YnA": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Height-Adjustable",
+                    "benefit": "Ultra-soft, skin-safe materials",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
@@ -1008,10 +1008,10 @@
                   },
                   "blocks": {}
                 },
-                "comparison_table_row_NVarfW": {
+                "comparison_table_row_iDh4NQ": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Highly Portable",
+                    "benefit": "Breathable, all-day comfort",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
@@ -1022,10 +1022,10 @@
                   },
                   "blocks": {}
                 },
-                "comparison_table_row_CUTdVe": {
+                "comparison_table_row_tnKxkX": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Engaging Colors",
+                    "benefit": "Precision tailoring for perfect fit",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
@@ -1036,10 +1036,10 @@
                   },
                   "blocks": {}
                 },
-                "comparison_table_row_9h4G7T": {
+                "comparison_table_row_T4yT8W": {
                   "type": "_comparison-table-row",
                   "settings": {
-                    "benefit": "Boosts Confidence",
+                    "benefit": "Durable, high-quality construction",
                     "us": true,
                     "others": false,
                     "feature_text_color": "#ffffff",
@@ -1052,28 +1052,28 @@
                 }
               },
               "block_order": [
-                "comparison_table_row_V99iCa",
-                "comparison_table_row_DmxHFa",
-                "comparison_table_row_NVarfW",
-                "comparison_table_row_CUTdVe",
-                "comparison_table_row_9h4G7T"
+                "comparison_table_row_tWR37V",
+                "comparison_table_row_zH7YnA",
+                "comparison_table_row_iDh4NQ",
+                "comparison_table_row_tnKxkX",
+                "comparison_table_row_T4yT8W"
               ]
             }
           },
           "block_order": [
-            "comparison_table_header_mTxkNP",
-            "comparison_table_rows_CqtQBD"
+            "comparison_table_header_YrHWqN",
+            "comparison_table_rows_eAMYAB"
           ]
         }
       },
       "block_order": [
-        "comparison_table_content_fnCAKh",
-        "comparison_table_xjzrcn"
+        "comparison_table_content_AdAJjr",
+        "comparison_table_6b4tTK"
       ],
       "name": "Comparison table",
       "settings": {
-        "button_label": "Shop Now",
-        "link": "#main-product-top",
+        "button_label": "Shop Now - Experience Yourself",
+        "link": "shopify://products/heat-reactive-balaclava",
         "button_text_size": 12,
         "button_text_color": "#ffffff",
         "button_background_color": "#1d1a2d",
@@ -1369,7 +1369,7 @@
     "video_wLm7Hz",
     "reasons_GqYHik",
     "feature_icons_bDyMKj",
-    "comparison_table_jRgDad",
+    "comparison_table_aJbwDw",
     "testimonials_AiHw4G",
     "key_features_7pxUnn",
     "contact_form_3MgtG3"
