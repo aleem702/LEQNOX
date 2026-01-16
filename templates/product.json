@@ -1430,104 +1430,6 @@
         "section_padding_bottom": 36
       }
     },
-    "key_features_7pxUnn": {
-      "type": "key-features",
-      "blocks": {
-        "key_features_list_Xc6fAU": {
-          "type": "_key-features-list",
-          "settings": {
-            "card_list_item_title_font_size_desktop": 16,
-            "card_list_item_title_font_size_mobile": 14,
-            "card_list_item_title_color": "#ffffff",
-            "card_list_item_text_font_size_desktop": 14,
-            "card_list_item_text_font_size_mobile": 12,
-            "card_list_item_text_color": "#eaeaea",
-            "card_list_item_badge_font_size_desktop": 13,
-            "card_list_item_badge_font_size_mobile": 12,
-            "card_list_item_badge_color": "#1e1e1e",
-            "card_list_item_badge_background_color": "#ffffff",
-            "badge_has_border": true,
-            "badge_border_color": "#ffffff",
-            "badge_border_width": 1,
-            "card_list_item_badge_border_radius": 140,
-            "card_list_item_badge_padding_vertical": 3,
-            "card_list_item_badge_padding_horizontal": 10,
-            "card_list_item_left_line_color": "#ffffff",
-            "card_list_item_left_line_has_gradient": false,
-            "card_list_item_left_line_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
-            "card_list_item_left_line_opacity": 60,
-            "card_list_item_left_line_width": 1,
-            "card_list_arrow_size": 18,
-            "card_list_item_arrow_color": "#ffffff",
-            "card_list_item_arrow_opacity": 60
-          },
-          "blocks": {
-            "key_feature_item_F7dqcy": {
-              "type": "_key-feature-item",
-              "name": "Key feature",
-              "settings": {
-                "badge": "<p>First Benefit</p>",
-                "title": "<p>Sturdy, Anti-Burst Design</p>",
-                "text": "<p>Ensures safety and durability during playtime.</p>"
-              },
-              "blocks": {}
-            },
-            "key_feature_item_cLXVex": {
-              "type": "_key-feature-item",
-              "name": "Key feature",
-              "settings": {
-                "badge": "<p>Second Benefit</p>",
-                "title": "<p>Height-Adjustable Handle</p>",
-                "text": "<p>Grows alongside your child for lasting fun.</p>"
-              },
-              "blocks": {}
-            },
-            "key_feature_item_tVe83r": {
-              "type": "_key-feature-item",
-              "name": "Key feature",
-              "settings": {
-                "badge": "<p>Third Benefit </p>",
-                "title": "<p>Lightweight and Portable</p>",
-                "text": "<p>Easily transportable for endless bouncing adventures.</p>"
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "key_feature_item_F7dqcy",
-            "key_feature_item_cLXVex",
-            "key_feature_item_tVe83r"
-          ]
-        }
-      },
-      "block_order": [
-        "key_features_list_Xc6fAU"
-      ],
-      "name": "Product key features",
-      "settings": {
-        "card_title": "<p>Benefits of Active Playtime</p>",
-        "image_height": "small",
-        "card_title_font_size_desktop": 35,
-        "card_title_font_size_mobile": 25,
-        "card_title_color": "#ffffff",
-        "card_title_color_bold": "#ffffff",
-        "card_title_use_gradient": false,
-        "card_title_color_bold_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
-        "card_max_width": 1600,
-        "card_gap_desktop": 60,
-        "card_gap_mobile": 30,
-        "card_border_radius": 5,
-        "card_top_padding": 16,
-        "card_bottom_padding": 16,
-        "card_left_padding": 16,
-        "card_right_padding": 16,
-        "card_image_border_radius": 8,
-        "card_color_scheme": "accent-3",
-        "color_scheme": "custom-color-1",
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
     "contact_form_3MgtG3": {
       "type": "contact-form",
       "name": "t:sections.contact-form.presets.name",
@@ -1580,7 +1482,6 @@
     "feature_icons_bDyMKj",
     "comparison_table_aJbwDw",
     "testimonials_AiHw4G",
-    "key_features_7pxUnn",
     "contact_form_3MgtG3"
   ]
 }
