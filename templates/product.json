@@ -254,20 +254,6 @@
               },
               "block_order": []
             },
-            "divider_XjYQhi": {
-              "type": "divider",
-              "name": "Divider",
-              "settings": {
-                "divider_height": 1,
-                "divider_color": "#000000",
-                "divider_opacity": 20,
-                "padding_top": 10,
-                "padding_bottom": 10,
-                "padding_top_mobile": 10,
-                "padding_bottom_mobile": 10
-              },
-              "blocks": {}
-            },
             "variant_picker_cca4P7": {
               "type": "variant_picker",
               "name": "Variant Picker",
@@ -593,7 +579,6 @@
             "title_9cUzFz",
             "price_rNLTVV",
             "bullet_point_benefits_L9Ekdy",
-            "divider_XjYQhi",
             "variant_picker_cca4P7",
             "quantity_selector_BqH8Bi",
             "social_proof_t6FNkr",
