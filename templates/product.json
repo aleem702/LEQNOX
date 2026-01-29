@@ -701,28 +701,6 @@
           },
           "blocks": {}
         },
-        "reasons_to_buy_product_card_3LG667": {
-          "type": "_reasons-to-buy-product-card",
-          "settings": {
-            "product_url": "#main-product-top",
-            "product_title": "<p><strong>LEQNOX Heat-Reactive Balaclava</strong></p>",
-            "product_description": "",
-            "product_title_font_size": 17,
-            "product_title_color": "#ffffff",
-            "product_description_font_size": 14,
-            "product_description_color": "#ffffff",
-            "card_background_color": "#9b9a9c",
-            "card_has_gradient": false,
-            "card_gradient": "linear-gradient(180deg, rgba(251, 51, 164, 1), rgba(96, 77, 188, 1) 100%)",
-            "product_description_opacity": 70,
-            "arrow_icon_color": "#ffffff",
-            "card_border_radius": 11,
-            "thumbnail_border_radius": 4,
-            "text_content_gap": 10,
-            "text_content_gap_mobile": 11
-          },
-          "blocks": {}
-        },
         "reasons_to_buy_stats_TQiBR8": {
           "type": "_reasons-to-buy-stats",
           "settings": {
@@ -782,7 +760,6 @@
       },
       "block_order": [
         "reasons_to_buy_content_rmwz9L",
-        "reasons_to_buy_product_card_3LG667",
         "reasons_to_buy_stats_TQiBR8"
       ],
       "name": "Reasons to buy",
